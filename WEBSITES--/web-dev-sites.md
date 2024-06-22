@@ -30,8 +30,8 @@
 > **[__BG-patterns__ :](https://superdesigner.co/tools/css-backgrounds)**
 
 > **[__animated-background__ :](https://wweb.dev/resources/animated-css-background-generator)**
->
-> > **[__BG-glass-generator__ :](https://css.glass/)**
+
+> **[__BG-glass-generator__ :](https://css.glass/)**
 
 ----
 <br>
