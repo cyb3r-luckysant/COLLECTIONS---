@@ -23,6 +23,8 @@
 
 > **[__BG-generator__ :](https://www.css-gradient.com/)**
 
+> **[__BG-generators__ :](https://bgjar.com/)** 
+
 > **[__BG-generator__ :](https://mycolor.space/gradient)**
 
 > **[__BG-patterns__ :](https://www.magicpattern.design/tools/css-backgrounds)**
@@ -39,23 +41,11 @@
 ---
 > **💾all tool in one website**
 
-> **[__Gradient Generator__ :](https://cssgenerator.pl/en/gradient-generator/)**
+> **[__tool__ :](https://cssgenerator.pl/en/gradient-generator/)**
 
-> **[__Gradient Generator__ :](https://cssgenerator.pl/en/gradient-generator/)**
+> **[__tool__ :](https://html-css-js.com/css/generator/background/)**
 
-> **[__Gradient Generator__ :](https://cssgenerator.pl/en/gradient-generator/)**
-
-----
-<br>
-
----
-> **💾Programming on python, shell**
-
-> **🗂️I'm interested cybersecurity**
-
-> **📦Coding on: python, shell**
-
-> **[__START HOSTER__ :](https://github.com/Euronymou5/Doxxer-Toolkit#instalacion)**
+> **[__tool__ :](https://cssgenerator.pl/en/gradient-generator/)**
 
 ----
 <br>
@@ -94,3 +84,20 @@
 > **[__START HOSTER__ :](https://github.com/Euronymou5/Doxxer-Toolkit#instalacion)**
 
 ----
+<br>
+
+---
+> **💾Programming on python, shell**
+
+> **🗂️I'm interested cybersecurity**
+
+> **📦Coding on: python, shell**
+
+> **[__START HOSTER__ :](https://github.com/Euronymou5/Doxxer-Toolkit#instalacion)**
+
+----
+
+
+https://webcode.tools/css-generator/background-image
+
+https://angrytools.com/css-generator/background/
