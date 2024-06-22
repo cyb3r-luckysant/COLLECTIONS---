@@ -19,9 +19,15 @@
 
 > **🗂️Beautiful pure CSS background patterns that you can actually use in your projects!**
 
-> **[__START HOSTER__ :](https://github.com/Euronymou5/Doxxer-Toolkit#instalacion)**
+> **[__BG-generator__ :](https://cssgradient.io/)**
 
-> **[__START HOSTER__ :](https://github.com/Euronymou5/Doxxer-Toolkit#instalacion)**
+> **[__BG-generator__ :](https://www.css-gradient.com/)**
+
+> **[__BG-generator__ :](https://mycolor.space/gradient)**
+
+> **[__BG-patterns__ :](https://www.magicpattern.design/tools/css-backgrounds)**
+
+> **[__BG-patterns__ :](https://superdesigner.co/tools/css-backgrounds)**
 
 ----
 <br>
