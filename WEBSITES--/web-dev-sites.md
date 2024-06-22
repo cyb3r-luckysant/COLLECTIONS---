@@ -17,7 +17,7 @@
 ---
 > **💾 As a free css gradient generator tool, this website lets you create a colorful gradient background for your website, blog, or social media profile**
 
-> **🗂️I'm interested cybersecurity**
+> **🗂️Beautiful pure CSS background patterns that you can actually use in your projects!**
 
 > **📦Coding on: python, shell**
 
