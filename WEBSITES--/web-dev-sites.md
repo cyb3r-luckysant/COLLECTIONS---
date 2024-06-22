@@ -29,17 +29,21 @@
 
 > **[__BG-patterns__ :](https://superdesigner.co/tools/css-backgrounds)**
 
+> **[__animated-background__ :](https://wweb.dev/resources/animated-css-background-generator)**
+>
+> > **[__BG-glass-generator__ :](https://css.glass/)**
+
 ----
 <br>
 
 ---
-> **💾Programming on python, shell**
+> **💾all tool in one website**
 
-> **🗂️I'm interested cybersecurity**
+> **[__Gradient Generator__ :](https://cssgenerator.pl/en/gradient-generator/)**
 
-> **📦Coding on: python, shell**
+> **[__Gradient Generator__ :](https://cssgenerator.pl/en/gradient-generator/)**
 
-> **[__START HOSTER__ :](https://github.com/Euronymou5/Doxxer-Toolkit#instalacion)**
+> **[__Gradient Generator__ :](https://cssgenerator.pl/en/gradient-generator/)**
 
 ----
 <br>
