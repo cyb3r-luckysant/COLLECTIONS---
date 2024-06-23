@@ -57,9 +57,15 @@
 
 > **📦**
 
-> **[__START HOSTER__ :](https://github.com/Euronymou5/Doxxer-Toolkit#instalacion)**
+> **[__Bootstrap forms__ :](https://mdbootstrap.com/docs/standard/forms/overview/)**
 
-> **[__START HOSTER__ :](https://github.com/Euronymou5/Doxxer-Toolkit#instalacion)**
+> **[__Bootstrap Styles__ :](https://rstudio.github.io/DT/005-bootstrap.html)**
+
+> **[__Bootstrap themes__ :](https://bootswatch.com/)**
+
+>  **[__Bootstrap Styles__ :](https://icons.getbootstrap.com/icons/magic/)**
+
+> **[__Bootstrap Styles__ :](https://pikock.github.io/bootstrap-magic/)** 
 
 ----
 <br>
