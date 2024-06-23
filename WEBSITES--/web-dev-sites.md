@@ -126,9 +126,22 @@
 >  **[__CSS BORDER-RADIUS__ :](https://generus.netlify.app/)**
 >
 > **[__CSS shadows__ :](https://smoothshadows.com/)**
+>
+> **[__CSS Shape Generator__ :](https://www.shapedivider.app/)**
+>
+> **[__CSS__ :](https://webgradients.com/)**
+>
+> **[__CSS shapes__ :](https://www.blobmaker.app/)**
+>
+> **[__CSS text__ :](https://loremipsum.io/)**
+>
+> **[__CSS text__ :](https://fonts.google.com/)**
+>
+> **[__CSS animetion__ :](https://animista.net/play/basic/rotate/rotate-center)**
+>
+> **[__CSS waves _ :](https://getwaves.io/)**
 
-
-
+> **[__CSS box-shadow__ :](https://getcssscan.com/css-box-shadow-examples)**
 
 ----
 <br>
