@@ -65,7 +65,17 @@
 
 >  **[__Bootstrap Styles__ :](https://icons.getbootstrap.com/icons/magic/)**
 
-> **[__Bootstrap Styles__ :](https://pikock.github.io/bootstrap-magic/)** 
+> **[__Bootstrap Styles__ :](https://pikock.github.io/bootstrap-magic/)**
+
+> **[__Bootstrap builder__ :](https://pingendo.com/)**
+
+> **[__Bootstrap Studio__ :](https://bootstrapstudio.io/)**
+
+> **[__Bootstrap__ :](https://www.creative-tim.com/learning-lab/bootstrap/overview/argon-dashboard)**
+
+> **[__Bootstrap build__ :](https://bootstrap.build/app)**
+>
+>  > **[__Bootstrap Editor :](https://booteditor.com/)**
 
 ----
 <br>
