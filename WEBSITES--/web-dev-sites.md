@@ -51,11 +51,13 @@
 <br>
 
 ---
-> **💾Programming on python, shell**
+> **💾Bootstrap**
 
-> **🗂️I'm interested cybersecurity**
+> **🗂️**
 
-> **📦Coding on: python, shell**
+> **📦**
+
+> **[__START HOSTER__ :](https://github.com/Euronymou5/Doxxer-Toolkit#instalacion)**
 
 > **[__START HOSTER__ :](https://github.com/Euronymou5/Doxxer-Toolkit#instalacion)**
 
@@ -63,11 +65,11 @@
 <br>
 
 ---
-> **💾Programming on python, shell**
+> **💾**
 
-> **🗂️I'm interested cybersecurity**
+> **🗂️**
 
-> **📦Coding on: python, shell**
+> **📦**
 
 > **[__START HOSTER__ :](https://github.com/Euronymou5/Doxxer-Toolkit#instalacion)**
 
@@ -75,11 +77,11 @@
 <br>
 
 ---
-> **💾Programming on python, shell**
+> **💾**
 
-> **🗂️I'm interested cybersecurity**
+> **🗂️**
 
-> **📦Coding on: python, shell**
+> **📦**
 
 > **[__START HOSTER__ :](https://github.com/Euronymou5/Doxxer-Toolkit#instalacion)**
 
