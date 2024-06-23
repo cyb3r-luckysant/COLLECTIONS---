@@ -98,9 +98,9 @@
 > **[__css grid__ :](https://grid.layoutit.com/)**
 
 > > **[__CSS Responsive Menu Generator__ :](https://www.cssportal.com/css3-menu-generator/)**
-> >
+ 
 > **[__CSS3 Menu Generator__ :](https://doodlenerd.com/website-tool/css3-menu-generator)**
-> 
+
 > **[__CSS Menu Generator__ :](https://www.menucool.com/css-menu)**
 
 > **[__CSS Grid Layout Generator__ :](https://angrytools.com/css-grid/)**
@@ -112,10 +112,22 @@
 > **[__CSS BORDER-RADIUS__ :](https://9elements.github.io/fancy-border-radius/)**
 
 > **[__CSS BORDER-RADIUS__ :](https://mdbootstrap.com/docs/standard/tools/design/fancy-border-radius/)**
->
+
 > **[__CSS BORDER-RADIUS__ :](https://www.htmlcssbuttongenerator.com/border-radius-generator.php)**
->
+
 >  **[__CSS BORDER-RADIUS__ :](https://10015.io/tools/css-border-radius-generator)**
+
+> **[__CSS BORDER-RADIUS__ :](https://www.dailytoolz.com/fancy-border-radius-generator/full-control-8-points.php)**
+
+> **[__CSS Cursor Generator __ :](https://cssgenerator.org/css-cursor-demonstrator-and-generator.html)**
+
+> **[__CSS BORDER-RADIUS__ :](https://border-radius.com/)**
+
+>  **[__CSS BORDER-RADIUS__ :](https://generus.netlify.app/)**
+
+
+
+
 ----
 <br>
 
