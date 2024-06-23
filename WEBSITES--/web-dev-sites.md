@@ -142,6 +142,8 @@
 > **[__CSS waves _ :](https://getwaves.io/)**
 
 > **[__CSS box-shadow__ :](https://getcssscan.com/css-box-shadow-examples)**
+>
+> > **[__CSS svgrepo__ :](https://www.svgrepo.com/)**
 
 ----
 <br>
