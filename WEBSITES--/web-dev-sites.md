@@ -74,8 +74,10 @@
 > **[__Bootstrap__ :](https://www.creative-tim.com/learning-lab/bootstrap/overview/argon-dashboard)**
 
 > **[__Bootstrap build__ :](https://bootstrap.build/app)**
->
->  > **[__Bootstrap Editor :](https://booteditor.com/)**
+
+> **[__Bootstrap Editor :](https://booteditor.com/)**
+
+> **[__Bootstrap build__ :](https://bootstrap.build/app)**
 
 ----
 <br>
