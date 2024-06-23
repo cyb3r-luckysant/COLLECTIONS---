@@ -124,6 +124,8 @@
 > **[__CSS BORDER-RADIUS__ :](https://border-radius.com/)**
 
 >  **[__CSS BORDER-RADIUS__ :](https://generus.netlify.app/)**
+>
+> **[__CSS shadows__ :](https://smoothshadows.com/)**
 
 
 
