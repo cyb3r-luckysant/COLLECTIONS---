@@ -1,4 +1,8 @@
+watch animes
+<br>
 
+1 https://animepahe.ru/anime
+2 https://animedekho.net/category/anime/
 
 <br>
 watch movies
