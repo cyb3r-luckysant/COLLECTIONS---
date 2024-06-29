@@ -1,9 +1,13 @@
+only web shows
+1 https://www.hoichoi.tv/
+
+
 download & watch cartuns
 1 https://toonworld4all.me/
 2 https://saicord.com/
 3 https://www1.watchcartoononline.bz/
 4 https://kimcartoon.li/
-
+5 https://www.animated247.net/
 
 
 
@@ -30,7 +34,7 @@ watch movies & sres
 5 https://desicinemas.tv/
 6 https://www.hindimoviestv.com/
 7 https://www.movi.pk/genre/tv-series/
-8 https://www.hoichoi.tv/
+
 <br>
 download movies
 <br>
