@@ -3,6 +3,12 @@ watch animes
 
 1 https://animepahe.ru/anime
 2 https://animedekho.net/category/anime/
+3 https://animesuge.to/home
+4 https://pikahd.com/
+5 https://animeflix.website/
+6 https://anplay.in/
+
+
 
 <br>
 watch movies
