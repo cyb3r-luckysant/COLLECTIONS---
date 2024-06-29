@@ -1,3 +1,15 @@
+
+
+watch movies
+<br>
+https://www.jiocinema.com/
+https://www.mxplayer.in/
+https://moviesandtv.myvi.in/
+https://www.amazon.in/minitv
+https://desicinemas.tv/
+
+
+
 download movies
 
 <br>
