@@ -1,4 +1,13 @@
-watch animes
+download & watch cartuns
+1 https://toonworld4all.me/
+2 https://saicord.com/
+3 https://www1.watchcartoononline.bz/
+4 https://kimcartoon.li/
+
+
+
+
+download & watch animes
 <br>
 
 1 https://animepahe.ru/anime
@@ -7,11 +16,12 @@ watch animes
 4 https://pikahd.com/
 5 https://animeflix.website/
 6 https://anplay.in/
+7 https://anime-world.in/
 
 
 
 <br>
-watch movies
+watch movies & sres
 <br>
 1 https://www.jiocinema.com/
 2 https://www.mxplayer.in/
@@ -20,7 +30,7 @@ watch movies
 5 https://desicinemas.tv/
 6 https://www.hindimoviestv.com/
 7 https://www.movi.pk/genre/tv-series/
-
+8 https://www.hoichoi.tv/
 <br>
 download movies
 <br>
