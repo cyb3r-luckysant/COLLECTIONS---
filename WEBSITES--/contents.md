@@ -8,8 +8,8 @@ watch movies
 3 https://moviesandtv.myvi.in/
 4 https://www.amazon.in/minitv
 5 https://desicinemas.tv/
-
-
+6 https://www.hindimoviestv.com/
+7 https://www.movi.pk/genre/tv-series/
 
 <br>
 download movies
