@@ -8,8 +8,8 @@
 <br>
 only web shows
 1 https://www.hoichoi.tv/
-
-
+2 https://noxx.to/
+3 https://series9movies.com/home
 
 <br>
 download & watch cartuns
@@ -38,6 +38,7 @@ download & watch animes
 <br>
 watch movies & sres
 <br>
+0 https://seez.su/
 1 https://www.jiocinema.com/
 2 https://www.mxplayer.in/
 3 https://moviesandtv.myvi.in/
@@ -45,6 +46,11 @@ watch movies & sres
 5 https://desicinemas.tv/
 6 https://www.hindimoviestv.com/
 7 https://www.movi.pk/genre/tv-series/
+8 https://flixhq.click/home
+9 https://europixhd.site/
+10 https://pressplay.top/home/
+
+
 
 <br>
 download movies
