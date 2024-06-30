@@ -1,9 +1,11 @@
 news&bhakti
+
  1 https://app.sanskargroup.in/
-
-
-
-
+ 2 https://www.indiatvnews.com/livetv
+ 3 https://www.indiatoday.in/livetv
+4 https://zeenews.india.com/live-tv
+5 https://ndtv.in/livetv-ndtvindia
+6 https://news.abplive.com/live-tv
 
 
 <br>
