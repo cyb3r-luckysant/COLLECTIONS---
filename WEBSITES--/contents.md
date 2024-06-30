@@ -1,4 +1,5 @@
-
+news&bhakti
+ 1 https://app.sanskargroup.in/
 
 
 
@@ -10,6 +11,7 @@ only web shows
 1 https://www.hoichoi.tv/
 2 https://noxx.to/
 3 https://series9movies.com/home
+4 https://www.epicon.in/
 
 <br>
 <br>
@@ -50,7 +52,7 @@ watch movies & sres
 8 https://flixhq.click/home
 9 https://europixhd.site/
 10 https://pressplay.top/home/
-
+11 https://www.watcho.com/
 
 
 <br>
