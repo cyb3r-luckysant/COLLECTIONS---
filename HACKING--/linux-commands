@@ -38,7 +38,9 @@
 31.	crontab	Schedule command to run later at time
 32.	csplit	Break/Split files into two parts
 33.	cut	Divide files into many parts
-From D
+
+
+                  From D
 34.	date	Display current date and can also change it
 35.	dc	Show desk calculator
 36.	dd	Copy and convert a file
@@ -54,7 +56,9 @@ From D
 46.	dirs	Display recent directories
 47.	dmesg	Kernel and driver messages on screen
 48.	du	File space usage estimation
-From E
+
+
+                From E
 49.	echo	Display message on screen
 50.	egrep	Find all the files in which particular lines are contained
 51.	eject	Unplug external connected device
@@ -68,7 +72,9 @@ From E
 59.	expect	Automate arbitrary applications
 60.	export	Set env. variables
 61.	expr	Evaluate exp.
-From F
+
+
+               From F
 62.	fdformat	Formt a floppy
 63.	fdisk	Partition table
 64.	fg	Send task to foreground
@@ -84,7 +90,9 @@ From F
 74.	ftp	File transport protocol to transfer files
 75.	function	Define function
 76.	fuser	Identify/Kill the process accessing particular file
-From G
+
+
+              From G
 77.	gawk	Find and Replace Text
 78.	getopts	Parse parameters which are positional
 79.	grep	Search files for lines in given pattern
@@ -93,13 +101,17 @@ From G
 82.	groupmod	Use it to modify group
 83.	groups	Print groups you're in
 84.	gzip	Compress files/folders
-From H
+
+
+               From H
 85.	hash	Remember full path of the name argument
 86.	head	First part of file
 87.	help	Display help of any command
 88.	history	History of all commands executed so far
 89.	hostname	Print system name
-From I
+
+
+              From I
 90.	iconv	Convert character set of the file
 91.	id	Print user or group ID
 92.	if	Create if command structure
@@ -108,13 +120,19 @@ From I
 95.	ifup	Start network interface
 96.	import	Capture server screen and save
 97.	install	Install
-From J
+
+
+              From J
 98.	jobs	Show all active tasks
 99.	join	Join lines on common field
-From K
+
+
+           From K
 100.	kill	Kill a process from running
 101.	killall	Kill all the processes
-From L
+
+
+            From L
 102.	less	Display output of screen
 103.	let	Arithmetic shell
 104.	ln	Symbolic link of the file
@@ -131,7 +149,9 @@ From L
 115.	lprm	Remove print queue (Single Item)
 116.	ls	List files in particular directory
 117.	lsof	List of all the files which are currently open
-From M
+
+
+                From M
 118.	make	Recompible programs
 119.	man	Show help manual
 120.	mkdir	Create new folders
@@ -144,7 +164,9 @@ From M
 127.	mtools	Manipulate MS-DOS files
 128.	mtr	Traceroute/ping
 129.	mv	Move files and directories
-From N
+
+
+                From N
 130.	netstat	Current network information
 131.	nice	Set command priority
 132.	nl	List number of lines
@@ -154,7 +176,9 @@ From N
 From O
 136.	op	Operator access
 137.	open	Open particular file with application assigned to it
-From P
+            
+
+              From P
 138.	passwd	Change any user's password
 139.	paste	Merge files
 140.	pathchk	Check file path
@@ -168,11 +192,15 @@ From P
 148.	ps	Process status
 149.	pushd	Save & change current directory
 150.	pwd	Display working directory
-From Q
+
+
+                     From Q
 151.	quota	Display quota
 152.	quotacheck	Check file for quota usage
-153.	quotactl	Set disk quotas
-From R
+153.	quotactl	Set disk quotas 
+
+
+             From R
 154.	ram	Ram disk device
 155.	rcp	Copy file from one computer to another
 156.	read	Read a line
@@ -187,7 +215,9 @@ From R
 165.	rm	Remove files
 166.	rmdir	Remove the folders
 167.	rsync	Sync file trees
-From S
+
+
+                 From S
 168.	scp	Secure copy
 169.	screen	Multiplex the terminal
 170.	sdiff	Combine two files interactively
@@ -212,7 +242,9 @@ From S
 189.	suspend	Suspend execution of file
 190.	symlink	Make new name for file
 191.	sync	Sync the data
-From T
+
+
+                  From T
 192.	tail	Display last part of any file
 193.	tar	Tape Archiver (Compress Files)
 194.	tee	Redirect output to multiple files
@@ -228,7 +260,9 @@ From T
 204.	tsort	Topological sorting
 205.	tty	Print terminal on stdin filename
 206.	type	Describe any command
-From U
+
+
+                 From U
 207.	ulimit	Put limits on user resources
 208.	umask	File creation mask
 209.	umount	Unmount the device
@@ -246,12 +280,16 @@ From U
 221.	users	Display all the users
 222.	uudecode	Decode a file created by uuencode
 223.	uuencode	Binary files encode
-From V
+
+
+              From V
 224.	v	List directory contents (`ls -l -b’)
 225.	vdir	List directory contents (`ls -l -b’)
 226.	vi	Default text editor
 227.	vmstat	Display Virtual memory statistics
-From W
+
+
+                     From W
 228.	wait	Wait till process is complete
 229.	watch	Periodically display a program
 230.	wc	Display byte, word, and line counts
@@ -262,8 +300,12 @@ From W
 235.	who	Print all users which are currently logged in
 236.	whoami	Show current user profile
 237.	write	Send message to other user.
-From X
+
+
+                        From X
 238.	xargs	Utility, passing constructed argument lists execution
-239.	xdg-open	Open file/url using default program
-From Y
-240.	yes	Print string until any obstacle
+239.	xdg-open	:Open file/url using default program
+
+
+                   From Y
+240.	yes	:Print string until any obstacle
