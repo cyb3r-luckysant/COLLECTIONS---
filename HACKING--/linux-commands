@@ -1,0 +1,269 @@
+               From A
+1.	apropos :	Get Help Related Documents
+2.	apt-get	: Fetch Software Packages Directly From Internet
+3.	aptitude	: It can also be used to fetch software packages directly
+4.	aspell	: Spell Checker Command
+5.	awk	: Use to Find or Replace text
+
+
+              From B
+6.	basename	: Get the directory and suffix from filenames
+7.	bash	: GNU Bourne-Again Shell
+8.	bc	: Precision calculator language
+9.	bg	: Send items to background
+10.	break	: Exit the command or loop running
+11.	builtin	: Run shell builtin
+12.	bzip2	: Compress files to decrease their size Extraction/Compression
+
+
+                From C
+13.	cal	Used to display current calendear
+14.	case	Put conditions in commands like if then structure
+15.	cat	Concatenate and display data of files
+16.	cd	Browse through directories
+17.	cfdisk	Partition table manipulator
+18.	chgrp	Change ownership of group
+19.	chkconfig	Check system configuration
+20.	chmod	Change the permissions
+21.	chown	Change owner or group of files
+22.	chroot	Run command on different directory
+23.	cksum	Print CRC and byte counts
+24.	clear	Clear all the things in terminal to start fresh
+25.	cmp	Compare two files to get detailed difference
+26.	comm	Used to compare two sorted files line by line in details
+27.	command	Run a command
+28.	continue	COntinue the loop/process
+29.	cp	Copy files from one location to another
+30.	cron	Schedule the commands to run at particular time
+31.	crontab	Schedule command to run later at time
+32.	csplit	Break/Split files into two parts
+33.	cut	Divide files into many parts
+From D
+34.	date	Display current date and can also change it
+35.	dc	Show desk calculator
+36.	dd	Copy and convert a file
+37.	ddrescue	Data recovery pool command
+38.	declare	Declare your variables with ease
+39.	df	Show up free disk space on hard drive
+40.	diff	Difference between two files
+41.	diff3	Difference between 3 files
+42.	dig	Get DNS Details
+43.	dir	Show all the directory details
+44.	dircolors	Directory tree color change
+45.	dirname	Full pathname to a path
+46.	dirs	Display recent directories
+47.	dmesg	Kernel and driver messages on screen
+48.	du	File space usage estimation
+From E
+49.	echo	Display message on screen
+50.	egrep	Find all the files in which particular lines are contained
+51.	eject	Unplug external connected device
+52.	enable	Enable and disable shell commands (builtin)
+53.	env	Environment variables
+54.	ethtool	Adjust enternet card settings
+55.	eval	Evaluate several commands/arguements
+56.	exec	Execute commands
+57.	exit	Exit
+58.	expand	Tabs to spaces
+59.	expect	Automate arbitrary applications
+60.	export	Set env. variables
+61.	expr	Evaluate exp.
+From F
+62.	fdformat	Formt a floppy
+63.	fdisk	Partition table
+64.	fg	Send task to foreground
+65.	fgrep	Search for lines that contains specific string/words
+66.	file	Check file type
+67.	find	Find files with some adjustments and criteria
+68.	fmt	Reformat paragraph
+69.	fold	Wrap text
+70.	for	Expand words
+71.	format	Format internal/external partitions
+72.	free	Display memory usage
+73.	fsck	File system consistency
+74.	ftp	File transport protocol to transfer files
+75.	function	Define function
+76.	fuser	Identify/Kill the process accessing particular file
+From G
+77.	gawk	Find and Replace Text
+78.	getopts	Parse parameters which are positional
+79.	grep	Search files for lines in given pattern
+80.	groupadd	Add new user to group
+81.	groupdel	Delete any group
+82.	groupmod	Use it to modify group
+83.	groups	Print groups you're in
+84.	gzip	Compress files/folders
+From H
+85.	hash	Remember full path of the name argument
+86.	head	First part of file
+87.	help	Display help of any command
+88.	history	History of all commands executed so far
+89.	hostname	Print system name
+From I
+90.	iconv	Convert character set of the file
+91.	id	Print user or group ID
+92.	if	Create if command structure
+93.	ifconfig	Show network interface
+94.	ifdown	Stop network interface
+95.	ifup	Start network interface
+96.	import	Capture server screen and save
+97.	install	Install
+From J
+98.	jobs	Show all active tasks
+99.	join	Join lines on common field
+From K
+100.	kill	Kill a process from running
+101.	killall	Kill all the processes
+From L
+102.	less	Display output of screen
+103.	let	Arithmetic shell
+104.	ln	Symbolic link of the file
+105.	local	Create local variables
+106.	locate	Find files at locations
+107.	logname	Print login name
+108.	logout	Exit login shell
+109.	look	Display lines
+110.	lpc	Line printer control
+111.	lpr	Off line
+112.	lprint	Print file
+113.	lprintd	Abort print
+114.	lprintq	List print queue
+115.	lprm	Remove print queue (Single Item)
+116.	ls	List files in particular directory
+117.	lsof	List of all the files which are currently open
+From M
+118.	make	Recompible programs
+119.	man	Show help manual
+120.	mkdir	Create new folders
+121.	mkfifo	Make FIFOs
+122.	mkisofs	CREATE iso9660/joliet/hfs filesystem
+123.	mknod	Make character files
+124.	mmv	Move and rename files in bulk
+125.	more	Display output in one screen at a time
+126.	mount	Mount the file system
+127.	mtools	Manipulate MS-DOS files
+128.	mtr	Traceroute/ping
+129.	mv	Move files and directories
+From N
+130.	netstat	Current network information
+131.	nice	Set command priority
+132.	nl	List number of lines
+133.	nohup	Run command immune to hangups
+134.	notify-send	Push desktop notifications
+135.	nslookup	Name servers lookup
+From O
+136.	op	Operator access
+137.	open	Open particular file with application assigned to it
+From P
+138.	passwd	Change any user's password
+139.	paste	Merge files
+140.	pathchk	Check file path
+141.	ping	Ping any particular address
+142.	pkill	Stop process
+143.	popd	Restore previous values of directory
+144.	pr	Prepare files for printing purpose
+145.	printcap	Print capability
+146.	printenv	Print environment
+147.	printf	Display output
+148.	ps	Process status
+149.	pushd	Save & change current directory
+150.	pwd	Display working directory
+From Q
+151.	quota	Display quota
+152.	quotacheck	Check file for quota usage
+153.	quotactl	Set disk quotas
+From R
+154.	ram	Ram disk device
+155.	rcp	Copy file from one computer to another
+156.	read	Read a line
+157.	readarray	Read the array
+158.	readonly	Set file type to readonly to give restrictions
+159.	reboot	Reboot computer
+160.	remsync	Synchronize remote files
+161.	rename	Rename files
+162.	renice	Alter priority
+163.	return	Exit function
+164.	rev	Reverse line
+165.	rm	Remove files
+166.	rmdir	Remove the folders
+167.	rsync	Sync file trees
+From S
+168.	scp	Secure copy
+169.	screen	Multiplex the terminal
+170.	sdiff	Combine two files interactively
+171.	sed	Stream editor
+172.	select	Accept the kwyboard input
+173.	seq	Print sequences
+174.	set	Manipulate shell variables
+175.	sftp	Secure FTP connection
+176.	shift	Shift the parameters which are positional
+177.	shopt	Display shell options
+178.	shutdown	Shutdown computer
+179.	sleep	Put computer to sleep
+180.	slocate	Locate files
+181.	sort	Sort the files
+182.	source	Run commands from the file
+183.	split	Broke files into justified parts
+184.	ssh	Launch remote login program
+185.	strace	Trace calls and signals
+186.	su	Substitute user identity
+187.	sudo	Execute command as another user
+188.	sum	Print checksum of file
+189.	suspend	Suspend execution of file
+190.	symlink	Make new name for file
+191.	sync	Sync the data
+From T
+192.	tail	Display last part of any file
+193.	tar	Tape Archiver (Compress Files)
+194.	tee	Redirect output to multiple files
+195.	test	Evaluate conditional expression
+196.	time	Display time
+197.	times	User and system times
+198.	top	List of top services running in computer
+199.	touch	To change file timestamps
+200.	tr	Translate
+201.	traceroute	Trace back to host
+202.	trap	Run any particular command when signal is set
+203.	true	No action
+204.	tsort	Topological sorting
+205.	tty	Print terminal on stdin filename
+206.	type	Describe any command
+From U
+207.	ulimit	Put limits on user resources
+208.	umask	File creation mask
+209.	umount	Unmount the device
+210.	unalias	Alias removal
+211.	uname	Display system information
+212.	unexpand	Space to tabs
+213.	uniq	Uniquify the files
+214.	units	Convert units from scale
+215.	unset	Remove variable
+216.	unshar	Unpack shell archive scripts
+217.	until	Until condition
+218.	uptime	Display uptime of machine
+219.	useradd	Add new user
+220.	usermod	Modify existing user
+221.	users	Display all the users
+222.	uudecode	Decode a file created by uuencode
+223.	uuencode	Binary files encode
+From V
+224.	v	List directory contents (`ls -l -b’)
+225.	vdir	List directory contents (`ls -l -b’)
+226.	vi	Default text editor
+227.	vmstat	Display Virtual memory statistics
+From W
+228.	wait	Wait till process is complete
+229.	watch	Periodically display a program
+230.	wc	Display byte, word, and line counts
+231.	wget	Get files (HTTP, HTTPS, FTP supported)
+232.	whereis	Search path etc.
+233.	which	Search path for program
+234.	while	Conditional statement
+235.	who	Print all users which are currently logged in
+236.	whoami	Show current user profile
+237.	write	Send message to other user.
+From X
+238.	xargs	Utility, passing constructed argument lists execution
+239.	xdg-open	Open file/url using default program
+From Y
+240.	yes	Print string until any obstacle
