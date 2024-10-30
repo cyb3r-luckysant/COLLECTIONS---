@@ -15,8 +15,10 @@ link for download movies
 6 https://vegamovies.as/
 <br>
 7 https://filmyzilla.olamovies.in/
-
-
+<br>
+9 https://www.bolly2tolly.net/
+<br>
+10 https://www.5movierulz.io/
 
 
 
@@ -32,3 +34,15 @@ link for download movies
 3 https://www.mp4moviez.camera/
 <br>
 4 https://katmovie.helpsarkari.com/choose-year.php
+
+
+
+
+
+
+
+
+
+copy to same
+
++ 
