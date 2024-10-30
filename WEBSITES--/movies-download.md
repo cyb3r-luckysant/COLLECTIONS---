@@ -13,6 +13,13 @@ link for download movies
 5 https://moviesmod.bid/movies/hollywood/
 <br>
 6 https://vegamovies.as/
+<br>
+7 https://filmyzilla.olamovies.in/
+
+
+
+
+
 
 <br>
 
@@ -23,3 +30,5 @@ link for download movies
 2 https://www.4filmywap.com/
 <br>
 3 https://www.mp4moviez.camera/
+<br>
+4 https://katmovie.helpsarkari.com/choose-year.php
