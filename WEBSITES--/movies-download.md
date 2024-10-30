@@ -4,10 +4,15 @@ link for download movies
 
 1 https://vegamovies.phd/
 <br>
-2 https://vegamovies.as/
+2 https://www.moviespapa.london/
 <br>
-
-
+3 https://hdhub4u.tattoo/
+<br>
+4 https://hdhub4u.capetown/
+<br>
+5 https://moviesmod.bid/movies/hollywood/
+<br>
+6 https://vegamovies.as/
 
 <br>
 
