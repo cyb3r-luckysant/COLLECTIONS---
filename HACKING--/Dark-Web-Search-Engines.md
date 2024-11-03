@@ -3,8 +3,8 @@
 <table>
   <thead align="center">
     <tr border: none;>
-      <td><b>🎁 sites</b></td>
-      <td><b>📬 names</b></td>
+      <td><b>🎁 sites part-1</b></td>
+      <td><b>📬 sites part-2</b></td>
     </tr>
   </thead>
   <tbody>
