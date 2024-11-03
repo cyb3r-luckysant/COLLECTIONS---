@@ -1,3 +1,47 @@
+
+<h3>Dark Web Search Engines</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 sites</b></td>
+      <td><b>📬 names</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://3g2upl4pq6kufc4m.onion/"><b>DuckDuckGo</b></a></td>
+      <td><a href="http://xmh57jrknzkhv6y3ls3ubitzfqnkrwxhopf5aygthi7d6rplyvk3noyd.onion/"><b>Torch</b></a></td>
+    </tr>
+	  <tr>
+      <td><a href="http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion/"><b>Ahmia</b></a></td>
+      <td><a href="http://scihub22266oqcxt.onion/"><b>Sci-Hub</b></a></td>
+    </tr>
+    <tr>
+      <td><a href="http://anonyradixhkgh5myfrkarggfnmdzzhhcgoy2v66uf7sml27to5n2tid.onion/"><b>Deep Web Radio</b></a></td>
+      <td><a href="http://haystak5njsmn2hqkewecpaxetahtwhsbsa64jom2k22z5afxhnpxfid.onion/"><b>Haystak</b></a></td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Dark Web Search Engines
 
 
