@@ -36,12 +36,18 @@ Down Arrow	                :  Show the next command (from the command history).
 <br>
 !n                          :  Repeat the nth command from history.
 <br>
-
+<br><br>
 
 Tab	Auto-complete commands, files, or directories.
+<br>
 Tab twice	List all possible completions.
+<br>
 Ctrl + Shift + C	Copy the selected text or command.
+<br>
 Ctrl + Shift + V	Paste copied text or command.
+<br>
 Ctrl + Shift + N	Open a new terminal window.
+<br>
 Ctrl + Shift + T	Open a new tab in the terminal.
+<br>
 Ctrl + TaborCtrl + PageDown	Switch between terminal tabs.
