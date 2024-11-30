@@ -1,9 +1,19 @@
-download wlappepar
+# Wallpaper Download Links 🌆
 
-1 https://www.wallpaperflare.com/
-2 https://alphacoders.com/
-3 https://wallpaperaccess.com/
-4 https://www.peakpx.com/
-5 https://in.pinterest.com/
-6 https://wallpaperswide.com/
-7 https://wallpaper-house.com/
+Here are some links to download high-quality wallpapers. Please check each site for their respective terms of use.
+
+---
+
+## **Wallpaper Sources** 🎨
+
+1. [WallpaperFlare](https://www.wallpaperflare.com/)
+2. [AlphaCoders](https://alphacoders.com/)
+3. [WallpaperAccess](https://wallpaperaccess.com/)
+4. [PeakPX](https://www.peakpx.com/)
+5. [Pinterest](https://in.pinterest.com/)
+6. [WallpapersWide](https://wallpaperswide.com/)
+7. [Wallpaper-House](https://wallpaper-house.com/)
+
+---
+
+> **Note**: Ensure to follow the usage guidelines of each site for legal use and credits.
