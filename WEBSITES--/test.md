@@ -1,129 +1,106 @@
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=calections+lucky+git" alt=""></a>
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=calections+lucky+git" alt="Typing SVG"></a>
 </p>
 
-# <b> <p align="center" > WELCOME! </b></p>
+# <p align="center"><b>WELCOME TO MY GITHUB PROFILE</b></p>
 
 <p align="center">
-<a href="https://www.facebook.com/yash.santys?mibextid=ZbWKwL" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg" alt="lucky sant" height="40" width="40" /></a>
-<a href="https://www.instagram.com/mr_yash_sant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_yash_sant" height="40" width="40" /></a>
-<a href="https://t.me/cyberluckysant" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Telegram.svg" alt="lucky sant" height="40" width="40" /></a>
-<a href="https://whatsapp.com/channel/0029Vabe2tCGOj9mY5mnIl3n" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/WhatsApp.svg" alt="lucky sant" height="40" width="40" /></a>
-<a href="https://github.com/cyb3r-luckysant" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Github.svg" alt="cyb³r-luckysant" height="40" width="40" /></a>
+  <a href="https://www.facebook.com/yash.santys?mibextid=ZbWKwL" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg" alt="Facebook" height="40" width="40" /></a>
+  <a href="https://www.instagram.com/mr_yash_sant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" /></a>
+  <a href="https://t.me/cyberluckysant" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Telegram.svg" alt="Telegram" height="40" width="40" /></a>
+  <a href="https://whatsapp.com/channel/0029Vabe2tCGOj9mY5mnIl3n" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" height="40" width="40" /></a>
+  <a href="https://github.com/cyb3r-luckysant" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Github.svg" alt="GitHub" height="40" width="40" /></a>
 </p>
 
 ---
 
-> **💾 As a free CSS gradient generator tool, this website lets you create a colorful gradient background for your website, blog, or social media profile**
+## About Me
+🔐 **Cybersecurity Enthusiast** | 💻 **Python Developer** | 🌍 **Tech Explorer**
 
-> **🗂️Beautiful pure CSS background patterns that you can actually use in your projects!**
-
-> **[__BG-generator__ :](https://cssgradient.io/)**
-
-> **[__BG-generator__ :](https://www.css-gradient.com/)**
-
-> **[__BG-generators__ :](https://bgjar.com/)** 
-
-> **[__BG-generator__ :](https://mycolor.space/gradient)**
-
-> **[__BG-patterns__ :](https://www.magicpattern.design/tools/css-backgrounds)**
-
-> **[__BG-patterns__ :](https://superdesigner.co/tools/css-backgrounds)**
-
-> **[__animated-background__ :](https://wweb.dev/resources/animated-css-background-generator)**
-
-> **[__BG-glass-generator__ :](https://css.glass/)**
-
-----
-<br>
+Welcome to my GitHub! I am passionate about coding, technology, and security. I enjoy solving problems and building innovative projects, especially related to cybersecurity and Python.
 
 ---
-> **💾 All tools in one website**
 
-> **[__tool__ :](https://cssgenerator.pl/en/gradient-generator/)**
+## 🚀 Tools & Resources
 
-> **[__tool__ :](https://html-css-js.com/css/generator/background/)**
+### CSS Tools & Generators
 
-> **[__tool__ :](https://cssgenerator.pl/en/gradient-generator/)**
+- **[CSS Gradient Generator](https://cssgradient.io/)** 💾  
+  Create beautiful and customizable gradient backgrounds for websites, blogs, and social media profiles.
+  
+- **[CSS Pattern Generator](https://superdesigner.co/tools/css-backgrounds)** 🎨  
+  Find beautiful pure CSS background patterns you can use in your projects.
+  
+- **[CSS3 Menu Generator](https://doodlenerd.com/website-tool/css3-menu-generator)** 🧑‍💻  
+  A simple way to create CSS3 animated menus.
 
-----
-<br>
-
----
-> **💾 Bootstrap**
-
-> **[__Bootstrap forms__ :](https://mdbootstrap.com/docs/standard/forms/overview/)**
-
-> **[__Bootstrap Styles__ :](https://rstudio.github.io/DT/005-bootstrap.html)**
-
-> **[__Bootstrap themes__ :](https://bootswatch.com/)**
-
->  **[__Bootstrap Styles__ :](https://icons.getbootstrap.com/icons/magic/)**
-
-> **[__Bootstrap Builder__ :](https://pingendo.com/)**
-
-> **[__Bootstrap Studio__ :](https://bootstrapstudio.io/)**
-
-> **[__Bootstrap__ :](https://www.creative-tim.com/learning-lab/bootstrap/overview/argon-dashboard)**
-
-> **[__Bootstrap Build__ :](https://bootstrap.build/app)**
-
-> **[__Bootstrap Editor :](https://booteditor.com/)**
-
-> **[__Bootstrap templates__ :](https://bootstrapshuffle.com/)**
-
-> **[__Bootstrap Build__ :](https://bootsnipp.com/builder)**
-
-----
-<br>
+- **[CSS Grid Generator](https://cssgrid-generator.netlify.app/)** 📦  
+  Build and customize CSS grids with this intuitive generator.
 
 ---
-> **💾 CSS**
 
-> **[__CSS Grid__ :](https://grid.layoutit.com/)**
+### 💻 Bootstrap Resources
 
-> **[__CSS3 Menu Generator__ :](https://doodlenerd.com/website-tool/css3-menu-generator)**
+- **[Bootstrap Forms](https://mdbootstrap.com/docs/standard/forms/overview/)** 🗂️  
+  Comprehensive form-building toolkit for Bootstrap.
 
-> **[__CSS Grid Layout Generator__ :](https://angrytools.com/css-grid/)**
+- **[Bootstrap Themes](https://bootswatch.com/)** 🎨  
+  Explore a collection of open-source themes for Bootstrap.
 
-> **[__CSS Grid Generator__ :](https://cssgrid-generator.netlify.app/)**
+- **[Bootstrap Icons](https://icons.getbootstrap.com/icons/magic/)** 💡  
+  A collection of beautiful icons to complement your project.
 
-> **[__CSS Border-Radius__ :](https://9elements.github.io/fancy-border-radius/)**
-
-> **[__CSS Shadows__ :](https://smoothshadows.com/)**
-
-> **[__CSS Shapes__ :](https://www.blobmaker.app/)**
-
-> **[__CSS Animations__ :](https://animista.net/play/basic/rotate/rotate-center)**
-
-> **[__CSS Waves__ :](https://getwaves.io/)**
-
-> **[__CSS Box-Shadow__ :](https://getcssscan.com/css-box-shadow-examples)**
-
-> **[__CSS Repo__ :](https://www.svgrepo.com/)**
-
-----
-<br>
+- **[Bootstrap Builder](https://pingendo.com/)** 🛠️  
+  A powerful tool to design Bootstrap-based websites.
 
 ---
-> **💾 Start Hosting**
 
-> **[__Start Hoster__ :](https://github.com/Euronymou5/Doxxer-Toolkit#instalacion)**
+### ⚙️ Development Tools
 
-----
-<br>
+- **[HTML CSS JS Generator](https://html-css-js.com/css/generator/background/)** 🛠️  
+  A powerful generator for custom backgrounds and CSS.
+
+- **[SVG Repo](https://www.svgrepo.com/)** 🌍  
+  A vast collection of free SVGs for your web projects.
+
+- **[CSS Box-Shadow Examples](https://getcssscan.com/css-box-shadow-examples)** 🧑‍💻  
+  A tool to generate and experiment with CSS box shadows.
 
 ---
-> **💾 Programming on Python, Shell**
 
-> **🗂️ I'm interested in Cybersecurity**
+## 👨‍💻 Programming Languages
 
-> **📦 Coding on: Python, Shell**
+- **Python** 🐍: For automation, scripts, and data analysis.
+- **Shell scripting** ⌨️: For task automation and system management.
 
-> **[__Start Hoster__ :](https://github.com/Euronymou5/Doxxer-Toolkit#instalacion)**
+🔒 **Cybersecurity**: I’m passionate about ethical hacking and network security, always looking to explore vulnerabilities and how to mitigate them.
 
-----
+---
 
-[More Tools and Resources for Developers](https://webcode.tools/css-generator/background-image)
+## 🌐 Useful Links
 
-[Background Generators](https://angrytools.com/css-generator/background/)
+- **[GitHub Profile](https://github.com/cyb3r-luckysant)**
+- **[Facebook](https://www.facebook.com/yash.santys?mibextid=ZbWKwL)**
+- **[Instagram](https://www.instagram.com/mr_yash_sant)**
+- **[Telegram](https://t.me/cyberluckysant)**
+
+---
+
+### More Tools for Developers
+
+- **[CSS Generator](https://webcode.tools/css-generator/background-image)** 💾  
+  A tool for creating background images and CSS.
+  
+- **[Background Pattern Generators](https://angrytools.com/css-generator/background/)** 🎨  
+  A variety of customizable background generators for your web projects.
+
+---
+
+## 🔗 Connect with Me
+
+- **LinkedIn**: [Yash Sant](https://www.linkedin.com/in/yash-sant-473312a7/)
+- **Twitter**: [@cyb3r_luckysant](https://twitter.com/cyb3r_luckysant)
+
+---
+
+### **Let's code and innovate together!** 💻🔥
