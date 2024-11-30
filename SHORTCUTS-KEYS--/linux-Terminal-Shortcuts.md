@@ -1,53 +1,90 @@
-https://itsfoss.com/linux-terminal-shortcuts/
+# Linux Terminal Shortcuts
 
-<br>
-<br>
+This document contains useful keyboard shortcuts to navigate and manage the Linux terminal efficiently.
 
-<img width="100%" src="NOT-FOR-YOU-IMAGES-STORE/images-store/Shortcuts/linux/#all.jpg"/>
+## General Terminal Shortcuts
 
-<br>
-<br>
+| Shortcut                     | Action                                                              |
+|------------------------------|---------------------------------------------------------------------|
+| `Ctrl + Alt + T`              | Open a new terminal window                                          |
+| `Ctrl + Shift + T`            | Open a new tab in the terminal                                       |
+| `Ctrl + D`                    | Exit the terminal (if no processes are running)                     |
+| `Ctrl + C`                    | Cancel the current running command or process                       |
+| `Ctrl + Z`                    | Suspend the current running process                                 |
+| `Ctrl + L`                    | Clear the terminal screen                                           |
+| `Ctrl + R`                    | Search through the terminal's history (reverse search)              |
+| `Ctrl + U`                    | Clear the line before the cursor                                     |
+| `Ctrl + K`                    | Clear the line after the cursor                                      |
+| `Ctrl + W`                    | Delete the word before the cursor                                   |
+| `Ctrl + E`                    | Move the cursor to the end of the line                              |
+| `Ctrl + A`                    | Move the cursor to the beginning of the line                        |
+| `Ctrl + Y`                    | Paste the previously deleted text                                    |
+| `Ctrl + Shift + C`            | Copy selected text to the clipboard                                 |
+| `Ctrl + Shift + V`            | Paste text from the clipboard into the terminal                     |
 
-Ctrl + A	                  :   Move to the start of the line.
-<br>
-Ctrl + E	                  :   Move to the end of the line.
-<br>
-Ctrl + U	                  :  Delete from the cursor to the start of the line.
-<br>
-Ctrl + K	                  :  Delete from the cursor to the end of the line.
-<br>
-Ctrl + W	                  :  Delete the word before the cursor.
-<br>
-Ctrl + L	                  :  Clear the terminal screen.
-<br>
-Ctrl + C	                  :  Stop the current process/command.
-<br>
-Ctrl + D	                  :  Log out or exit the terminal.
-<br>
-Ctrl + Z	                  :  Pause the current process (can be resumed).
-<br>
-Ctrl + R	                  :  Search command history (backward search).
-<br>
-Up Arrow	                  :  Show the previous command (from the command history).
-<br>
-Down Arrow	                :  Show the next command (from the command history).
-<br>
-!!	                        :  Repeat the last command.
-<br>
-!n                          :  Repeat the nth command from history.
-<br>
-<br><br>
+## Navigating the Terminal
 
-Tab	Auto-complete commands, files, or directories.
-<br>
-Tab twice	List all possible completions.
-<br>
-Ctrl + Shift + C	Copy the selected text or command.
-<br>
-Ctrl + Shift + V	Paste copied text or command.
-<br>
-Ctrl + Shift + N	Open a new terminal window.
-<br>
-Ctrl + Shift + T	Open a new tab in the terminal.
-<br>
-Ctrl + TaborCtrl + PageDown	Switch between terminal tabs.
+| Shortcut                     | Action                                                              |
+|------------------------------|---------------------------------------------------------------------|
+| `Ctrl + P`                    | Go to the previous command in history                                |
+| `Ctrl + N`                    | Go to the next command in history                                    |
+| `Up Arrow`                    | Move to the previous command in history                              |
+| `Down Arrow`                  | Move to the next command in history                                  |
+| `Tab`                         | Autocomplete the command or file name                                |
+| `Shift + Tab`                 | Autocomplete in reverse                                             |
+| `Ctrl + F`                    | Move the cursor forward one character                               |
+| `Ctrl + B`                    | Move the cursor backward one character                              |
+
+## Process Management
+
+| Shortcut                     | Action                                                              |
+|------------------------------|---------------------------------------------------------------------|
+| `Ctrl + C`                    | Kill the current running process                                    |
+| `Ctrl + Z`                    | Suspend the current process and send it to the background           |
+| `fg`                          | Resume the most recent suspended process in the foreground          |
+| `bg`                          | Resume a suspended process in the background                        |
+| `jobs`                        | List all background jobs                                            |
+| `kill [PID]`                  | Kill the process with the specified PID                             |
+| `killall [process_name]`      | Kill all processes with the specified name                          |
+
+## Tab and Window Management
+
+| Shortcut                     | Action                                                              |
+|------------------------------|---------------------------------------------------------------------|
+| `Ctrl + Shift + N`            | Open a new terminal window                                           |
+| `Alt + Tab`                   | Switch between open applications (including terminal windows)        |
+| `Ctrl + Shift + W`            | Close the current terminal tab or window                            |
+
+## Working with Files and Directories
+
+| Shortcut                     | Action                                                              |
+|------------------------------|---------------------------------------------------------------------|
+| `Ctrl + L`                    | Clear the terminal screen                                           |
+| `Ctrl + T`                    | Open a new tab in the terminal window                               |
+| `Tab`                         | Autocomplete file or directory name                                 |
+| `Ctrl + R`                    | Search command history                                              |
+| `Ctrl + A`                    | Move to the beginning of the line                                    |
+| `Ctrl + E`                    | Move to the end of the line                                          |
+| `Ctrl + U`                    | Delete from the cursor to the beginning of the line                 |
+| `Ctrl + K`                    | Delete from the cursor to the end of the line                       |
+
+## Terminal Customization
+
+| Shortcut                     | Action                                                              |
+|------------------------------|---------------------------------------------------------------------|
+| `Ctrl + Shift + -`            | Decrease font size in the terminal                                   |
+| `Ctrl + Shift + +`            | Increase font size in the terminal                                   |
+| `Ctrl + 0`                    | Reset font size to default                                           |
+
+## Miscellaneous Shortcuts
+
+| Shortcut                     | Action                                                              |
+|------------------------------|---------------------------------------------------------------------|
+| `Ctrl + Alt + F1...F6`        | Switch between different virtual consoles (TTY)                     |
+| `Ctrl + Alt + F7`             | Switch back to the graphical desktop (GUI)                          |
+| `Ctrl + Alt + Del`            | Reboot the system (on some distributions)                           |
+| `Alt + F4`                    | Close the current window (if running a GUI application)             |
+
+## Conclusion
+
+These shortcuts will help you navigate the terminal more efficiently and speed up your workflow.
