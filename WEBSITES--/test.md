@@ -23,7 +23,7 @@ Welcome to my GitHub! I am passionate about coding, technology, and security. I 
 
 ## 🚀 Tools & Resources
 
-### CSS Tools & Generators
+### 🎨 CSS Tools & Generators
 
 - **[CSS Gradient Generator](https://cssgradient.io/)** 💾  
   Create beautiful and customizable gradient backgrounds for websites, blogs, and social media profiles.
@@ -37,9 +37,73 @@ Welcome to my GitHub! I am passionate about coding, technology, and security. I 
 - **[CSS Grid Generator](https://cssgrid-generator.netlify.app/)** 📦  
   Build and customize CSS grids with this intuitive generator.
 
+- **[CSS Flexbox Generator](https://www.justflexbox.com/)** 🔄  
+  A tool for generating Flexbox code for layouts.
+
+- **[CSS Box-Shadow Generator](https://getcssscan.com/css-box-shadow-examples)** 🖤  
+  Experiment and generate CSS box-shadow effects.
+
+- **[CSS Border Radius Generator](https://www.css3buttongenerator.com/border-radius-generator.php)** 🔲  
+  Easily generate border-radius for buttons, containers, and more.
+
+- **[CSS Animation Generator](https://animista.net/)** 🎞️  
+  Create custom animations and export the code for easy use.
+
+- **[CSS Gradient Generator](https://www.gradient-generator.com/)** 🌈  
+  Create complex gradient backgrounds with simple interface.
+
+- **[Pure CSS Button Generator](https://www.csstemplates.net/button-generator/)** 🧑‍💻  
+  Create beautiful, modern buttons using pure CSS.
+
+- **[CSS Clip Path Generator](https://bennettfeely.com/clippy/)** ✂️  
+  Create custom clip-path shapes for your elements.
+
 ---
 
-### 💻 Bootstrap Resources
+### 💻 Development Tools
+
+- **[HTML CSS JS Generator](https://html-css-js.com/css/generator/background/)** 🛠️  
+  A powerful generator for custom backgrounds and CSS.
+
+- **[SVG Repo](https://www.svgrepo.com/)** 🌍  
+  A vast collection of free SVGs for your web projects.
+
+- **[JSON Formatter & Validator](https://jsonformatter.org/)** 📃  
+  Format, validate, and beautify your JSON data.
+
+- **[CodePen](https://codepen.io/)** 🔨  
+  A social development environment for front-end designers and developers.
+
+- **[JSFiddle](https://jsfiddle.net/)** ⚙️  
+  A playground for web developers to test and showcase HTML, CSS, and JavaScript snippets.
+
+- **[GitHub Pages](https://pages.github.com/)** 🌐  
+  Host your personal website or project documentation using GitHub Pages.
+
+- **[Prettier](https://prettier.io/)** 🔧  
+  An opinionated code formatter that supports multiple languages.
+
+- **[CodeSandbox](https://codesandbox.io/)** 🏖️  
+  A cloud-based code editor with instant previews, perfect for web development.
+
+- **[Visual Studio Code](https://code.visualstudio.com/)** 🖥️  
+  A powerful code editor for building and debugging modern web apps.
+
+- **[Postman](https://www.postman.com/)** 📦  
+  A popular API client for testing and developing APIs.
+
+- **[Webpack](https://webpack.js.org/)** 🔧  
+  A module bundler for JavaScript, helping with the optimization of your code.
+
+- **[Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)** 🌐  
+  Instantly preview your changes on a local development server.
+
+- **[Figma](https://www.figma.com/)** 🎨  
+  A cloud-based design tool for collaborative interface design.
+
+---
+
+### ⚙️ Bootstrap Resources
 
 - **[Bootstrap Forms](https://mdbootstrap.com/docs/standard/forms/overview/)** 🗂️  
   Comprehensive form-building toolkit for Bootstrap.
@@ -53,18 +117,8 @@ Welcome to my GitHub! I am passionate about coding, technology, and security. I 
 - **[Bootstrap Builder](https://pingendo.com/)** 🛠️  
   A powerful tool to design Bootstrap-based websites.
 
----
-
-### ⚙️ Development Tools
-
-- **[HTML CSS JS Generator](https://html-css-js.com/css/generator/background/)** 🛠️  
-  A powerful generator for custom backgrounds and CSS.
-
-- **[SVG Repo](https://www.svgrepo.com/)** 🌍  
-  A vast collection of free SVGs for your web projects.
-
-- **[CSS Box-Shadow Examples](https://getcssscan.com/css-box-shadow-examples)** 🧑‍💻  
-  A tool to generate and experiment with CSS box shadows.
+- **[Bootstrap Studio](https://bootstrapstudio.io/)** 🖥️  
+  A powerful desktop app for designing websites using the Bootstrap framework.
 
 ---
 
