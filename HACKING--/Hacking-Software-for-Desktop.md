@@ -158,7 +158,6 @@ We encourage contributions! If you know additional tools or have improvements, s
 
 ---
 
-## 📜 License  
-This repository is licensed under the [MIT License](LICENSE).  
+ 
 
 > **Note**: Ensure compliance with local laws and regulations when using these tools.  
