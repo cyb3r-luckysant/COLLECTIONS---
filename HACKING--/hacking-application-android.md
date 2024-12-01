@@ -119,9 +119,7 @@ Access a collection of preloaded penetration testing apps from the NetHunter tea
 We welcome contributions! Submit pull requests or open issues to suggest new tools or improvements. Let’s build a comprehensive list for ethical hackers and cybersecurity professionals.  
 
 ---
-
-## 📜 License  
-This repository is licensed under the [MIT License](LICENSE).  
+ 
 
 ---
 
