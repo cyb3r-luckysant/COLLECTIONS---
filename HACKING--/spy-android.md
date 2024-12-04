@@ -26,7 +26,11 @@ This document provides a categorized list of Android spy apps, including their f
 
 6. **iKeyMonitor** 🔑  
    - **Link**: [Visit site](https://ikeymonitor.com/)  
-   - **Info**: Tracks keystrokes, screen time, and social media with a focus on child safety.  
+   - **Info**: Tracks keystrokes, screen time, and social media with a focus on child safety.
+
+7. **AirDroid** ✈️  
+   - **Link**: [Visit site](https://www.airdroid.com/)  
+   - **Info**: Focuses on device mirroring, file transfer, and remote management. Includes basic monitoring features.  
 
 ---
 
