@@ -2,33 +2,29 @@
 
 This document provides a categorized list of Android spy apps, including their features, links, and usage options. **Note**: The use of spy apps must comply with applicable laws and ethical standards. Always ensure you have the necessary consent before monitoring a device.
 
-## **Free and Paid**
+## **Free and Paid**  
 
-1. **AirDroid** ✈️  
-   - **Link**: [Visit site](https://www.airdroid.com/)  
-   - **Info**: Focuses on device mirroring, file transfer, and remote management. Includes basic monitoring features.  
-
-2. **Mspy** 🔍  
+1. **Mspy** 🔍  
    - **Link**: [Visit site](https://www.mspy.com/)  
    - **Info**: Advanced parental control with features like GPS tracking, social media monitoring, and call/message logs.  
 
-3. **KidLogger** 🧒  
+2. **KidLogger** 🧒  
    - **Link**: [Visit site](https://kidlogger.net/)  
    - **Info**: Basic monitoring for screen time, keystrokes, and activity tracking. Family-friendly.  
 
-4. **Snoopza** 👀  
+3. **Snoopza** 👀  
    - **Link**: [Visit site](https://snoopza.com/)  
    - **Info**: Offers call recording, SMS tracking, and social media monitoring. Designed for easy setup.  
 
-5. **MobileSpy** 📱  
+4. **MobileSpy** 📱  
    - **Link**: [Visit site](https://mobilespy.io/)  
    - **Info**: Monitors phone calls, texts, location, and apps. Best for parents and employers.  
 
-6. **CownSpy** 🕵️  
+5. **CownSpy** 🕵️  
    - **Link**: [Visit site](https://en.ownspy.com/)  
    - **Info**: Tracks call logs, GPS, WhatsApp, and social media activities. Designed for discreet monitoring.  
 
-7. **iKeyMonitor** 🔑  
+6. **iKeyMonitor** 🔑  
    - **Link**: [Visit site](https://ikeymonitor.com/)  
    - **Info**: Tracks keystrokes, screen time, and social media with a focus on child safety.  
 
