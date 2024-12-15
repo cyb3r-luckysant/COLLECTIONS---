@@ -31,8 +31,7 @@ Here are some links where you can download movies in different categories. Pleas
 
 1. [Movies4U](https://movies4u.prof/)
 2. [UHDMovies](https://uhdmovies.boo/)
-3.  [SSRmovies]
-(https://ssrmovies.wf/)
+3.  [SSRmovies](https://ssrmovies.wf/)
 
 
 ---
