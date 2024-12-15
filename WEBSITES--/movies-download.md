@@ -15,6 +15,7 @@ Here are some links where you can download movies in different categories. Pleas
 7. [FilmyZilla](https://filmyzilla.olamovies.in/)
 8. [Bolly2Tolly](https://www.bolly2tolly.net/)
 9. [5MovieRulz](https://www.5movierulz.io/)
+10. [UHD-movies](https://uhdmovies.bet/)
 
 ---
 
