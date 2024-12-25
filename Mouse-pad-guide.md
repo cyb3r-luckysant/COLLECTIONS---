@@ -1,4 +1,3 @@
-```markdown
 🖱️ *How to Use and Customize Your Laptop Mouse Pad (Trackpad)* on *Windows 10* & *Windows 11* 🖥️
 
 This guide will help you understand how to use and customize your laptop's *mouse pad (trackpad)* on *Windows 10* and *Windows 11*. It also provides troubleshooting steps if your trackpad isn't working as expected. Let's get started! 🚀
@@ -127,5 +126,3 @@ If you're still having issues with your trackpad, don't hesitate to reach out to
 
 👨‍💻 *Happy Navigating!* 🖱️✨
 ```
-
----
