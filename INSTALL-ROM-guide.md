@@ -1,4 +1,4 @@
-```markdown
+
 📱 *How to Install a Custom ROM on Your Android Device* 🚀
 
 This guide provides step-by-step instructions on how to install a *custom ROM* on your Android phone. Installing a custom ROM can unlock new features, improve performance, and provide a personalized experience on your device. However, it’s important to note that this process involves risks and may void your warranty. Proceed with caution and make sure to back up your data. 🛡️
