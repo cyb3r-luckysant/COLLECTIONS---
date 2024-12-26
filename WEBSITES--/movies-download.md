@@ -26,6 +26,8 @@ Here are some links where you can download movies in different categories. Pleas
 2. [4FilmyWap](https://www.4filmywap.com/)
 3. [MP4Moviez](https://www.mp4moviez.camera/)
 4. [KatMovie](https://katmovie.helpsarkari.com/choose-year.php)
+5. [2filmywap](https://www.2filmywap.net/)
+6. [linksxyz](https://linksxyz.com/)
 
 ---
 
@@ -34,6 +36,13 @@ Here are some links where you can download movies in different categories. Pleas
 1. [Movies4U](https://movies4u.prof/)
 2. [UHDMovies](https://uhdmovies.boo/)
 3.  [SSRmovies](https://ssrmovies.wf/)
+4.  [MKVCinemas](https://mkvcinemas.how/)
+5.  [Bolly4u](https://bolly4u.cab/)
+6.  [MoviesMOD](https://themoviesmod.dev/)
+7.  [Amovies4U](https://amovies4u.com/)
+8.  [KATMoviesHD](https://wwv.katmoviehd.is/)
+9.  [katmoviehd](https://katmoviehd.nexus/)
+10.  [YTS-official](https://yts-official.mx/)
 
 
 ---
