@@ -1,6 +1,4 @@
-Certainly! Below is a *Markdown (.md)* file code for the *CBFC Film Certification Categories* in India, including the use of *emojis* and a *professional format*. You can copy this code and save it as a `.md` file (e.g., `Film_Certification_Guide.md`).
 
-```markdown
 🎬 *CBFC Film Certification Categories in India* 🇮🇳
 
 The *Central Board of Film Certification (CBFC)* in India classifies films into different categories based on their content and suitability for different age groups. These certifications help audiences make informed decisions about the films they watch. Below is a detailed guide to the *CBFC Film Certification Categories*.
@@ -109,5 +107,3 @@ If you have any questions or need more details about the CBFC certification proc
    - You can open the `.md` file in any *Markdown viewer* like *VS Code*, *Typora*, or *GitHub* to see the formatted content.
 
 ---
-
-This markdown guide is now ready to help people understand the *CBFC film certification categories* in a visually appealing, easy-to-understand, and professional format. Let me know if you need any more modifications! 😊
