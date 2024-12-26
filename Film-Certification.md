@@ -85,25 +85,3 @@ If you have any questions or need more details about the CBFC certification proc
 
 *Happy Watching!* 🎉🍿
 ```
-
----
-
-*Explanation of the Markdown File:*
-
-- *Headings*: I've used `#` for the main title, `##` for subheadings, and `###` for smaller subheadings.
-- *Emojis*: Added relevant emojis such as 🎬, 🌍, 🔞, and others to enhance the visual appeal and make the guide more engaging.
-- - *Table*: I've included a table summarizing the film certifications with a brief description of each, making it easier to understand the differences between them.
-- *Professional and Clean Format*: The markdown is structured professionally, making it easy to follow and digest.
-
----
-
-*How to Use This Markdown File*:
-
-1. *Create a New Markdown File*:
-   - Open any text editor (VS Code, Sublime Text, Notepad++) and paste the code above.
-2. *Save the File*:
-   - Save the file with the `.md` extension, for example, `Film_Certification_Guide.md`.
-3. *View the Markdown File*:
-   - You can open the `.md` file in any *Markdown viewer* like *VS Code*, *Typora*, or *GitHub* to see the formatted content.
-
----
