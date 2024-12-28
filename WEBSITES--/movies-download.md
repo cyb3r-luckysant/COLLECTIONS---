@@ -43,6 +43,7 @@ Here are some links where you can download movies in different categories. Pleas
 8.  [KATMoviesHD](https://wwv.katmoviehd.is/)
 9.  [katmoviehd](https://katmoviehd.nexus/)
 10.  [YTS-official](https://yts-official.mx/)
+11.  [VEGA.CM](https://vegamovies.cm/)
 
 
 ---
