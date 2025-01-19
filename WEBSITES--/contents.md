@@ -92,9 +92,4 @@ This guide provides links to streaming platforms for movies, TV shows, cartoons,
 
 ## **18+ Content 🔞**
 
-1. [XHamster42](https://xhamster42.desi/)
-2. [AnimeSexPornTube](https://animalsexporntube.com/)
-3. [HDTube](https://www.hdtube.porn/)
-4. [MastiFlix](https://mastiflix.biz/)
-5. [WebSeriesSex](https://webseriessex.net/)
-6. [FilmyDhoom](https://www.filmydhoom.pro/)
+sudhar ja sale 
