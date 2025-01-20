@@ -71,3 +71,8 @@ This document provides a comprehensive list of various file-sharing, cloud stora
 3. Follow the platform’s guidelines for uploading, downloading, or streaming content.
 
 ---
+
+### 👨‍💻 Author  
+Developed by **Cyb3r-LuckySant** ❤️  
+
+**Explore the tools now and simplify your workflow! 🚀**
