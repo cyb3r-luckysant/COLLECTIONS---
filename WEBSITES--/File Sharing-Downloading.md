@@ -59,6 +59,8 @@ This document provides a comprehensive list of various file-sharing, cloud stora
 - **Features**: High-speed file downloads, supports large files.
 - **Use Case**: Useful for hosting and downloading Google Drive files.
 
+### NEW LINK
+1: [Full4Drive](https://full4drive.click/)
 ---
 
 ## ⚠️ Disclaimer
