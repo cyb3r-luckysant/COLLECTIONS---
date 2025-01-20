@@ -45,6 +45,7 @@ Here are some links where you can download movies in different categories. Pleas
 10.  [YTS-official](https://yts-official.mx/)
 11.  [VEGA.CM](https://vegamovies.cm/)
 
+12.  [YUmovies](Yupmovie.com)
 
 ---
 
