@@ -83,5 +83,7 @@ If you have any questions or need more details about the CBFC certification proc
 
 ---
 
-*Happy Watching!* 🎉🍿
-```
+### 👨‍💻 Author  
+Developed by **Cyb3r-LuckySant** ❤️  
+
+**Explore the tools now and simplify your workflow! 🚀**
