@@ -46,6 +46,7 @@ Here are some links where you can download movies in different categories. Pleas
 11.  [VEGA.CM](https://vegamovies.cm/)
 
 12.  [YUmovies](https://Yupmovie.com)
+13.  [hduh](https://hdhub.sbs/)
 
 ---
 
