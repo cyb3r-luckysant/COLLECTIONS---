@@ -6,7 +6,4 @@
 
 ---
 
-### 👨‍💻 Author  
-Developed by **Cyb3r-LuckySant** ❤️  
 
-**Explore the tools now and simplify your workflow! 🚀**
