@@ -5,7 +5,7 @@
 
 > 1 : [`bash install.sh`](https://github.com/cyb3r-luckysant/COLLECTIONS---/edit/main/HACKING--/Crush-WhatsApp.md)
 
-> 2 : [`sudo bash install.sh`](https://github.com/cyb3r-luckysant/COLLECTIONS---/edit/main/HACKING--/Crush-WhatsApp.md)
+> 2 : [`sudo bash install.sh`]([https://github.com/cyb3r-luckysant/COLLECTIONS---/edit/main/HACKING--/Crush-WhatsApp.md](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/15f6b304e52c054e7e051b3972422018ba3b6027/HACKING--/Crush-WhatsApp.md?plain=1#L448))
 
 > 3 : [`sudo bash install_arch.sh`](https://github.com/cyb3r-luckysant/COLLECTIONS---/edit/main/HACKING--/Crush-WhatsApp.md)
 
