@@ -1,7 +1,7 @@
 # COLLECTIONS---  
 # ruk bhai bna rha hu 😂 ruk thoda 👨‍💻  
 
-[follow kr tab tak](https://www.instagram.com/mr_yash_sant) 💥🚀  
+[tumare pass kuch hai jo add krna chahiye collections me  to send me !](https://www.instagram.com/mr_yash_sant) 💥🚀  
 
 ---
 
