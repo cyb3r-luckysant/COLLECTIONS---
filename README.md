@@ -31,7 +31,7 @@
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=calections+lucky+git" alt="Typing SVG"></a>
 </p>
 
-# <p align="center"><b>WELCOME TO MY GITHUB PROFILE</b></p>
+# <p align="center"><b>WELCOME TO MY GITHUB COLLECTIONS </b></p>
 
 <p align="center">
   <a href="https://www.facebook.com/yash.santys?mibextid=ZbWKwL" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg" alt="Facebook" height="40" width="40" /></a>
