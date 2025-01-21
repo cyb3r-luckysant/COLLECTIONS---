@@ -28,7 +28,7 @@
 [stay tuned](https://www.instagram.com/mr_yash_sant) ⚡💥 --> 
 
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=calections+lucky+git" alt="Typing SVG"></a>
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=COLLECTIONS--- ! By cyb3r-luckysant" alt="Typing SVG"></a>
 </p>
 
 # <p align="center"><b>WELCOME TO MY GITHUB COLLECTIONS </b></p>
