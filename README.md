@@ -43,9 +43,9 @@
 
 ---
 
-## About Me
-🔐 **Cybersecurity Enthusiast** | 💻 **Python Developer** | 🌍 **Tech Explorer**
+## About COLLECTIONS---
+🔐 **Cybersecurity** | 💻 **programing** | 🌍 **tech info**
 
-Welcome to my GitHub! I am passionate about coding, technology, and security. I enjoy solving problems and building innovative projects, especially related to cybersecurity and Python.
+Welcome to my GitHub COLLECTIONS ! 
 
 ---
