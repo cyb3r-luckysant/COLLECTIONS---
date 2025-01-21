@@ -1,12 +1,6 @@
 > [!IMPORTANT]  
 > COPY and PASTE on WhatsApp - Target account
 <br>
-## LIST Numbers 
-
-> 1 : 
-> 2 : 
-> 3 : 
-
 <br>
   <table align="right">
       <tr>
@@ -473,3 +467,19 @@ PENEEPENEEPENEEPENEEPENEEPENEEPENEEPENEEPENEEPENEEPENEEPENEEPENEEPENEEPENEEPENEE
   </table>
 <br>
 
+```python
+
+```
+
+<br>
+  <table align="right">
+      <tr>
+          <td>
+            👉 &nbsp;&nbsp;Messegage : 4
+          </td>
+      </tr>
+  </table>
+<br>
+```python 
+
+```
