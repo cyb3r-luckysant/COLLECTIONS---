@@ -26,3 +26,26 @@
 # DON'T PANIC 😱  
 # sab ho jayega, chill! 😎✌️  
 [stay tuned](https://www.instagram.com/mr_yash_sant) ⚡💥 --> 
+
+<p align="center">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=calections+lucky+git" alt="Typing SVG"></a>
+</p>
+
+# <p align="center"><b>WELCOME TO MY GITHUB PROFILE</b></p>
+
+<p align="center">
+  <a href="https://www.facebook.com/yash.santys?mibextid=ZbWKwL" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg" alt="Facebook" height="40" width="40" /></a>
+  <a href="https://www.instagram.com/mr_yash_sant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" /></a>
+  <a href="https://t.me/cyberluckysant" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Telegram.svg" alt="Telegram" height="40" width="40" /></a>
+  <a href="https://whatsapp.com/channel/0029Vabe2tCGOj9mY5mnIl3n" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" height="40" width="40" /></a>
+  <a href="https://github.com/cyb3r-luckysant" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Github.svg" alt="GitHub" height="40" width="40" /></a>
+</p>
+
+---
+
+## About Me
+🔐 **Cybersecurity Enthusiast** | 💻 **Python Developer** | 🌍 **Tech Explorer**
+
+Welcome to my GitHub! I am passionate about coding, technology, and security. I enjoy solving problems and building innovative projects, especially related to cybersecurity and Python.
+
+---
