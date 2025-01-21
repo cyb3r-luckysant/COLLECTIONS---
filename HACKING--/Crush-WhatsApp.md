@@ -1,5 +1,14 @@
 > [!IMPORTANT]  
-> COPY and PASTE on WhatsApp - Target account 
+> COPY and PASTE on WhatsApp - Target account
+<br>
+## LIST Numbers 
+
+> 1 : [`bash install.sh`](https://github.com/cyb3r-luckysant/COLLECTIONS---/edit/main/HACKING--/Crush-WhatsApp.md)
+
+> 2 : [`sudo bash install.sh`](https://github.com/cyb3r-luckysant/COLLECTIONS---/edit/main/HACKING--/Crush-WhatsApp.md)
+
+> 3 : [`sudo bash install_arch.sh`](https://github.com/cyb3r-luckysant/COLLECTIONS---/edit/main/HACKING--/Crush-WhatsApp.md)
+
 <br>
   <table align="right">
       <tr>
