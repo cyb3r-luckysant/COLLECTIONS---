@@ -40,7 +40,6 @@
 | New Links         | Full4Movies                          | [Full4Movies](https://www.full4movies.food/) |
 | New Links         | M4UHD                                | [M4UHD](https://m4uhd.com.co/)          |
 | New Links         | MoviePire                            | [MoviePire](https://moviepire.net/)     |
-| New Links         | MovieMood                            | [MovieMood](https://moviemood.ru/index-en.html) |
 | New Links         | HindiLinks4U                         | [HindiLinks4U](https://hindilinks4u.express/) |
 
 <br>
