@@ -50,21 +50,10 @@
 
 <br>
 
-
-
-
-
-
-
-
-
-
-
-
-
 Here are some links where you can download movies in different categories. Please note that you should always make sure to follow the legal guidelines of your country when downloading content.
 
 ---
+<br>
 
 ####  list of link 
 1. [VegaMovies](https://vegamovies.phd/)
@@ -101,9 +90,12 @@ Here are some links where you can download movies in different categories. Pleas
 32. [Full4Movies](https://www.full4movies.food/)
 33. [HindiLinks4U](https://hindilinks4u.express/)
 
-
 ---
+<br>
 
 > **Note**: Always ensure you have the proper legal rights to download and use content. This list is not an endorsement of any illegal activity.
+
+### 👨‍💻 Author  
+Developed by **Cyb3r-LuckySant** ❤️  
 
 
