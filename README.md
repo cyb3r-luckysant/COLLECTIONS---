@@ -46,7 +46,7 @@
 <br>
 
 > [!NOTE]
-> WEBSITES--:- completed [movies-download.md](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/movies-download.md) , [watch-movies-webshows.md](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/watch-movies-webshows.md)
+> WEBSITES--:- completed [movies-download](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/movies-download.md) , [watch movies and webshows](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/watch-movies-webshows.md)
 
 <br>
 ## About COLLECTIONS---
