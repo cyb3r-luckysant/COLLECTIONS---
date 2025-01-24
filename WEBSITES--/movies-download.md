@@ -99,3 +99,12 @@ Here are some links where you can download movies in different categories. Pleas
 ---
 
 > **Note**: Always ensure you have the proper legal rights to download and use content. This list is not an endorsement of any illegal activity.
+
+
+#### Features
+[`YesHQ`](https://yeshq.biz/)
+[`HDHub`](https://hdhub.sbs/)
+`linux.py`
+`linux.py`
+`linux.py`
+`linux.py`
