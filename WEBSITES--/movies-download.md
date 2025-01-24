@@ -94,6 +94,7 @@ Here are some links where you can download movies in different categories. Pleas
 30. [HDHub](https://hdhub.sbs/)
 31. [YesHQ](https://yeshq.biz/)
 32. [Full4Movies](https://www.full4movies.food/)
+33. [HindiLinks4U](https://hindilinks4u.express/)
 
 
 ---
@@ -102,9 +103,9 @@ Here are some links where you can download movies in different categories. Pleas
 
 
 #### Features
-[`YesHQ`](https://yeshq.biz/)
-[`HDHub`](https://hdhub.sbs/)
-`linux.py`
+[`VegaMovies`](https://vegamovies.phd/)
+[`HindiLinks4U`](https://hindilinks4u.express/)
+[`hdhub4u`](https://hdhub4u.spa/)
 `linux.py`
 `linux.py`
 `linux.py`
