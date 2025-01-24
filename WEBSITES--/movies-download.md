@@ -38,7 +38,6 @@
 | New Links         | hduh                                 | [hduh](https://hdhub.sbs/)              |
 | New Links         | yeshq                                | [yeshq](https://yeshq.biz/)             |
 | New Links         | Full4Movies                          | [Full4Movies](https://www.full4movies.food/) |
-| New Links         | M4UHD                                | [M4UHD](https://m4uhd.com.co/)          |
 | New Links         | HindiLinks4U                         | [HindiLinks4U](https://hindilinks4u.express/) |
 
 <br>
