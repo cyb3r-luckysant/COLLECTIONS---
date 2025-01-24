@@ -57,6 +57,7 @@ Here are some links where you can download movies in different categories. Pleas
 ---
 <br>
 
+```python
 ####  list of link 
 1. [VegaMovies](https://vegamovies.phd/)
 2. [MoviesPapa](https://www.moviespapa.london/)
@@ -91,8 +92,7 @@ Here are some links where you can download movies in different categories. Pleas
 31. [YesHQ](https://yeshq.biz/)
 32. [Full4Movies](https://www.full4movies.food/)
 33. [HindiLinks4U](https://hindilinks4u.express/)
-
----
+```
 <br>
 
 > **Note**: Always ensure you have the proper legal rights to download and use content. This list is not an endorsement of any illegal activity.
