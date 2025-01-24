@@ -3,46 +3,47 @@
 
 
 ##### Movie Download Links 
-
 # ##### Websites Module
 
 | Category          | Name                                  | Link                                     |
 |-------------------|---------------------------------------|------------------------------------------|
-| Best Quality      | VegaMovies                           | [VegaMovies](https://vegamovies.phd/)   |
-| Best Quality      | MoviesPapa                           | [MoviesPapa](https://www.moviespapa.london/) |
-| Best Quality      | HDHub4U                              | [HDHub4U](https://hdhub4u.tattoo/)      |
-| Best Quality      | HDHub4U (Alternative)                | [HDHub4U (Alt)](https://hdhub4u.capetown/) |
-| Best Quality      | MoviesMod (Hollywood)                | [MoviesMod](https://moviesmod.bid/movies/hollywood/) |
-| Best Quality      | VegaMovies (Alternative)             | [VegaMovies (Alt)](https://vegamovies.as/) |
-| Best Quality      | FilmyZilla                           | [FilmyZilla](https://filmyzilla.olamovies.in/) |
-| Best Quality      | Bolly2Tolly                          | [Bolly2Tolly](https://www.bolly2tolly.net/) |
-| Best Quality      | 5MovieRulz                           | [5MovieRulz](https://www.5movierulz.io/) |
-| Best Quality      | UHD-movies                           | [UHD-movies](https://uhdmovies.bet/)    |
-| Best Quality      | TOP-movies                           | [TOP-movies](https://topmovies.bet/)    |
-| Normal Quality    | OfilmyZilla                          | [OfilmyZilla](https://www.ofilmyzilla.firm.in/) |
-| Normal Quality    | 4FilmyWap                            | [4FilmyWap](https://www.4filmywap.com/) |
-| Normal Quality    | MP4Moviez                            | [MP4Moviez](https://www.mp4moviez.camera/) |
-| Normal Quality    | KatMovie                             | [KatMovie](https://katmovie.helpsarkari.com/choose-year.php) |
-| Normal Quality    | 2filmywap                            | [2filmywap](https://www.2filmywap.net/) |
-| Normal Quality    | linksxyz                             | [linksxyz](https://linksxyz.com/)       |
-| New Links         | Movies4U                             | [Movies4U](https://movies4u.prof/)      |
-| New Links         | UHDMovies                            | [UHDMovies](https://uhdmovies.boo/)     |
-| New Links         | SSRmovies                            | [SSRmovies](https://ssrmovies.wf/)      |
-| New Links         | MKVCinemas                           | [MKVCinemas](https://mkvcinemas.how/)   |
-| New Links         | Bolly4u                              | [Bolly4u](https://bolly4u.cab/)         |
-| New Links         | MoviesMOD                            | [MoviesMOD](https://themoviesmod.dev/)  |
-| New Links         | Amovies4U                            | [Amovies4U](https://amovies4u.com/)     |
-| New Links         | KATMoviesHD                          | [KATMoviesHD](https://wwv.katmoviehd.is/) |
-| New Links         | katmoviehd                           | [katmoviehd](https://katmoviehd.nexus/) |
-| New Links         | YTS-official                         | [YTS-official](https://yts-official.mx/) |
-| New Links         | VEGA.CM                              | [VEGA.CM](https://vegamovies.cm/)       |
-| New Links         | YUmovies                             | [YUmovies](https://Yupmovie.com)        |
-| New Links         | hduh                                 | [hduh](https://hdhub.sbs/)              |
-| New Links         | yeshq                                | [yeshq](https://yeshq.biz/)             |
-| New Links         | Full4Movies                          | [Full4Movies](https://www.full4movies.food/) |
-
-
-
+| Best Quality      | VegaMovies                           | [Visit](https://vegamovies.phd/)        |
+| Best Quality      | MoviesPapa                           | [Visit](https://www.moviespapa.london/) |
+| Best Quality      | HDHub4U                              | [Visit](https://hdhub4u.tattoo/)        |
+| Best Quality      | HDHub4U (Alternative)                | [Visit](https://hdhub4u.capetown/)      |
+| Best Quality      | MoviesMod (Hollywood)                | [Visit](https://moviesmod.bid/movies/hollywood/) |
+| Best Quality      | VegaMovies (Alternative)             | [Visit](https://vegamovies.as/)         |
+| Best Quality      | FilmyZilla                           | [Visit](https://filmyzilla.olamovies.in/) |
+| Best Quality      | Bolly2Tolly                          | [Visit](https://www.bolly2tolly.net/)   |
+| Best Quality      | 5MovieRulz                           | [Visit](https://www.5movierulz.io/)     |
+| Best Quality      | UHD-movies                           | [Visit](https://uhdmovies.bet/)         |
+| Best Quality      | TOP-movies                           | [Visit](https://topmovies.bet/)         |
+| Normal Quality    | OfilmyZilla                          | [Visit](https://www.ofilmyzilla.firm.in/) |
+| Normal Quality    | 4FilmyWap                            | [Visit](https://www.4filmywap.com/)     |
+| Normal Quality    | MP4Moviez                            | [Visit](https://www.mp4moviez.camera/)  |
+| Normal Quality    | KatMovie                             | [Visit](https://katmovie.helpsarkari.com/choose-year.php) |
+| Normal Quality    | 2filmywap                            | [Visit](https://www.2filmywap.net/)     |
+| Normal Quality    | linksxyz                             | [Visit](https://linksxyz.com/)          |
+| New Links         | Movies4U                             | [Visit](https://movies4u.prof/)         |
+| New Links         | UHDMovies                            | [Visit](https://uhdmovies.boo/)         |
+| New Links         | SSRmovies                            | [Visit](https://ssrmovies.wf/)          |
+| New Links         | MKVCinemas                           | [Visit](https://mkvcinemas.how/)        |
+| New Links         | Bolly4u                              | [Visit](https://bolly4u.cab/)           |
+| New Links         | MoviesMOD                            | [Visit](https://themoviesmod.dev/)      |
+| New Links         | Amovies4U                            | [Visit](https://amovies4u.com/)         |
+| New Links         | KATMoviesHD                          | [Visit](https://wwv.katmoviehd.is/)     |
+| New Links         | katmoviehd                           | [Visit](https://katmoviehd.nexus/)      |
+| New Links         | YTS-official                         | [Visit](https://yts-official.mx/)       |
+| New Links         | VEGA.CM                              | [Visit](https://vegamovies.cm/)         |
+| New Links         | YUmovies                             | [Visit](https://Yupmovie.com)           |
+| New Links         | hduh                                 | [Visit](https://hdhub.sbs/)             |
+| New Links         | yeshq                                | [Visit](https://yeshq.biz/)             |
+| New Links         | Full4Movies                          | [Visit](https://www.full4movies.food/)  |
+| New Links         | M4UHD                                | [Visit](https://m4uhd.com.co/)          |
+| New Links         | MoviePire                            | [Visit](https://moviepire.net/)         |
+| New Links         | MovieMood                            | [Visit](https://moviemood.ru/index-en.html) |
+| New Links         | Mood2Movie                          | [Visit](https://mood2movie.com/)        |
+| New Links         | HindiLinks4U                         | [Visit](https://hindilinks4u.express/)  |
 
 <br>
 
