@@ -38,8 +38,11 @@ AZMovies offers a wide selection of movies available in high definition. The sit
 
 
 <br>
+
 ### 👨‍💻 Author  
 Developed by **Cyb3r-LuckySant** ❤️  
+
+<br>
 
 ### Disclaimer
 Please note that the availability and legality of these websites may vary by region. Always ensure that you are complying with local laws and regulations when accessing online content.
