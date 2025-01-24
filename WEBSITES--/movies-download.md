@@ -41,7 +41,6 @@
 | New Links         | M4UHD                                | [M4UHD](https://m4uhd.com.co/)          |
 | New Links         | MoviePire                            | [MoviePire](https://moviepire.net/)     |
 | New Links         | MovieMood                            | [MovieMood](https://moviemood.ru/index-en.html) |
-| New Links         | Mood2Movie                          | [Mood2Movie](https://mood2movie.com/)   |
 | New Links         | HindiLinks4U                         | [HindiLinks4U](https://hindilinks4u.express/) |
 
 <br>
