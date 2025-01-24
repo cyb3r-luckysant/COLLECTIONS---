@@ -36,6 +36,11 @@ WatchSeriesHD provides access to a large catalog of TV shows and movies. Its use
 ## [AZMovies](https://azmovies.xyz/)
 AZMovies offers a wide selection of movies available in high definition. The site’s minimalistic design and straightforward search feature cater to users who prioritize simplicity.
 
+
+<br>
+### 👨‍💻 Author  
+Developed by **Cyb3r-LuckySant** ❤️  
+
 ### Disclaimer
 Please note that the availability and legality of these websites may vary by region. Always ensure that you are complying with local laws and regulations when accessing online content.
 
