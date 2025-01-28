@@ -160,4 +160,9 @@ We encourage contributions! If you know additional tools or have improvements, s
 
  
 
-> **Note**: Ensure compliance with local laws and regulations when using these tools.  
+> **Note**: Ensure compliance with local laws and regulations when using these tools.
+
+<br>
+
+### 👨‍💻 Author  
+Developed by **Cyb3r-LuckySant** ❤️  
