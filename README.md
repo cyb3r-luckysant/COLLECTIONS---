@@ -46,10 +46,10 @@
 <br>
 
 > [!NOTE]
-> WEBSITES--:- completed [movies-download](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/movies-download.md) , [watch movies and webshows](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/watch-movies-webshows.md)
+> WEBSITES--:- COMPLETED [MOVIES-DOWNLOADS-LINK](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/movies-download.md) , [WATCH-MOVIE-WEBSHOWS](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/watch-movies-webshows.md)
 
 > [!NOTE]
-> HACKING---:- completed [TERMUX-BASIC-PACKAGES](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/HACKING--/TERMUX-BASIC-PACKAGES.md) , [10-best-tools](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/HACKING--/10-best-tools.md) ,[Dark-Web-Search-Engines](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/HACKING--/Dark-Web-Search-Engines.md) ,[Hacking-Software-for-Desktop](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/HACKING--/Hacking-Software-for-Desktop.md) , [hacking-QNA](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/HACKING--/hacking-QNA.md) ,[linux_commands_guide](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/HACKING--/linux_commands_guide.md) , [spy-android](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/HACKING--/spy-android.md) ,[top_google_dorks](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/HACKING--/top_google_dorks.md) ..!
+> HACKING---:- COMPLETED [TERMUX-BASIC-PACKAGES](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/HACKING--/TERMUX-BASIC-PACKAGES.md) , [10-BEST-TOOLS](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/HACKING--/10-best-tools.md) , [DARK-WEB-SEARCH-ENGINES](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/HACKING--/Dark-Web-Search-Engines.md) , [HACKING-STFTWARE-FOR-DESKTOP](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/HACKING--/Hacking-Software-for-Desktop.md) , [HACKING-QNA](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/HACKING--/hacking-QNA.md) , [LINUX-COMMANDAS](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/HACKING--/linux_commands_guide.md) , [SPY-ANDROID](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/HACKING--/spy-android.md) , [GOOGLE DROKS](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/HACKING--/top_google_dorks.md) ..! 
 
 <br>
 
