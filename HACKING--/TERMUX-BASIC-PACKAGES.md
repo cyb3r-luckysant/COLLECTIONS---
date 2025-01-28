@@ -175,5 +175,7 @@ pkg install iotop -y                # 📊 Monitor disk I/O usage
 - Perform quick mathematical and resource usage calculations.
 
 ---
+<br>
 
-This enhanced, organized list makes Termux a versatile platform for development, security, and general system use. 🚀
+### 👨‍💻 Author  
+Developed by **Cyb3r-LuckySant** ❤️  
