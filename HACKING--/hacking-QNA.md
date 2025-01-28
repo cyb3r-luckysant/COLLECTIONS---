@@ -96,4 +96,9 @@
 ---
 
 ### 🚨 **Security Tip of the Day** 🚨  
-"Security isn't just about tools—it's about awareness. Stay alert, stay informed, and always question the source before taking any action online."  
+"Security isn't just about tools—it's about awareness. Stay alert, stay informed, and always question the source before taking any action online." 
+
+<br>
+
+### 👨‍💻 Author  
+Developed by **Cyb3r-LuckySant** ❤️  
