@@ -134,3 +134,8 @@ Google Dorks are powerful tools for:
 
 **Practice Makes Perfect! 🔍**  
 Start experimenting with these Google Dorks today and unlock the full power of Google search! 🚀  
+
+<br>
+
+### 👨‍💻 Author  
+Developed by **Cyb3r-LuckySant** ❤️  
