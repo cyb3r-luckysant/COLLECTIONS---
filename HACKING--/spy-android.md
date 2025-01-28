@@ -123,3 +123,7 @@ This document provides a categorized list of Android spy apps, including their f
 ---
 
 **Disclaimer**: This document is for informational purposes only. The author takes no responsibility for the misuse of any applications listed. Ensure compliance with legal and ethical standards before using any monitoring tools.
+<br>
+
+### 👨‍💻 Author  
+Developed by **Cyb3r-LuckySant** ❤️  
