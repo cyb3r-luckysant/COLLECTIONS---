@@ -48,6 +48,9 @@
 > [!NOTE]
 > WEBSITES--:- completed [movies-download](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/movies-download.md) , [watch movies and webshows](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/watch-movies-webshows.md)
 
+> [!NOTE]
+> HACKING---:- completed [TERMUX-BASIC-PACKAGES](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/HACKING--/TERMUX-BASIC-PACKAGES.md) , [10-best-tools](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/HACKING--/10-best-tools.md) ,[Dark-Web-Search-Engines](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/HACKING--/Dark-Web-Search-Engines.md)
+
 <br>
 
 ## About COLLECTIONS---
