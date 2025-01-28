@@ -220,8 +220,7 @@ Welcome to the comprehensive guide to essential Linux commands and system inform
 
 ---
 
-## Conclusion 🎉
+<br>
 
-This guide provides a broad range of commands and tools to interact with Linux systems efficiently. For further exploration, always refer to the `man` pages or online documentation for more detailed command options and examples.
-
-Happy Linux-ing! 😎
+### 👨‍💻 Author  
+Developed by **Cyb3r-LuckySant** ❤️  
