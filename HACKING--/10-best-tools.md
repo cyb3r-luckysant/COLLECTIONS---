@@ -56,4 +56,7 @@ SET is an open-source tool for social engineering attacks. It helps ethical hack
 ## Disclaimer
 The tools listed here should be used responsibly and only for ethical and legal penetration testing. Unauthorized use of these tools can lead to legal consequences. Always have proper authorization before conducting any penetration testing activities.
 
+<br>
 
+### 👨‍💻 Author  
+Developed by **Cyb3r-LuckySant** ❤️  
