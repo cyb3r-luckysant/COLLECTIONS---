@@ -83,6 +83,11 @@ AZMovies offers a wide selection of movies available in high definition. The sit
 
 
 
+<!-- NEW LINKS 
+
+## [supernova](https://supernova.to/)
+## [AZMovies](https://azmovies.xyz/)
+
 <br>
 
 ### 👨‍💻 Author  
