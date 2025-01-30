@@ -86,7 +86,10 @@ AZMovies offers a wide selection of movies available in high definition. The sit
 <!-- NEW LINKS 
 
 ## [supernova](https://supernova.to/)
-## [AZMovies](https://azmovies.xyz/)
+## [m4uhd](https://m4uhd.com.co/)
+## [moviepire](https://moviepire.net/)
+
+-->
 
 <br>
 
