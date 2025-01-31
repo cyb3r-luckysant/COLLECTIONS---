@@ -6,3 +6,9 @@
 - 📱 [gamesalad.com](https://gamesalad.com) - A platform for creating games without programming skills.
 - 📱 [appypie.com](https://www.appypie.com) - Another platform to build apps without coding.
 - 📱 [appery.io](https://appery.io) - A no-code app development platform.
+
+
+<br>
+
+### 👨‍💻 Author  
+Developed by **Cyb3r-LuckySant** ❤️
