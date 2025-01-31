@@ -30,7 +30,7 @@
 > COMPLETED-:- [CODE RUNNERS](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/Code-Runners.md) , These platforms help developers build, test, and deploy code seamlessly. Happy coding! 🎯 ...!
 
 > [!NOTE]
-> COMPLETED-:-  [MOVIES-DOWNLOADS-LINK](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/movies-download.md) , movie download websites, from which you can directly download free HD movies. All of them are available for desktop and mobile devices...!
+> COMPLETED-:-  [MOVIES-DOWNLOADS-LINK](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/movies-download.md) movies download websites, from which you can directly download free HD movies...!
 
 > [!NOTE]
 > COMPLETED-:- [---](---) ,  ...!
