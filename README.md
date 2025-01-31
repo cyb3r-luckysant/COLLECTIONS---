@@ -59,3 +59,8 @@
 Welcome to my GitHub COLLECTIONS ! 
 
 ---
+
+ <br>
+
+<p align="center"><img src="https://user-images.githubusercontent.com/20098740/178893676-7c80941a-fcb6-42b8-a6b1-9b2f540779eb.gif" width="100%"/>
+</p>
