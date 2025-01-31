@@ -17,8 +17,8 @@
    Download the [YouTube Downloader](https://addoncrop.com/v27/youtube-downloader/) from AddonCrop to save YouTube videos directly to your device.
    
 <br>
-
-### After the extension is downloaded and installed, use it to download [YouTube](https://www.youtube.com/) videos directly
+>[!NOTE]
+> After the extension is downloaded and installed, use it to download [YouTube](https://www.youtube.com/) videos directly.
 
 
 
