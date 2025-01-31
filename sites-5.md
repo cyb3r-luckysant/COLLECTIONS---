@@ -1,4 +1,4 @@
-# 🆓 16 Free Hosting Providers 🖥️
+<!--# 🆓 16 Free Hosting Providers 🖥️
 
 1. 🌐 [000webhost.com](https://www.000webhost.com)  
    Free web hosting service with no ads. Provides 1GB of storage and 10GB bandwidth.
@@ -32,7 +32,7 @@
    Offers unlimited bandwidth and storage on their free hosting plan.
 16. 🌐 [Releifhost.com](https://www.releifhost.com)  
    Free hosting with 1GB disk space and 5GB bandwidth.
-
+-->
 ---
 
 # 🔍 How to Check if Your Data Has Been Leaked to the Internet 🔐
