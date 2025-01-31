@@ -7,7 +7,7 @@
 
 ---
 
-# [BOMBER] ⚠️
+<!-- # [BOMBER] ⚠️
 
 ### SMS:
 - 📞 [Call Bomberz](https://www.callbomberz.in/call+sms.html) - A tool to send SMS bombardments for testing purposes.
@@ -31,7 +31,7 @@
 
 ---
 
-# [INFORMATION] ℹ️
+ # [INFORMATION] ℹ️
 
 ### Device Info:
 - 📱 [Device Info](https://www.deviceinfo.me/) - A tool that provides detailed information about your device like OS, model, and more.
@@ -60,9 +60,12 @@
 ### Social Media:
 - 🔗 [Social Media Tools](#) - Links and tools for social media management and interaction.
 
----
+--
 
 # [PHISHING] 🎣
 
 - 🔗 [Z-Lolz](https://z-lolz.com/) - A phishing tool used to create fake websites and harvest credentials.
 - 🔗 [SC0M Dashboard](https://sc0m.com/dashboard) - Another phishing tool to create deceptive sites and collect user data.
+
+
+-->
