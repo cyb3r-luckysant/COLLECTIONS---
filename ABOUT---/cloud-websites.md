@@ -10,7 +10,7 @@
 
 <br>
 
-Here is a list of various cloud storage services along with key details such as free storage, privacy policies, and device compatibility.
+Here is a list of cloud storage services along with key details such as free storage, privacy policies, and device compatibility.
 
 | 🌍 Service | 📦 Free Storage | 🔒 Privacy | 💻 Platforms |
 |------------|---------------|------------|--------------|
@@ -37,4 +37,7 @@ Here is a list of various cloud storage services along with key details such as 
 | [Filen.io](https://filen.io) | 10GB 🆓 | 🔐 Zero-knowledge encryption | 🖥️ Windows, Mac, Linux, 📱 iOS, Android |
 | [Zoolz](https://www.zoolz.com) | 100GB 🆓 | 🤖 AI-enhanced encryption | 🖥️ Windows, Mac, 📱 iOS, Android |
 
-You can edit this file to update any details or add more services.
+<br>
+
+### 👨‍💻 Author  
+Developed by **Cyb3r-LuckySant** ❤️
