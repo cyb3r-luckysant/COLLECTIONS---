@@ -26,3 +26,9 @@ Explore some of the best **free** web hosting services available today:
 ⚠️ **Note:** Free hosting often has **limitations**; consider **upgrading** for better performance, security, and support.  
 
 --- 
+
+
+<br>
+
+### 👨‍💻 Author  
+Developed by **Cyb3r-LuckySant** ❤️
