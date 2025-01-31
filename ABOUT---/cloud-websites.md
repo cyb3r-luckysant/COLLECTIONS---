@@ -1,12 +1,12 @@
 # ☁️ Cloud Storage Services
 
 # 𝗕𝗲𝘀𝘁 𝗖𝗹𝗼𝘂𝗱 𝗦𝘁𝗼𝗿𝗮𝗴𝗲 𝗦𝗲𝗿𝘃𝗶𝗰𝗲𝘀 𝘄𝗲𝗯𝘀𝗶𝘁𝗲 𝗮𝗻𝗱 , 𝗜 𝗮𝗹𝘀𝗼 𝘂𝘀𝗲 𝘁𝗵𝗶𝘀 𝟲 𝗯𝗲𝘀𝘁 𝘄𝗲𝗯𝘀𝗶𝘁𝗲𝘀 𝗳𝗼𝗿 𝗖𝗹𝗼𝘂𝗱 𝗦𝘁𝗼𝗿𝗮𝗴𝗲 ..! 🌎💖
-[`VegaMovies`](https://vegamovies.phd/)
-[`HindiLinks4U`](https://hindilinks4u.express/)
-[`Hdhub4u`](https://hdhub4u.spa/)
-[`Full4Movies`](https://www.full4movies.food/)
-[`YUMovies`](https://Yupmovie.com)
-[`SSRMovies`](https://ssrmovies.wf/)
+[`MEGA`](https://mega.io)
+[`TeraBox`](https://www.terabox.com)
+[`Google Drive`](https://www.google.com/drive/)
+[`pCloud`](https://www.pcloud.com)
+[`MediaFire`](https://www.mimedia.com)
+[`Icedrive`](https://www.idrive.com)
 
 <br>
 
