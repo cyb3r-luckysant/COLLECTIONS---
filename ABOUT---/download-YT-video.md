@@ -1,9 +1,27 @@
+### To download YouTube videos without using any website or application:
+### Useful Tools and Extensions
 
-fast download [Firefox Extension](https://chromewebstore.google.com/detail/foxified/cldmemdnllncchfahbcnjijheaolemfk?hl=en)
-dhan download [youtube-downloader](https://addoncrop.com/v27/youtube-downloader/)
+## First, download the extension.
+1. **Firefox Extension (Foxified)**:  
+   Download the [Foxified Firefox Extension](https://chromewebstore.google.com/detail/foxified/cldmemdnllncchfahbcnjijheaolemfk?hl=en) to easily install Chrome extensions on Firefox.
+## Also, make sure the extension is properly downloaded.
+2. **YouTube Downloader**:  
+   Download the [YouTube Downloader](https://addoncrop.com/v27/youtube-downloader/) from AddonCrop to save YouTube videos directly to your device.
+   
+<br>
+
+# After the extension is downloaded and installed, use it to download [YouTube](https://www.youtube.com/) videos directly
 
 
--- [Flixmate](https://flixmate.net/#faqs) is a free media tool that helps you to download, cut, convert and merge audio and video streams 
 
+---
 
-https://chromewebstore.google.com/detail/foxified/cldmemdnllncchfahbcnjijheaolemfk?hl=en
+**Disclaimer**:  [Flixmate](https://flixmate.net/#faqs) is a free media tool that helps you download, cut, convert, and merge audio and video streams.
+
+<br>
+
+### 👨‍💻 Author  
+Developed by **Cyb3r-LuckySant** ❤️  
+
+  
+
