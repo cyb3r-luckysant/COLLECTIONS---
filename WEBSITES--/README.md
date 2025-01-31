@@ -33,19 +33,19 @@
 > COMPLETED-:-  [MOVIES-DOWNLOADS-LINK](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/movies-download.md) , movies download websites from which you can directly download free HD movies...!
 
 > [!NOTE]
-> COMPLETED-:- [FILE SHARING DOWNLOADING](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/File%20Sharing-Downloading.md) ,  ...!
+> COMPLETED-:- [FILE SHARING DOWNLOADING](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/File%20Sharing-Downloading.md) , file-sharing, cloud storage, and streaming platforms..!
 
 > [!NOTE]
-> COMPLETED-:-  [FREE HOSTING](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/Free-Hosting-website.md) , ...!
+> COMPLETED-:-  [FREE HOSTING](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/Free-Hosting-website.md) , Explore some of the best free web hosting services available..!
 
 > [!NOTE]
-> COMPLETED-:- [CLOUD WEBSITES](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/cloud-websites.md) ,  ...!
+> COMPLETED-:- [CLOUD WEBSITES](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/cloud-websites.md) , list of cloud storage services along with key details such as free storage..!
 
 > [!NOTE]
-> COMPLETED-:-  [PHISHING SITES](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/phishing-websites.md) , ...!
+> COMPLETED-:-  [PHISHING SITES](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/phishing-websites.md) , ..!
 
 > [!NOTE]
-> COMPLETED-:- [WATCH MOVIES AND WEBSHOWS](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/watch-movies-webshows.md) ,  ...!
+> COMPLETED-:- [WATCH MOVIES AND WEBSHOWS](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/watch-movies-webshows.md) , is a list of movie streaming websites..!
 
 > [!NOTE]
 > COMPLETED-:-  [---](---) , ...!
