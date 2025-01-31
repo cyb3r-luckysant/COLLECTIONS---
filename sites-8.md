@@ -104,7 +104,7 @@
 - 💰 [dropsend.com](https://www.dropsend.com) - A file sharing service that lets you make money.
 
 ---
-
+<!---
 # 💻 Cracking Software
 
 - 🛠️ [techno360.in](https://www.techno360.in) - A website providing cracked software and tools.
@@ -141,3 +141,5 @@
 - 📱 [gamesalad.com](https://gamesalad.com) - A platform for creating games without programming skills.
 - 📱 [appypie.com](https://www.appypie.com) - Another platform to build apps without coding.
 - 📱 [appery.io](https://appery.io) - A no-code app development platform.
+
+--->
