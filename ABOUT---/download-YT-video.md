@@ -18,7 +18,7 @@
    
 <br>
 
-# After the extension is downloaded and installed, use it to download [YouTube](https://www.youtube.com/) videos directly
+### After the extension is downloaded and installed, use it to download [YouTube](https://www.youtube.com/) videos directly
 
 
 
