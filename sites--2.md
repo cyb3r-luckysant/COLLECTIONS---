@@ -1,6 +1,6 @@
 # 🛠️ Useful Tools and Resources
 
-## 📚 Learning Platforms
+<!--## 📚 Learning Platforms
 
 - 🧠 [Mindluster](https://www.mindluster.com/) - Learn new skills through a variety of courses.
 - 💻 [Class Central - Ethical Hacking](https://www.classcentral.com/subject/ethical-hacking) - Explore ethical hacking courses.
@@ -45,3 +45,5 @@
 
 - 🌍 [IP Lookup - IP Lookup](https://www.ip-lookup.org/location/) - Find the location of an IP address.
 - 🌍 [IP Location - IP Location Net](https://www.iplocation.net/ip-lookup) - IP address location lookup service.
+
+  -->
