@@ -1,6 +1,14 @@
 ### To download YouTube videos without using any website or application:
 ### Useful Tools and Extensions
 
+### Support
+
+| Linux | Mac | Windows |
+| :---: | :----: | :-----: |
+|  ✔  |  ✔    |    ✔     |
+
+<br>
+
 ## First, download the extension.
 1. **Firefox Extension (Foxified)**:  
    Download the [Foxified Firefox Extension](https://chromewebstore.google.com/detail/foxified/cldmemdnllncchfahbcnjijheaolemfk?hl=en) to easily install Chrome extensions on Firefox.
