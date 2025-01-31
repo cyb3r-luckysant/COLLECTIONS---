@@ -77,7 +77,7 @@
 - 📨 [gmailnator.com](https://gmailnator.com) - Generate temporary Gmail addresses for short-term use.
 
 ---
-
+<!--
 # 🆔 FAKE IDENTITY GENERATION TOOLS
 
 - 📝 [fakena.me](https://fakena.me) - Generate fake names, addresses, and profiles for testing or privacy purposes.
@@ -100,3 +100,4 @@
 - 🌟 [Let's Enhance](https://letsenhance.io/) - Improve image resolution with AI-enhanced features.
 - 🌟 [Media.io Image Upscaler](https://www.media.io/image-upscaler.html) - Upscale and enhance your images online, improving resolution and quality.
 
+-->
