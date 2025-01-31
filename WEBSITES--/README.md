@@ -50,7 +50,7 @@
 > [!NOTE]
 > COMPLETED-:-  [---](---) , ...!
 
-> [!COMPLETED]
+> [!NOTE]
 > COMPLETED-:- [-BGFGFUF--](-VBBHRFHJV--) ,  ...!
 
 
