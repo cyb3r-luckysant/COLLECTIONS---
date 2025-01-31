@@ -1,7 +1,7 @@
 ### To download YouTube videos without using any website or application:
 ### Useful Tools and Extensions
 
-### Support
+### Use on 
 
 | Linux | Mac | Windows |
 | :---: | :----: | :-----: |
