@@ -24,7 +24,7 @@
 <br>
 
 > [!NOTE]
-> [---](---) , ---..!
+> [TERMUX-BASIC-PACKAGES](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/HACKING--/TERMUX-BASIC-PACKAGES.md) ,...!
 
 > [!NOTE]
 > [---](---) , ---..!
