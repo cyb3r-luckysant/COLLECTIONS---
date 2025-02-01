@@ -33,23 +33,38 @@
 > [DARK-WEB-SEARCH-ENGINES](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/HACKING--/Dark-Web-Search-Engines.md) , ---..!
 
 > [!NOTE]
-> [---](---) , ---..!
+> [HACKING-STFTWARE-FOR-DESKTOP](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/HACKING--/Hacking-Software-for-Desktop.md) , ---..!
 
 > [!NOTE]
-> [---](---) , ---..!
+> [HACKING-QNA](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/HACKING--/hacking-QNA.md) , ---..!
 
 
 > [!NOTE]
-> [---](---) , ---..!
+> [LINUX-COMMANDAS](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/HACKING--/linux_commands_guide.md) , ---..!
 
 > [!NOTE]
-> [---](---) , ---..!
+> [SPY-ANDROID](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/HACKING--/spy-android.md), ---..!
 
 > [!NOTE]
 > [---](---) , ---..!
 
 > [!NOTE]
 > COMPLETED-:-  [---](---) , ...!
+
+> [!NOTE]
+> [---](---) , ---..!
+
+> [!NOTE]
+> [---](---) , ---..!
+
+> [!NOTE]
+> [---](---) , ---..!
+
+
+> [!NOTE]
+> [---](---) , ---..!
+
+
 
 
 <br>
