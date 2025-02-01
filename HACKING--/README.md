@@ -27,10 +27,10 @@
 > [TERMUX-BASIC-PACKAGES](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/HACKING--/TERMUX-BASIC-PACKAGES.md) ,...!
 
 > [!NOTE]
-> [---](---) , ---..!
+> [10-BEST-TOOLS](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/HACKING--/10-best-tools.md) , ---..!
 
 > [!NOTE]
-> [---](---) , ---..!
+> [DARK-WEB-SEARCH-ENGINES](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/HACKING--/Dark-Web-Search-Engines.md) , ---..!
 
 > [!NOTE]
 > [---](---) , ---..!
