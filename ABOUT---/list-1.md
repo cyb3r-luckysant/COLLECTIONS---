@@ -1,13 +1,14 @@
-1.) FxSound - https://apps.microsoft.com/store/deta...
-2.) Monitorian - https://www.microsoft.com/store/produ...
-3.) MoviesFlix - Available of Microsoft Store
-4.) Material You New tab - https://github.com/XengShi/materialYo...
-5.) Lively Wallpaper - https://www.microsoft.com/store/produ...
-6.) RainMeter - https://www.rainmeter.net/
-7.) RoundedTB - https://roundedtb.com/
-8.) TranslucentTB - https://www.microsoft.com/store/produ...
-9.) Moonlight - https://play.google.com/store/apps/de...
-10.) LocalSend - https://localsend.org/
-11.) Quicklook - https://www.microsoft.com/store/produ...
-12.) WinaeroTweaker - You can Google it.
-13.) Microsoft PowerToys - https://apps.microsoft.com/store/deta...
+
+[FxSound](https://apps.microsoft.com/detail/xp8jk4tbq03lz4?ocid=pdpshare&hl=en-US&gl=IN)
+[ Monitorian](https://apps.microsoft.com/detail/9nw33j738bl0?ocid=pdpshare&hl=en-US&gl=US)
+[MoviesFlix - Available of Microsoft Store]()
+[Material You New tab](https://github.com/XengShi/materialYouNewTab)
+[Lively Wallpaper](https://apps.microsoft.com/detail/9ntm2qc6qws7?ocid=pdpshare&hl=en-US&gl=US)
+[RainMeter](https://www.rainmeter.net/)
+[ RoundedTB](https://roundedtb.com/)
+[TranslucentTB](https://apps.microsoft.com/detail/9pf4kz2vn4w9?ocid=pdpshare&hl=en-US&gl=US)
+[Moonlight](https://play.google.com/store/apps/details?id=com.limelight&pcampaignid=web_share)
+[ LocalSend ](https://localsend.org/)
+[ Quicklook](https://apps.microsoft.com/detail/9nv4bs3l1h4s?ocid=pdpshare&hl=en-US&gl=US)
+[WinaeroTweaker - You can Google it.]()
+[Microsoft PowerToys](https://apps.microsoft.com/detail/xp89dcgq3k6vld?ocid=pdpshare&hl=en-US&gl=IN)
