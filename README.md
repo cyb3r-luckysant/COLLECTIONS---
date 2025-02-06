@@ -66,7 +66,8 @@ Welcome to my GitHub COLLECTIONS !
 ---
 <br>
 
-## ©️ Copyright Message [MIT License](ww.google.com)
+## ©️ Copyright Message
+[MIT License](ww.google.com)
 ```
 MIT License
 
