@@ -1,1 +1,1 @@
-https://www.remove.bg/
+- 🖼️ [remove.bg](https://remove.bg/) - Remove backgrounds from images with ease. This AI-powered tool allows users to extract subjects from their photos quickly and effortlessly.
