@@ -67,7 +67,7 @@ Welcome to my GitHub COLLECTIONS !
 <br>
 
 ## ©️ Copyright Message
-[MIT License](ww.google.com)
+[MIT License](https://github.com/cyb3r-luckysant/COLLECTIONS---/tree/main?tab=MIT-1-ov-file)
 ```
 MIT License
 
