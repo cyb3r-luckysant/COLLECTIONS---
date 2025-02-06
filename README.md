@@ -66,13 +66,17 @@ Welcome to my GitHub COLLECTIONS !
 ---
 <br>
 
-## ©️ Copyright Message 
+## ©️ Copyright Message [MIT License](ww.google.com)
 ```
 MIT License
 
 Copyright (c) 2024 Mr LUCKY SANT
 
-This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.
+This tool is only for educational
+purpose. If you use this tool for
+other purposes except education we
+ will not be responsible in such
+ cases.
 
 ```
 
