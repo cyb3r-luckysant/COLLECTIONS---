@@ -64,11 +64,15 @@
 Welcome to my GitHub COLLECTIONS ! 
 
 ---
+<br>
 
+## ©️ Copyright Message 
 ```
 MIT License
 
 Copyright (c) 2024 Mr LUCKY SANT
+
+This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.
 
 ```
 
