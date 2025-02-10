@@ -76,7 +76,7 @@ Welcome to my GitHub COLLECTIONS  WEBSITES--!
 
 
 
-### 🪄 (COMPLITED) BUILD APP WITHOUT CODING - GITHUB 
+### (COMPLITED) BUILD APP WITHOUT CODING - GITHUB 
 <details>
   <summary><b>check out</b></summary>
  
