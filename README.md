@@ -1,4 +1,13 @@
-# COLLECTIONS---  
+<div align="center">
+
+<img width="" height = "" src="https://miro.medium.com/max/1444/1*Z5-lWkyzcRB5ahgm9qyxvg.png" alt="cover" />
+
+<h1>Hi<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm @cyb3r-luckysant</h1>
+
+</div>
+
+
+<!--# COLLECTIONS---  
 # Wait bro 👨‍💻, I'm currently working on this tool ⏳⚡,
 
 [You have something for me about this tool..!](https://www.instagram.com/mr_yash_sant) 💥🚀  
@@ -7,7 +16,7 @@
 
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=COLLECTIONS--- !+By+cyb3r-luckysant" alt="Typing SVG"></a>
-</p>
+</p>--->
 
 # <p align="center"><b>WELCOME TO MY GITHUB COLLECTIONS </b></p>
 
