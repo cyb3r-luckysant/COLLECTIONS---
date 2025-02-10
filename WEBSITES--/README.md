@@ -81,5 +81,5 @@ Welcome to my GitHub COLLECTIONS  WEBSITES--!
   <summary><b>check out</b></summary>
  
 > * An app builder that lets you create Android apps without coding..!*
-#### MODIFICAR ARCHIVO [`gata.sh`](https://github.com/GataNina-Li/GataBot-MD/blob/master/gata.sh)
+#### [BUILD APP WITHOUT CODING](https://github.com/GataNina-Li/GataBot-MD/blob/master/gata.sh)
 </details>
