@@ -1,5 +1,21 @@
 osint
 
+
+FOR SOCIAL MEDIA:
+
+• Sherlock
+
+• Social Searcher
+
+• Maltego
+
+• SocioSpy
+
+• OSINTCombine Tools
+
+• Pipl
+
+
 FOR PHONE NUMBER:
 
 • Truecaller
