@@ -1,6 +1,20 @@
 osint
 
 
+FOR EMAIL:
+
+• Hunter.io
+
+• EmailRep
+
+• Have I Been Pwned?
+
+• MailTester
+
+• EmailHarvester
+
+• Phish Tank
+
 
 FOR DOCUMENT:
 
