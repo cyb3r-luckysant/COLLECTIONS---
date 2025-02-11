@@ -1,91 +1,175 @@
-OSINT Tools ?
+# OSINT Tools
 
-FOR IP ADDRESS:
+A curated list of Open Source Intelligence (OSINT) tools categorized by their use case. Each tool includes a brief description and a link for further exploration.
 
-• IPinfo
+---
 
-• Shodan
+## **IP Address Tools**
 
-• MaxMind GeoIP
+- **IPinfo**  
+  A comprehensive IP address data provider offering geolocation, ASN, and company details.  
+  [Website](https://ipinfo.io/)
 
-• ThreatCrowd
+- **Shodan**  
+  A search engine for internet-connected devices, providing insights into IPs, services, and vulnerabilities.  
+  [Website](https://www.shodan.io/)
 
-• OpenTracker
+- **MaxMind GeoIP**  
+  Provides IP geolocation and demographic data for accurate location tracking.  
+  [Website](https://www.maxmind.com/)
 
-• RIPEstat
+- **ThreatCrowd**  
+  A search engine for threat intelligence, including IPs, domains, and malware.  
+  [Website](https://www.threatcrowd.org/)
 
+- **OpenTracker**  
+  A real-time IP tracking tool for monitoring website visitors.  
+  [Website](https://www.opentracker.net/)
 
-FOR SOCIAL MEDIA:
+- **RIPEstat**  
+  A toolbox for analyzing IP addresses, ASNs, and routing data.  
+  [Website](https://stat.ripe.net/)
 
-• Sherlock
+---
 
-• Social Searcher
+## **Social Media Tools**
 
-• Maltego
+- **Sherlock**  
+  A tool for finding usernames across multiple social media platforms.  
+  [GitHub](https://github.com/sherlock-project/sherlock)
 
-• SocioSpy
+- **Social Searcher**  
+  A free social media search engine for monitoring public content.  
+  [Website](https://www.social-searcher.com/)
 
-• OSINTCombine Tools
+- **Maltego**  
+  A powerful OSINT tool for link analysis and data visualization.  
+  [Website](https://www.maltego.com/)
 
-• Pipl
+- **SocioSpy**  
+  A tool for gathering social media profiles and information.  
+  [Website](https://sociospy.com/)
 
+- **OSINTCombine Tools**  
+  A collection of OSINT tools for social media and web investigations.  
+  [Website](https://www.osintcombine.com/)
 
-FOR PHONE NUMBER:
+- **Pipl**  
+  A people search engine for finding contact details and social profiles.  
+  [Website](https://pipl.com/)
 
-• Truecaller
+---
 
-• PhoneInfoga
+## **Phone Number Tools**
 
-• NumLookup
+- **Truecaller**  
+  A caller ID and phone number lookup tool with a global database.  
+  [Website](https://www.truecaller.com/)
 
-• SpyDialer
+- **PhoneInfoga**  
+  An advanced OSINT tool for phone number scanning and reconnaissance.  
+  [GitHub](https://github.com/sundowndev/PhoneInfoga)
 
-• Twilio Lookup
+- **NumLookup**  
+  A free phone number lookup tool for identifying unknown callers.  
+  [Website](https://www.numlookup.com/)
 
-• Hacked Phone
+- **SpyDialer**  
+  A tool for listening to voicemails and identifying phone numbers.  
+  [Website](https://www.spydialer.com/)
 
+- **Twilio Lookup**  
+  A phone number validation and carrier lookup API.  
+  [Website](https://www.twilio.com/lookup)
 
-FOR EMAIL:
+- **Hacked Phone**  
+  A resource for identifying compromised phone numbers and securing devices.  
+  [Website](https://hacked-phone.com/)
 
-• Hunter.io
+---
 
-• EmailRep
+## **Email Tools**
 
-• Have I Been Pwned?
+- **Hunter.io**  
+  A tool for finding and verifying email addresses associated with a domain.  
+  [Website](https://hunter.io/)
 
-• MailTester
+- **EmailRep**  
+  A reputation lookup tool for email addresses to assess their legitimacy.  
+  [Website](https://emailrep.io/)
 
-• EmailHarvester
+- **Have I Been Pwned?**  
+  A database for checking if an email has been compromised in a data breach.  
+  [Website](https://haveibeenpwned.com/)
 
-• Phish Tank
+- **MailTester**  
+  A tool for testing the validity and deliverability of email addresses.  
+  [Website](https://mailtester.com/)
 
+- **EmailHarvester**  
+  A Python tool for harvesting email addresses from websites.  
+  [GitHub](https://github.com/maldevel/EmailHarvester)
 
-FOR DOCUMENT:
+- **Phish Tank**  
+  A community-driven database for identifying phishing websites and emails.  
+  [Website](https://phishtank.org/)
 
-• PDF Examiner
+---
 
-• MetaShield Analyzer
+## **Document Tools**
 
-• DocuScope
+- **PDF Examiner**  
+  A tool for analyzing PDF metadata and extracting hidden information.  
+  [Website](https://www.pdfexaminer.com/)
 
-• VirusTotal
+- **MetaShield Analyzer**  
+  A metadata analysis tool for documents and images.  
+  [Website](https://metashieldanalyzer.elevenpaths.com/)
 
-• YARA Analyzer
+- **DocuScope**  
+  A tool for analyzing and visualizing document content.  
+  [Website](https://www.docuscope.com/)
 
-• Pastebin Search
+- **VirusTotal**  
+  A tool for scanning documents and files for malware.  
+  [Website](https://www.virustotal.com/)
 
+- **YARA Analyzer**  
+  A tool for creating and applying YARA rules to detect malware in documents.  
+  [GitHub](https://github.com/Neo23x0/yara-analyzer)
 
-FOR IMAGE:
+- **Pastebin Search**  
+  A tool for searching public Pastebin entries for leaked documents or data.  
+  [Website](https://psbdmp.ws/)
 
-• Reverse Image Search
+---
 
-• TinEye
+## **Image Tools**
 
-• ExifTool
+- **Reverse Image Search**  
+  Google’s reverse image search tool for finding similar images online.  
+  [Website](https://images.google.com/)
 
-• FotoForensics
+- **TinEye**  
+  A reverse image search engine for finding image sources and duplicates.  
+  [Website](https://tineye.com/)
 
-• ImageRaider
+- **ExifTool**  
+  A tool for reading and editing metadata in image files.  
+  [Website](https://exiftool.org/)
 
-• PicTriev
+- **FotoForensics**  
+  A tool for analyzing images and detecting digital manipulation.  
+  [Website](https://fotoforensics.com/)
 
+- **ImageRaider**  
+  A reverse image search tool for finding image matches across the web.  
+  [Website](https://www.imageraider.com/)
+
+- **PicTriev**  
+  A facial recognition and image similarity search tool.  
+  [Website](http://www.pictriev.com/)
+
+---
+
+> **Note:** Always use OSINT tools responsibly and in compliance with applicable laws and regulations.
