@@ -1,5 +1,19 @@
 osint
 
+FOR PHONE NUMBER:
+
+• Truecaller
+
+• PhoneInfoga
+
+• NumLookup
+
+• SpyDialer
+
+• Twilio Lookup
+
+• Hacked Phone
+
 
 FOR EMAIL:
 
