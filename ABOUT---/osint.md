@@ -1,175 +1,175 @@
-# OSINT Tools
+# 🌐 OSINT Tools
 
-A curated list of Open Source Intelligence (OSINT) tools categorized by their use case. Each tool includes a brief description and a link for further exploration.
+A curated list of **Open Source Intelligence (OSINT)** tools categorized by their use case. Each tool includes a brief description and a link for further exploration.  
 
 ---
 
-## **IP Address Tools**
+## 🔍 **IP Address Tools**
 
-- **IPinfo**  
+- **🌐 IPinfo**  
   A comprehensive IP address data provider offering geolocation, ASN, and company details.  
-  [Website](https://ipinfo.io/)
+  [🔗 Website](https://ipinfo.io/)
 
-- **Shodan**  
+- **🛠️ Shodan**  
   A search engine for internet-connected devices, providing insights into IPs, services, and vulnerabilities.  
-  [Website](https://www.shodan.io/)
+  [🔗 Website](https://www.shodan.io/)
 
-- **MaxMind GeoIP**  
+- **📍 MaxMind GeoIP**  
   Provides IP geolocation and demographic data for accurate location tracking.  
-  [Website](https://www.maxmind.com/)
+  [🔗 Website](https://www.maxmind.com/)
 
-- **ThreatCrowd**  
+- **⚠️ ThreatCrowd**  
   A search engine for threat intelligence, including IPs, domains, and malware.  
-  [Website](https://www.threatcrowd.org/)
+  [🔗 Website](https://www.threatcrowd.org/)
 
-- **OpenTracker**  
+- **📊 OpenTracker**  
   A real-time IP tracking tool for monitoring website visitors.  
-  [Website](https://www.opentracker.net/)
+  [🔗 Website](https://www.opentracker.net/)
 
-- **RIPEstat**  
+- **📡 RIPEstat**  
   A toolbox for analyzing IP addresses, ASNs, and routing data.  
-  [Website](https://stat.ripe.net/)
+  [🔗 Website](https://stat.ripe.net/)
 
 ---
 
-## **Social Media Tools**
+## 📱 **Social Media Tools**
 
-- **Sherlock**  
+- **🕵️ Sherlock**  
   A tool for finding usernames across multiple social media platforms.  
-  [GitHub](https://github.com/sherlock-project/sherlock)
+  [🔗 GitHub](https://github.com/sherlock-project/sherlock)
 
-- **Social Searcher**  
+- **🔎 Social Searcher**  
   A free social media search engine for monitoring public content.  
-  [Website](https://www.social-searcher.com/)
+  [🔗 Website](https://www.social-searcher.com/)
 
-- **Maltego**  
+- **🖥️ Maltego**  
   A powerful OSINT tool for link analysis and data visualization.  
-  [Website](https://www.maltego.com/)
+  [🔗 Website](https://www.maltego.com/)
 
-- **SocioSpy**  
+- **👀 SocioSpy**  
   A tool for gathering social media profiles and information.  
-  [Website](https://sociospy.com/)
+  [🔗 Website](https://sociospy.com/)
 
-- **OSINTCombine Tools**  
+- **🧰 OSINTCombine Tools**  
   A collection of OSINT tools for social media and web investigations.  
-  [Website](https://www.osintcombine.com/)
+  [🔗 Website](https://www.osintcombine.com/)
 
-- **Pipl**  
+- **👤 Pipl**  
   A people search engine for finding contact details and social profiles.  
-  [Website](https://pipl.com/)
+  [🔗 Website](https://pipl.com/)
 
 ---
 
-## **Phone Number Tools**
+## 📞 **Phone Number Tools**
 
-- **Truecaller**  
+- **📲 Truecaller**  
   A caller ID and phone number lookup tool with a global database.  
-  [Website](https://www.truecaller.com/)
+  [🔗 Website](https://www.truecaller.com/)
 
-- **PhoneInfoga**  
+- **📟 PhoneInfoga**  
   An advanced OSINT tool for phone number scanning and reconnaissance.  
-  [GitHub](https://github.com/sundowndev/PhoneInfoga)
+  [🔗 GitHub](https://github.com/sundowndev/PhoneInfoga)
 
-- **NumLookup**  
+- **🔢 NumLookup**  
   A free phone number lookup tool for identifying unknown callers.  
-  [Website](https://www.numlookup.com/)
+  [🔗 Website](https://www.numlookup.com/)
 
-- **SpyDialer**  
+- **🎙️ SpyDialer**  
   A tool for listening to voicemails and identifying phone numbers.  
-  [Website](https://www.spydialer.com/)
+  [🔗 Website](https://www.spydialer.com/)
 
-- **Twilio Lookup**  
+- **📞 Twilio Lookup**  
   A phone number validation and carrier lookup API.  
-  [Website](https://www.twilio.com/lookup)
+  [🔗 Website](https://www.twilio.com/lookup)
 
-- **Hacked Phone**  
+- **📴 Hacked Phone**  
   A resource for identifying compromised phone numbers and securing devices.  
-  [Website](https://hacked-phone.com/)
+  [🔗 Website](https://hacked-phone.com/)
 
 ---
 
-## **Email Tools**
+## 📧 **Email Tools**
 
-- **Hunter.io**  
+- **📨 Hunter.io**  
   A tool for finding and verifying email addresses associated with a domain.  
-  [Website](https://hunter.io/)
+  [🔗 Website](https://hunter.io/)
 
-- **EmailRep**  
+- **📊 EmailRep**  
   A reputation lookup tool for email addresses to assess their legitimacy.  
-  [Website](https://emailrep.io/)
+  [🔗 Website](https://emailrep.io/)
 
-- **Have I Been Pwned?**  
+- **🔓 Have I Been Pwned?**  
   A database for checking if an email has been compromised in a data breach.  
-  [Website](https://haveibeenpwned.com/)
+  [🔗 Website](https://haveibeenpwned.com/)
 
-- **MailTester**  
+- **📧 MailTester**  
   A tool for testing the validity and deliverability of email addresses.  
-  [Website](https://mailtester.com/)
+  [🔗 Website](https://mailtester.com/)
 
-- **EmailHarvester**  
+- **🛠️ EmailHarvester**  
   A Python tool for harvesting email addresses from websites.  
-  [GitHub](https://github.com/maldevel/EmailHarvester)
+  [🔗 GitHub](https://github.com/maldevel/EmailHarvester)
 
-- **Phish Tank**  
+- **🎣 Phish Tank**  
   A community-driven database for identifying phishing websites and emails.  
-  [Website](https://phishtank.org/)
+  [🔗 Website](https://phishtank.org/)
 
 ---
 
-## **Document Tools**
+## 📄 **Document Tools**
 
-- **PDF Examiner**  
+- **📑 PDF Examiner**  
   A tool for analyzing PDF metadata and extracting hidden information.  
-  [Website](https://www.pdfexaminer.com/)
+  [🔗 Website](https://www.pdfexaminer.com/)
 
-- **MetaShield Analyzer**  
+- **🛡️ MetaShield Analyzer**  
   A metadata analysis tool for documents and images.  
-  [Website](https://metashieldanalyzer.elevenpaths.com/)
+  [🔗 Website](https://metashieldanalyzer.elevenpaths.com/)
 
-- **DocuScope**  
+- **📊 DocuScope**  
   A tool for analyzing and visualizing document content.  
-  [Website](https://www.docuscope.com/)
+  [🔗 Website](https://www.docuscope.com/)
 
-- **VirusTotal**  
+- **🦠 VirusTotal**  
   A tool for scanning documents and files for malware.  
-  [Website](https://www.virustotal.com/)
+  [🔗 Website](https://www.virustotal.com/)
 
-- **YARA Analyzer**  
+- **🔍 YARA Analyzer**  
   A tool for creating and applying YARA rules to detect malware in documents.  
-  [GitHub](https://github.com/Neo23x0/yara-analyzer)
+  [🔗 GitHub](https://github.com/Neo23x0/yara-analyzer)
 
-- **Pastebin Search**  
+- **📋 Pastebin Search**  
   A tool for searching public Pastebin entries for leaked documents or data.  
-  [Website](https://psbdmp.ws/)
+  [🔗 Website](https://psbdmp.ws/)
 
 ---
 
-## **Image Tools**
+## 🖼️ **Image Tools**
 
-- **Reverse Image Search**  
+- **🖼️ Reverse Image Search**  
   Google’s reverse image search tool for finding similar images online.  
-  [Website](https://images.google.com/)
+  [🔗 Website](https://images.google.com/)
 
-- **TinEye**  
+- **🔍 TinEye**  
   A reverse image search engine for finding image sources and duplicates.  
-  [Website](https://tineye.com/)
+  [🔗 Website](https://tineye.com/)
 
-- **ExifTool**  
+- **📷 ExifTool**  
   A tool for reading and editing metadata in image files.  
-  [Website](https://exiftool.org/)
+  [🔗 Website](https://exiftool.org/)
 
-- **FotoForensics**  
+- **🕵️ FotoForensics**  
   A tool for analyzing images and detecting digital manipulation.  
-  [Website](https://fotoforensics.com/)
+  [🔗 Website](https://fotoforensics.com/)
 
-- **ImageRaider**  
+- **🌐 ImageRaider**  
   A reverse image search tool for finding image matches across the web.  
-  [Website](https://www.imageraider.com/)
+  [🔗 Website](https://www.imageraider.com/)
 
-- **PicTriev**  
+- **👤 PicTriev**  
   A facial recognition and image similarity search tool.  
-  [Website](http://www.pictriev.com/)
+  [🔗 Website](http://www.pictriev.com/)
 
 ---
 
-> **Note:** Always use OSINT tools responsibly and in compliance with applicable laws and regulations.
+> **🚨 Note:** Always use OSINT tools responsibly and in compliance with applicable laws and regulations.  
