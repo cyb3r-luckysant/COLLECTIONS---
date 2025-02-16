@@ -17,3 +17,7 @@ https://github.com/tutozz/ble-spam-android/releases/tag/v1.0.0
 https://www.openapk.net/syncara/syncara.app/
 
 https://f-droid.org/en/packages/de.simon.dankelmann.bluetoothlespam/
+
+https://github.com/cSploit/android
+
+https://droidsheep.info/
