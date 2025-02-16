@@ -21,3 +21,5 @@ https://f-droid.org/en/packages/de.simon.dankelmann.bluetoothlespam/
 https://github.com/cSploit/android
 
 https://droidsheep.info/
+
+https://hackode.en.malavida.com/android/#gref
