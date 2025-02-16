@@ -13,3 +13,5 @@ https://jarmod.com/app/call-bomber-mod-apk-10-8-mod-unlocked-for-android
 https://jarmod.com/app/fake-instagram-mod-apk-v3-5-3-mod-unlocked-for-android
 
 
+https://www.openapk.net/syncara/syncara.app/
+
