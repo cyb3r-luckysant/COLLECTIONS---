@@ -25,3 +25,11 @@ https://droidsheep.info/
 https://hackode.en.malavida.com/android/#gref
 
 https://secwiki.org/w/Nmap/Android
+
+https://play.google.com/store/apps/details?id=com.tools.netgel.netxpro
+
+https://hostapk.com/wicap-2-sniffer-pro-root/
+
+https://wifikill.net/wifikill-pro-apk-free-download/
+
+https://zanti.en.softonic.com/android
