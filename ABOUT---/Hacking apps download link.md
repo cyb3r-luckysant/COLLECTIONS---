@@ -23,3 +23,5 @@ https://github.com/cSploit/android
 https://droidsheep.info/
 
 https://hackode.en.malavida.com/android/#gref
+
+https://secwiki.org/w/Nmap/Android
