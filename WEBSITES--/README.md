@@ -53,6 +53,9 @@
 > [PHISHING SITES](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/phishing-websites.md) , ..!
 
 > [!NOTE]
+> [LEARNING SITES](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/Learning-Platforms.md) , ...!
+
+> [!NOTE]
 > [WATCH MOVIES AND WEBSHOWS](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/watch-movies-webshows.md) , is a list of movie streaming websites..!
 
 > [!NOTE]
