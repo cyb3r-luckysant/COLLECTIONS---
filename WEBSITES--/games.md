@@ -6,18 +6,12 @@
 
 PLAY ONLINE GMAES AND  ENJOEY YOU LIFE 
 
-BEST GAMES --
-[`VegaMovies`](https://vegamovies.phd/)
-[`HindiLinks4U`](https://hindilinks4u.express/)
-[`Hdhub4u`](https://hdhub4u.spa/)
-[`Full4Movies`](https://www.full4movies.food/)
-[`YUMovies`](https://Yupmovie.com)
-[`SSRMovies`](https://ssrmovies.wf/)
+-------------------------
+***BEST GAMES 💌 --***
+[`♟️ Chess.com`](https://www.chess.com/)
+[`♟️ Chess.com`](https://www.chess.com/)
 
-
-
-
-
+---------------------
 
 🔢 No. | 🎮 Game Name | 🔗 Link
 --- | --- | ---
