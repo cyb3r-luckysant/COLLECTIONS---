@@ -1,7 +1,8 @@
+<p align="center">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=PLAY+ONLINE+GAMES" alt="">
+</p>
 
-
-
-
+<br>
 
 
 
@@ -100,3 +101,9 @@
 85 | ⚡ Powerline.io | [▶️ Play Game](https://powerline.io/)
 86 | 🤜 Abobo's Big Adventure | [▶️ Play Game](https://abobosbigadventure.com/fullgame.php)
 87 | 🏗️ Yorg.io | [▶️ Play Game](https://yorg.io/)
+
+
+### 👨‍💻 Author  
+Developed by **Cyb3r-LuckySant** ❤️  
+
+**Explore the tools now and simplify your workflow! 🚀**
