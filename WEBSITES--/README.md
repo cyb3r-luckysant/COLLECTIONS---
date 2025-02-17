@@ -59,6 +59,33 @@
 > [WATCH MOVIES AND WEBSHOWS](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/watch-movies-webshows.md) , is a list of movie streaming websites..!
 
 > [!NOTE]
+> [TEMP-MAILS](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/Temporary-Email.md) , ...!
+
+> [!NOTE]
+> [Travel-Map-Animations](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/Travel-Map-Animations.md) , ...!
+
+> [!NOTE]
+> COMPLETED-:-  [ANIMES DOWNLOAD-PLAY](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/download-animes.md) , ...!
+
+> [!NOTE]
+> COMPLETED-:-  [CARTUNS-DOWNLOAD](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/download-cartuns.md) , ...!
+
+> [!NOTE]
+> COMPLETED-:-  [ONLINE GMALES](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/games.md) , ...!
+
+> [!NOTE]
+> COMPLETED-:-  [wallpepars-download](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/wallpepars-download.md) , ...!
+
+> [!NOTE]
+> COMPLETED-:-  [---](---) , ...!
+
+> [!NOTE]
+> COMPLETED-:-  [---](---) , ...!
+
+> [!NOTE]
+> COMPLETED-:-  [---](---) , ...!
+
+> [!NOTE]
 > COMPLETED-:-  [---](---) , ...!
 
 > [!NOTE]
