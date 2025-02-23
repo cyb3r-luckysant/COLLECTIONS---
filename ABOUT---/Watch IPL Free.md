@@ -5,7 +5,7 @@ Enjoy live IPL matches without any subscription fees. Download the best streamin
 ## 📲 Applications for Free IPL Streaming  
 
 1️⃣ [Pikashow](https://pikashow.com.co/apk-download/) 🔗  
-2️⃣ [RTS TV](#) 🔗  
+2️⃣ [RTS TV](https://www.rtstvapp.org/) 🔗  
 3️⃣ [SportEM](#) 🔗  
 4️⃣ [Mamix](#) 🔗  
 5️⃣ [CRICFy TV](#) 🔗  
