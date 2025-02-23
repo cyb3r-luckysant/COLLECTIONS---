@@ -12,7 +12,7 @@ Enjoy live IPL matches without any subscription fees. Download the best streamin
 6️⃣ [Redstar TV](https://apkboat.io/red-star-tv/) 🔗  
 7️⃣ [Hunk TV](https://hunktvapk.co.in/) 🔗  
 8️⃣ [Redbox TV](https://redboxtvs.org/) 🔗  
-9️⃣ [Thop TV](#) 🔗  
+9️⃣ [Thop TV](https://thoptv.io/download-apk/) 🔗  
 🔟 [Flix Sports](#) 🔗  
 
 ## 🌍 Websites for Live Streaming  
