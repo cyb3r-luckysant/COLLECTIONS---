@@ -1,0 +1,26 @@
+# 🏏 Watch IPL Free of Cost!  
+
+Enjoy live IPL matches without any subscription fees. Download the best streaming apps now!  
+
+## 📲 Applications for Free IPL Streaming  
+
+1️⃣ [Pikashow](#) 🔗  
+2️⃣ [RTS TV](#) 🔗  
+3️⃣ [SportEM](#) 🔗  
+4️⃣ [Mamix](#) 🔗  
+5️⃣ [CRICFy TV](#) 🔗  
+6️⃣ [Redstar TV](#) 🔗  
+7️⃣ [Hunk TV](#) 🔗  
+8️⃣ [Redbox TV](#) 🔗  
+9️⃣ [Thop TV](#) 🔗  
+🔟 [Flix Sports](#) 🔗  
+
+## 🌍 Websites for Live Streaming  
+
+1️⃣ [Website 1](#) 🔗  
+2️⃣ [Website 2](#) 🔗  
+
+📌 **Note:** Use a VPN if any app or website is restricted in your region.  
+
+Enjoy the game! 🏆🔥  
+
