@@ -10,7 +10,7 @@ Enjoy live IPL matches without any subscription fees. Download the best streamin
 4️⃣ [Mamix](https://www.momix.co.in/) 🔗  
 5️⃣ [CRICFy TV](https://cricfytv.org/) 🔗  
 6️⃣ [Redstar TV](https://apkboat.io/red-star-tv/) 🔗  
-7️⃣ [Hunk TV](#) 🔗  
+7️⃣ [Hunk TV](https://hunktvapk.co.in/) 🔗  
 8️⃣ [Redbox TV](#) 🔗  
 9️⃣ [Thop TV](#) 🔗  
 🔟 [Flix Sports](#) 🔗  
