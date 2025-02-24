@@ -2,7 +2,7 @@
 
 Enjoy live IPL matches without any subscription fees. Download the best streaming apps now!  
 [`Pikashow`](https://pikashow.com.co/apk-download/)
-[`CRICFy TV`](https://cricfytv.org/)
+[`CRICFy TV`](https://cricfytv.com.co/)
 
 ## 📲 Applications for Free IPL Streaming  
 
