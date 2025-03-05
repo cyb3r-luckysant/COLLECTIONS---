@@ -5,5 +5,5 @@ W- https://megashare.com/
 D- https://www.ddlvalley.me/
 D- https://www.downloads-anymovies.co/
 D - https://movieparadise.org/
-
+D- https://vegamovies.rs/
 D- https://moviesdl.io/ + https://fileszero.com/
