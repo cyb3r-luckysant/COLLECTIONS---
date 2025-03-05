@@ -3,10 +3,10 @@
 Here are some awesome video streaming platforms where you can watch content together with friends:
 <br>
 
-[`Sync-Tube`](https://sync-tube.de/)
-[`Rave`](https://rave.io/)
-[`Kosmi`](https://app.kosmi.io/)
-
+[`🖥️ Sync-Tube`](https://sync-tube.de/)
+[`🖥️ Rave`](https://rave.io/)
+[`🖥️ Kosmi`](https://app.kosmi.io/)
+[`🖥️ Watch2Gether`](https://www.watch2gether.com/)
 
 - 🎥 [Sync-Tube](https://sync-tube.de/) - Watch videos together in real-time.
 - 🌐 [Kosmi](https://app.kosmi.io/) - Create a shared virtual space to enjoy videos, games, and more!
