@@ -1,9 +1,11 @@
 # 🎬 Video Streaming Platforms
 
 Here are some awesome video streaming platforms where you can watch content together with friends:
+<br>
+
 [`Sync-Tube`](https://sync-tube.de/)
 [`Rave`](https://rave.io/)
-[`Hdhub4u`](https://hdhub4u.spa/)
+[`Kosmi`](https://app.kosmi.io/)
 [`Full4Movies`](https://www.full4movies.food/)
 [`YUMovies`](https://Yupmovie.com)
 [`SSRMovies`](https://ssrmovies.wf/)
