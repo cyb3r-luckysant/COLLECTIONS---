@@ -6,9 +6,7 @@ Here are some awesome video streaming platforms where you can watch content toge
 [`Sync-Tube`](https://sync-tube.de/)
 [`Rave`](https://rave.io/)
 [`Kosmi`](https://app.kosmi.io/)
-[`Full4Movies`](https://www.full4movies.food/)
-[`YUMovies`](https://Yupmovie.com)
-[`SSRMovies`](https://ssrmovies.wf/)
+
 
 - 🎥 [Sync-Tube](https://sync-tube.de/) - Watch videos together in real-time.
 - 🌐 [Kosmi](https://app.kosmi.io/) - Create a shared virtual space to enjoy videos, games, and more!
