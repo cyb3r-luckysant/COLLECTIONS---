@@ -65,6 +65,62 @@ https://play.google.com/store/apps/details?id=com.mayoh.icontrol.controlos
 https://play.google.com/store/apps/details?id=flar2.homebutton
 
 
+<br>
+
+https://play.google.com/store/apps/details?id=com.crea_si.eva_facial_mouse
+
+👆🏻Eye Phone control Application 👆🏻
+
+
+<br>
+
+Ai sky replace : https://play.google.com/store/apps/details?id=com.estsoft.picnic
+
+<br>
+
+All Camera app links👇🏻
+
+
+https://play.google.com/store/apps/details?id=com.filmic.filmicpro
+
+
+https://play.google.com/store/apps/details?id=com.flavionet.android.cinema.lite
+
+https://play.google.com/store/apps/details?id=com.hvt.horizon
+
+https://maximumzoom.pro/download/
+
+✨✨✨✨✨✨✨✨✨✨
+
+
+<br>
+
+Prank friend with message tutorial 
+
+App link
+
+https://play.google.com/store/apps/details?id=com.arlosoft.macrodroid
+
+<br>
+
+Unlimited Calling App
+
+https://play.google.com/store/apps/details?id=net.whatscall.freecall
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
