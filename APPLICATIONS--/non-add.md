@@ -19,3 +19,9 @@ Reel link: https://www.instagram.com/reel/DGXM1P0twk_/?igsh=OGF3eWNjMGgxaXp5
 For Android👉🏻:https://play.google.com/store/apps/details?id=com.audiomack
 
 For iphone 👉🏻:https://apps.apple.com/in/app/audiomack-play-music-offline/id921765888
+
+<br>
+
+https://play.google.com/store/apps/details?id=com.mycompany.app.soulbrowser
+
+Browser link
