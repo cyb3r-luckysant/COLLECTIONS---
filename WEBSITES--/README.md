@@ -62,28 +62,28 @@
 > [WATCH MOVIES AND WEBSHOWS](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/watch-movies-webshows.md) , is a list of movie streaming websites..!
 
 > [!NOTE]
-> [TEMP-MAILS](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/Temporary-Email.md) , ...!
+> [TEMP-MAILS](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/Temporary-Email.md) , Temp Mail provides temporary, anonymous, free, secure, disposable email address...!
 
 > [!NOTE]
-> [Travel-Map-Animations](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/Travel-Map-Animations.md) , ...!
+> [TRAVEL-MAP-ANIMATIONS](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/Travel-Map-Animations.md) , ...! 
 
 > [!NOTE]
-> [ANIMES DOWNLOAD-PLAY](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/download-animes.md) , ...!
+> [ANIMES DOWNLOAD-PLAY](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/download-animes.md) , A popular website for downloading both subbed and dubbed anime series and movies also watch free online...!
 
 > [!NOTE]
-> [CARTUNS-DOWNLOAD](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/download-cartuns.md) , ...!
+> [CARTUNS-DOWNLOAD](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/download-cartuns.md) , Download free cartoons videos...!
 
 > [!NOTE]
-> [ONLINE GMALES](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/games.md) , ...!
+> [ONLINE GMALES](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/games.md) , the best place to play high-quality browser games. We add new games every day. Have fun!...!
 
 > [!NOTE]
-> [streaming-together.md](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/streaming-together.md) , ...!
+> [STREAMING-TOGETHER](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/streaming-together.md) , Enjoy movie night online with your long-distance partner, start a watch party with good buddies, or hang out and binge anime with your best friend....! 
 
 > [!NOTE]
-> [Software-downloads.md](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/Software-downloads.md) , ...!
+> [DOWNLOADS-SOFTWARE](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/Software-downloads.md) , download softwares for pc and android free and fast...! 
 
 > [!NOTE]
-> [wallpepars-download](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/wallpepars-download.md) , ...!
+> [DOWNLOADS-WALLPEPARS](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/wallpepars-download.md) ,  Download the best HD and Ultra HD Wallpapers for free. Use them as wallpapers for your mobile or desktop screens...! 
 
 > [!NOTE]
 > COMPLETED-:-  [---](---) , ...!
