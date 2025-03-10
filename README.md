@@ -36,7 +36,7 @@
 > COMPLETED :- [WEBSITES--](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/README.md)
 > [HACKING---](https://github.com/cyb3r-luckysant/COLLECTIONS--)
 > [APPLICATIONS--](https://github.com/cyb3r-luckysant/APPLICATIONS--)
-> [ARTIFICIAL-INTELLIGENCE--](--)
+> [ARTIFICIAL-INTELLIGENCE--](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/ARTIFICIAL-INTELLIGENCE--/README.md)
 
 
 <br>
