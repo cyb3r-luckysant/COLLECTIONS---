@@ -27,10 +27,10 @@
 
 
 > [!NOTE]
-> COMPLETED-:-  [---](---) , ...!
+> COMPLETED-:-  [Watch IPL Free of Cost.md](---) , ...!
 
 > [!NOTE]
-> COMPLETED-:-  [---](---) , ...!
+> COMPLETED-:-  [code_editers.md](---) , ...!
 
 > [!NOTE]
 > COMPLETED-:-  [---](---) , ...!
