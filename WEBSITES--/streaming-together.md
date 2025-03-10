@@ -20,3 +20,12 @@ Here are some awesome video streaming platforms where you can watch content toge
 - 🛋️ [Plex Watch Together](https://www.plex.tv/) - Stream and watch your favorite content with others.
   
 Enjoy your virtual movie nights! 🍿🎉
+
+### 🪄 NEW WEBSITES-APPLICATION
+<details>
+  <summary><b>check out</b></summary>
+ 
+> * Video Streaming Platforms
+#### [watchparty](https://www.watchparty.me/)
+#### [hyperbeam](https://watch.hyperbeam.com/)
+</details>
