@@ -28,4 +28,6 @@ Enjoy your virtual movie nights! 🍿🎉
 > * Video Streaming Platforms
 #### [watchparty](https://www.watchparty.me/)
 #### [hyperbeam](https://watch.hyperbeam.com/)
+#### [kastapp](https://kastapp.co/)
+#### [streamtogether](https://www.streamtogether.com/)
 </details>
