@@ -1,0 +1,25 @@
+🔥 Good news, everyone!
+
+We're constantly making small tweaks and adjustments in our Army of Bots, and we've accumulated enough changes to justify a full-fledged update announcement, so here we go! 
+
+@download_it_bot
+— We frequently received complaints that the bot only downloads 30 seconds of audio from Yandex.Music. The issue is that full tracks are only available to Yandex+ subscribers, and our bot doesn't have a subscription; even if we added one, we'd quickly get blocked. To circumvent this, we've implemented a small hack: the bot will accept Yandex.Music links but download the track from YouTube instead. It might make mistakes occasionally; if it does, feel free to contact our support team.
+— We've also fine-tuned the logic for Deezer and Spotify, as finding the correct track on YouTube wasn't always successful. Why can't we download directly? Because everything is encrypted.
+— We removed the increased traffic coefficient for the Rumble service.
+— We've handled issues with problematic video previews; sometimes YouTube previews were lost or replaced with incorrect images.
+— Fixed an error with the delay for the appearance of a paid plan. If it doesn't show up immediately, contact our group.
+— YouTube has tightened its restrictions, so we slightly increased the number of attempts and added logic to fetch information about videos via mobile proxies as well.
+
+@ChatPolyglotBot
+— Added support for more than 35+ languages.
+— Disabled web previews for bot replies as they looked odd when links were included in the messages.
+— Fixed an issue with cleverly formatted messages, including Unicode and everything else.
+
+@NudesRemoverBot
+— Reduced the minimum matching threshold from 50% to 25%. As it turns out, some users need these precise values.
+
+@voice_remover_bot
+— It turns out the setting for selecting the number of split tracks wasn't working. We've fixed this, of course, and thank you for notifying us via support.
+
+@mad_ai_bot
+— Responses from ChatGPT are now properly formatted; it used to be quite awful.
