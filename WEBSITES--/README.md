@@ -44,6 +44,9 @@
 > [GOVERMENT-SITES](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/Government.md) , ...!
 
 > [!NOTE]
+> [IMAGE-UPSCALING-WEBSITES.md](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/IMAGE-UPSCALING-WEBSITES.md) , ...!
+
+> [!NOTE]
 > [FREE HOSTING](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/Free-Hosting-website.md) , Explore some of the best free web hosting services available..!
 
 > [!NOTE]
@@ -65,16 +68,16 @@
 > [Travel-Map-Animations](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/Travel-Map-Animations.md) , ...!
 
 > [!NOTE]
-> COMPLETED-:-  [ANIMES DOWNLOAD-PLAY](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/download-animes.md) , ...!
+> [ANIMES DOWNLOAD-PLAY](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/download-animes.md) , ...!
 
 > [!NOTE]
-> COMPLETED-:-  [CARTUNS-DOWNLOAD](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/download-cartuns.md) , ...!
+> [CARTUNS-DOWNLOAD](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/download-cartuns.md) , ...!
 
 > [!NOTE]
-> COMPLETED-:-  [ONLINE GMALES](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/games.md) , ...!
+> [ONLINE GMALES](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/games.md) , ...!
 
 > [!NOTE]
-> COMPLETED-:-  [wallpepars-download](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/wallpepars-download.md) , ...!
+> [wallpepars-download](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/wallpepars-download.md) , ...!
 
 > [!NOTE]
 > COMPLETED-:-  [---](---) , ...!
