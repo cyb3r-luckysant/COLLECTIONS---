@@ -19,9 +19,9 @@
 # 
 
 * [`AI DETECTION TOOLS`](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/ARTIFICIAL-INTELLIGENCE--/AI%20DETECTION%20TOOLS.md)
-* [`NAME-.MD-FILE`](--)
-* [`NAME-.MD-FILE`](--)
-* [`NAME-.MD-FILE`](--)
+* [`E-MAIL TOOLS`](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/ARTIFICIAL-INTELLIGENCE--/E-MAIL%20TOOLS.md)
+* [`E-COMMERCE TOOLS`](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/ARTIFICIAL-INTELLIGENCE--/E-COMMERCE%20TOOLS.md)
+* [`HUMAN RESOURCES TOOLS`](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/ARTIFICIAL-INTELLIGENCE--/HUMAN%20RESOURCES%20TOOLS.md)
 * [`NAME-.MD-FILE`](--)
 * [`NAME-.MD-FILE`](--)
 * [`NAME-.MD-FILE`](--)
