@@ -1,0 +1,10 @@
+## 🔵 Marketing 📢  
+- [**AdCopy**](https://adcopy.ai/)  
+- [**Vidiq**](https://vidiq.com/)  
+- [**Semrush**](https://www.semrush.com/)  
+- [**Madgicx**](https://madgicx.com/)  
+- [**AdCreative**](https://www.adcreative.ai/)  
+- [**Pencil**](https://www.trypencil.com/)  
+- [**Tidv**](https://tidv.com/)  
+- [**Leap**](https://www.leap.ai/)  
+- [**Plai**](https://www.plai.io/)  
