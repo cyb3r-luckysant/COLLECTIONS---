@@ -138,7 +138,13 @@ Aur Dil wale sirf shayari kehte
 reh jate hai..."
 
 ```
-
+```
+"Jiska intezaar hai usko fikar tak nhi,
+Uski zubaan pr mera zikar tak nhi,
+Mohabbat mein bas ek he Kami hai,
+Ek tadapta hai to dusre ko kadar tak
+nhi."
+```
 
 
 
