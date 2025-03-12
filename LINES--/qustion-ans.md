@@ -24,3 +24,14 @@ Khuda se tujhe paane ki dua me
 Baar baar karunga
 
 ___
+Someone : Kaha rehti hai ab wo
+
+Le me :
+"Chehra badla... Rasta badla...
+Baadme ghar badla...
+Me uske baare me ye kehta tha
+Logo se,
+Mera naam badal dena wo agar
+shaks badla..."
+
+___
