@@ -11,3 +11,16 @@ ANS - Jante ho fir bhi anjaan bante ho, Is tarha kyo muje pareshan karte ho
 Puchte ho mujhe kya pasand hai, Jawab khud ho phir bhi sawal karte ho.!!!!
 
 ___
+
+She : Intzaar kar loge Mera ?
+
+Le me :
+"Umar bhar tera intzaar karunga
+Tere jaane k baad sirf tujhe he
+Pyaar karunga
+Mana meri kismat me tu nhi hai
+Lekin...
+Khuda se tujhe paane ki dua me
+Baar baar karunga
+
+___
