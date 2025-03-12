@@ -43,3 +43,25 @@ Na unhone yaad kiya na hum
 Unhe bhula sake
 
 ___
+
+In English we say,
+I love her character more than her beauty...
+
+But in Urdu we say,
+"Khubsurat toh wo shaks mujhe baadme
+laga tha,
+Sabse pehle to mujhe uske kirdaar se
+mohabbat hui..."
+
+___
+
+In English we say,
+An innocent boy cannot express his love...
+
+But in Poetry , unknown said,
+"K isharon ko samajh 10 tum,
+Mujhe jatana nahi aata,
+Ishq to Aaj bhi hai tumse,
+Magar batana nahi aata..."
+
+___
