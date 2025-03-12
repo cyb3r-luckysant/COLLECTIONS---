@@ -2,4 +2,7 @@
 Jab pyaar kiya hai to nibhaya jaaye,, usko apni palkon pe bithaya jaaye.. chaand ko apnao to fir ye farz hai,, ke uske har daag ko bhi apnaaya jaaye...
 
 ```
-
+```
+"Humne kb chaha ki wo shaks hmara ho jaye, itna dikh jaye ki aankhon ka guzara ho jaye..."
+Tumko lagta hai ki tum jeet gye ho humse, tumko lagta hai ki tum jeet gye ho humse hai yahi baat to khel dobara ho jaye
+```
