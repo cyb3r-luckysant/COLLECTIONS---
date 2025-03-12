@@ -128,7 +128,16 @@ Ab jab usko he parvah nahi,
 Toh ummeedon ka marr jana
 He achha hai..."
 ```
+```
+Wo Kehte hai na ki...
+"Hawas wale, maar lete hai
+baazi ishq ki,
+K hawas wale maar lete hai
+baazi ishq ki,
+Aur Dil wale sirf shayari kehte
+reh jate hai..."
 
+```
 
 
 
