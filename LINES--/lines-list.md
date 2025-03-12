@@ -110,7 +110,14 @@ Apna
 Lekin yeh dard he toh uski aakhri
 Nishaani hai Ill "
 ```
+```
+Someone : Kaafi Udaas lag rhe ho, Sab
+thik hai ?
 
+Le me :
+Yejo aakhon me mere pani hai,
+Teri aakhon ki he meherbani hai
+```
 
 
 
