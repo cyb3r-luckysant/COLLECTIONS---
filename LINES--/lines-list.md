@@ -118,6 +118,16 @@ Le me :
 Yejo aakhon me mere pani hai,
 Teri aakhon ki he meherbani hai
 ```
+```
+Men after loosing that 0.001% hope :
+"Uski yaadon ka harjana achha hai,
+Aakhon me aansu bhar Jana achha
+hai,
+Ab jab usko he parvah nahi,
+Ab jab usko he parvah nahi,
+Toh ummeedon ka marr jana
+He achha hai..."
+```
 
 
 
