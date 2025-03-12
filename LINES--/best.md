@@ -31,3 +31,15 @@ Tum aaye toh hasratein tum tak
 He mehsoos ho gyi
 
 ___
+
+In English we say,
+I can't forget her and her memories ...
+
+But in Urdu we say,
+Na wo aa sake... Na hum ja aake
+Na dard dil ka kisi ko suna sake
+Bas baithe hai yaadon me unki
+Na unhone yaad kiya na hum
+Unhe bhula sake
+
+___
