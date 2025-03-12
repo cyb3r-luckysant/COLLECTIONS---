@@ -20,3 +20,14 @@ Kabhi mujhe lagakr dekhi achha
 lagega
 
 ___
+
+In English we say,
+"You are my last wish..."
+
+But in Urdu we say,
+"Haasil toh bohot kuch Krna tha
+Zindagi me
+Tum aaye toh hasratein tum tak
+He mehsoos ho gyi
+
+___
