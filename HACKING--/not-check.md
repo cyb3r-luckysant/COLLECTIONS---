@@ -1,33 +1,4 @@
 
----
-
-### **Sponsored by:**
-
-<a href="https://odh.ivan-vcard.xyz/index.html">
-<img src="https://github.com/user-attachments/assets/a5294493-3079-4b05-9993-2c4d20caffc6" alt="ODH" width="150" height="150">
- </a>
-<a href="https://hudsonrock.com/free-tools/?=cybersources">
-  <img src="https://github.com/bst04/CyberSources/blob/main/cybersources/Hudson_Rock_Logo_URL.png?raw=true" alt="Hudson Rock" width="500" height="150">
-</a>
-
-
-<!-- [Use Hudson Rock's free cybercrime intelligence tools to learn how Infostealer infections are impacting your business ](https://hudsonrock.com/free-tools/?=cybersources) -->
-
-
-
-
---- 
-
-
-</div>
-
-
-## [**Check out the website‼️**](https://cybersources.site/)
-
-[![websitecyber](https://github.com/user-attachments/assets/8bedc240-6ffc-4ed8-a9d0-492e73a12798)](https://cybersources.site/)
-
-
-
 
 ## 📋 Content
 
