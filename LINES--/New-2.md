@@ -40,3 +40,16 @@ Kismat Wale Hai Wo Log,
 Jo Roz Tera Deedar Karte Hain :)
 
 ___
+
+She: Intzaar kar loge Mera ?
+
+Le me:
+
+"Umar bhar tera intzaar karunga Tere jaane k baad sirf tujhe he Pyaar karunga
+
+Mana meri kismat me tu nhi hai Lekin...
+
+Khuda se tujhe paane ki dua me Baar baar karunga !!!...
+
+____
+
