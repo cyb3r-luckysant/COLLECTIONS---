@@ -20,3 +20,9 @@ Bss pyar se keh dena ache nhi lagte Phir kabhi najar nhi aayenge..!
 
 ___
 
+Apni nigahon se na dekh khudko Hira bhi tujhe patthar lagega,
+
+Sab kehte honge chand ka tukda hai tu Meri nazar se dekh chand bhi tera tukda lagega..!!
+
+____
+
