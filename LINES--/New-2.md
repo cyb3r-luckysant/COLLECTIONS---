@@ -29,4 +29,14 @@ ____
 चुकून म्हणालो होतो singal life is best देवानं लयच मनावर घतलं वाटत..!
 
 ___
+Lines..
 
+Teri Ek Jhalak Ko
+
+Taras Jata Hai Dil Mera,
+
+Kismat Wale Hai Wo Log,
+
+Jo Roz Tera Deedar Karte Hain :)
+
+___
