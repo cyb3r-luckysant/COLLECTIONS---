@@ -59,3 +59,17 @@ Dekhu to chand ho tum, Sochu to gulaab ho tum, Samjhu to samundar ho tum,
 Kya baataun main aab tumhe, Meri Mohabbat ho tum..!!♡
 
 ___
+
+Wo zindagi hi kya jisme tum Sath na ho,
+
+Gaur farmaye
+
+Wo zindagi hi kya jisme tum Sath na ho,
+
+Wo khushiyan hi kya jisme Tumhari baat na ho,
+
+Nahi chahiye aisi zindagi jisme Tum mere sath na ho,
+
+Ro dete hai dil jab tumse Meri Baat na ho.
+
+___
