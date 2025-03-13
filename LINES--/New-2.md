@@ -52,4 +52,10 @@ Mana meri kismat me tu nhi hai Lekin...
 Khuda se tujhe paane ki dua me Baar baar karunga !!!...
 
 ____
+Lines..
 
+Dekhu to chand ho tum, Sochu to gulaab ho tum, Samjhu to samundar ho tum,
+
+Kya baataun main aab tumhe, Meri Mohabbat ho tum..!!♡
+
+___
