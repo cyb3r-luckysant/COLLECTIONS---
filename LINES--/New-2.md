@@ -26,3 +26,7 @@ Sab kehte honge chand ka tukda hai tu Meri nazar se dekh chand bhi tera tukda la
 
 ____
 
+चुकून म्हणालो होतो singal life is best देवानं लयच मनावर घतलं वाटत..!
+
+___
+
