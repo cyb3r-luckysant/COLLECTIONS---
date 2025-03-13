@@ -12,3 +12,11 @@ Behtar hai muskurau aur khamosh rah jauu.
 
 ___
 
+Nafrat mat karna humse
+
+Hum seh nhi payenge
+
+Bss pyar se keh dena ache nhi lagte Phir kabhi najar nhi aayenge..!
+
+___
+
