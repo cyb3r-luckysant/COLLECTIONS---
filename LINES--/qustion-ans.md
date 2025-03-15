@@ -35,3 +35,26 @@ Mera naam badal dena wo agar
 shaks badla..."
 
 ___
+
+he asked :- "Kya hu mai tumhare
+Iiye ?
+
+💕Zindagi ka sabse khubsurat khayal ho tum..,💕
+
+💕Ishq aur ibadat dono me be - mishal ho tum...💕
+
+💕Din bhi tum aur Raat bhi tum..,💕
+
+💕Subah bhi tum aur shaam bhi tum...💕
+
+💕Dard bhi tum aur dawa bhi tum...💕
+
+💕Hakeekat nahi Hasrat ho tum...,💕
+
+💕Jo mile khwab me wo Doulat ho tum...💕
+
+💕Kis liye dekhte ho Aayina...,💕
+
+💕Aayine se bhi jyada khubsurat ho tum...💕 ???
+
+___
