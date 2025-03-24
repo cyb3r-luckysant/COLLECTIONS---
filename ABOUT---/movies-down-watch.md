@@ -15,5 +15,5 @@ w- https://flicksteam.com/movie-popular
 d- https://www.cinevez.io/
 d- https://hdmovie2.do/ 
 d- https://www.1tamilmv.app/ - only  telgu
-d-
+d- https://mp4moviiez.com/
 d-
