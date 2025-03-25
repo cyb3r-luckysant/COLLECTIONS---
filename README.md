@@ -39,9 +39,9 @@
 > - 🌐 **[WEBSITES](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/README.md)**   - Curated list of useful websites
 > - ⚡ **[HACKING](https://github.com/cyb3r-luckysant/COLLECTIONS---)**  - Security and hacking tools/information
 > - 📱 **[APPLICATIONS](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/APPLICATIONS--/README.md)**  - Useful software applications
-> - 🤖 **[AI](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/ARTIFICIAL-INTELLIGENCE--/README.md)**  AI resources and tools
-> - 📊 **[LINES](https://github.com/cyb3r-luckysant/COLLECTIONS---/tree/main/LINES--)**  - feel lines
-> ━━━━━━━━━━━━━━━━━━━━━━
+> - 🤖 **[AI](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/ARTIFICIAL-INTELLIGENCE--/README.md)** - AI resources and tools
+> - 📊 **[LINES](https://github.com/cyb3r-luckysant/COLLECTIONS---/tree/main/LINES--)**  - not  add a line info--   
+> - ━━━━━━━━━━━━━━━━━━━━━━
 
 <br>
 
