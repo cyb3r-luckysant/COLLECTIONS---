@@ -16,18 +16,18 @@
 
 | Category          | Name                                  | Link                                     |
 |-------------------|---------------------------------------|------------------------------------------|
-| Best Quality      | VegaMovies                           | [VegaMovies](https://vegamovies.phd/)   |
-| Best Quality      | MoviesPapa                           | [MoviesPapa](https://www.moviespapa.london/) |
-| Best Quality      | HDHub4U                              | [HDHub4U](https://hdhub4u.tattoo/)      |
-| Best Quality      | HDHub4U (Alternative)                | [HDHub4U (Alt)](https://hdhub4u.capetown/) |
-| Best Quality      | MoviesMod (Hollywood)                | [MoviesMod](https://moviesmod.bid/movies/hollywood/) |
-| Best Quality      | VegaMovies (Alternative)             | [VegaMovies (Alt)](https://vegamovies.as/) |
-| Best Quality      | FilmyZilla                           | [FilmyZilla](https://filmyzilla.olamovies.in/) |
-| Best Quality      | Bolly2Tolly                          | [Bolly2Tolly](https://www.bolly2tolly.net/) |
-| Best Quality      | 5MovieRulz                           | [5MovieRulz](https://www.5movierulz.io/) |
-| Best Quality      | UHD-movies                           | [UHD-movies](https://uhdmovies.bet/)    |
-| Best Quality      | TOP-movies                           | [TOP-movies](https://topmovies.bet/)    |
-| Normal Quality    | OfilmyZilla                          | [OfilmyZilla](https://www.ofilmyzilla.firm.in/) |
+| Best Quality      | [fzmovies](https://www.fzmovies.net/index.php)                        | [VegaMovies](https://vegamovies.phd/)   |
+| Best Quality      | [hdencode](https://hdencode.org/)                          | [MoviesPapa](https://www.moviespapa.london/) |
+| Best Quality      | [ddlvalley](https://www.ddlvalley.me/)                              | [HDHub4U](https://hdhub4u.tattoo/)      |
+| Best Quality      | [anymovies](https://www.downloads-anymovies.co/)                | [HDHub4U (Alt)](https://hdhub4u.capetown/) |
+| Best Quality      | [movieparadise](https://movieparadise.org/)                | [MoviesMod](https://moviesmod.bid/movies/hollywood/) |
+| Best Quality      | [vegamovies (band)](https://vegamovies.band/)             | [VegaMovies (Alt)](https://vegamovies.as/) |
+| Best Quality      | [diskmovies](https://diskmovies.com/)                           | [FilmyZilla](https://filmyzilla.olamovies.in/) |
+| Best Quality      | [coolmoviez](https://www.coolmoviez.5g.in/)                          | [Bolly2Tolly](https://www.bolly2tolly.net/) |
+| Best Quality      | [hdmovie2](https://hdmovie2.do/)                           | [5MovieRulz](https://www.5movierulz.io/) |
+| Best Quality      | [mp4moviiez](https://mp4moviiez.com/)                          | [UHD-movies](https://uhdmovies.bet/)    |
+| Best Quality      | [mmnt.net (index)](https://www.mmnt.net/)                           | [TOP-movies](https://topmovies.bet/)    |
+| Normal Quality    | [moviesmod](https://moviesmod.org.in/)                         | [OfilmyZilla](https://www.ofilmyzilla.firm.in/) |
 | Normal Quality    | 4FilmyWap                            | [4FilmyWap](https://www.4filmywap.com/) |
 | Normal Quality    | MP4Moviez                            | [MP4Moviez](https://www.mp4moviez.camera/) |
 | Normal Quality    | KatMovie                             | [KatMovie](https://katmovie.helpsarkari.com/choose-year.php) |
