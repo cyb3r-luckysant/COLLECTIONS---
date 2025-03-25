@@ -7,3 +7,14 @@
 > - 📝 **[Lines Collection](https://github.com/cyb3r-luckysant/COLLECTIONS---/tree/main/LINES--)** - Miscellaneous code snippets and lines
 
 ---
+
+> [!NOTE]
+> **COMPLETED COLLECTIONS**  
+> ━━━━━━━━━━━━━━━━━━━━━━  
+> 
+> 🌐 **[WEBSITES](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/README.md)**  
+> ⚡ **[HACKING](https://github.com/cyb3r-luckysant/COLLECTIONS---)**  
+> 📱 **[APPLICATIONS](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/APPLICATIONS--/README.md)**  
+> 🤖 **[AI](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/ARTIFICIAL-INTELLIGENCE--/README.md)**  
+> 📊 **[LINES](https://github.com/cyb3r-luckysant/COLLECTIONS---/tree/main/LINES--)**  
+> ━━━━━━━━━━━━━━━━━━━━━━
