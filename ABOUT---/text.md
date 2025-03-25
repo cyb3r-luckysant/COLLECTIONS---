@@ -18,3 +18,14 @@
 > 🤖 **[AI](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/ARTIFICIAL-INTELLIGENCE--/README.md)**  
 > 📊 **[LINES](https://github.com/cyb3r-luckysant/COLLECTIONS---/tree/main/LINES--)**  
 > ━━━━━━━━━━━━━━━━━━━━━━
+
+
+---
+
+> [!NOTE]
+> COMPLETED :- [WEBSITES--](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/README.md)
+> [HACKING---](https://github.com/cyb3r-luckysant/COLLECTIONS--)
+> [APPLICATIONS--](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/APPLICATIONS--/README.md)
+> [ARTIFICIAL-INTELLIGENCE--](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/ARTIFICIAL-INTELLIGENCE--/README.md)
+> [LINES--](https://github.com/cyb3r-luckysant/COLLECTIONS---/tree/main/LINES--)
+
