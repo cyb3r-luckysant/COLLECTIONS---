@@ -10,6 +10,7 @@
 - [Maigret](https://github.com/soxoj/maigret) - Advanced username checker with plugins
 - [SpiderFoot](https://www.spiderfoot.net/) - Automates OSINT across emails, domains, and IPs
 - [Namechk](https://namechk.com/) - Check username availability across platforms
+- [KnowEm](https://knowem.com/) - Check username availability on 500+ social networks
 
 ---
 
@@ -21,6 +22,7 @@
 - [PhoneInfoga](https://github.com/sundowndev/phoneinfoga) - Advanced phone number scanner
 - [Sync.me](https://sync.me/) - Reverse phone lookup & caller ID
 - [OpenCelliD](https://opencellid.org/) - Cell tower geolocation data
+- [Twilio Lookup](https://www.twilio.com/lookup) - Carrier info (paid API)
 
 ### 🔍 Social Media Search
 - [Social Searcher](https://www.social-searcher.com/) - Real-time social media search
@@ -28,11 +30,13 @@
 - [Pipl](https://pipl.com/) - Deep web people search
 - [Snitch.name](https://snitch.name/) - Username search across platforms
 - [ThatsThem](https://thatsthem.com/) - Reverse email/phone/address lookup
+- [Social Blade](https://socialblade.com/) - Track social media statistics
 
 ### 📲 Messaging Apps
 - [Telegram OSINT Tools](https://github.com/cipher387/telegram-username-checker)
 - [WhatsApp Contact Search](https://www.whatsapp.com/contact/number)
 - [Signal OSINT Resources](https://github.com/sigalor/whatsapp-web-reveng)
+- [Discord ID Lookup](https://discord.id/) - Lookup Discord user information
 
 ---
 
@@ -42,6 +46,7 @@
 - [DNSDumpster](https://dnsdumpster.com/) - Subdomain and DNS discovery
 - [Wayback Machine](https://web.archive.org/) - Historical website versions
 - [SecurityTrails](https://securitytrails.com/) - Comprehensive DNS history
+- [BuiltWith](https://builtwith.com/) - Website technology profiler
 
 ---
 
@@ -51,6 +56,10 @@
 - [SunCalc](https://www.suncalc.org/) - Sunlight angles for geolocation
 - [FotoForensics](https://fotoforensics.com/) - Image metadata analysis
 - [Yandex Images](https://yandex.com/images/) - Powerful reverse image search
+- [Pic2Map](https://www.pic2map.com/) - Extract geolocation from image metadata
+- [ExifTool](https://exiftool.org/) - Advanced image metadata reader (CLI)
+- [ImageForensics](https://imageforensic.org/) - Detect image manipulations
+- [Jeffrey's Image Metadata Viewer](https://exif.regex.info/) - Simple online EXIF viewer
 
 ---
 
@@ -60,6 +69,7 @@
 - [IntelX](https://intelx.io/) - Breach/domain/archive search
 - [BreachDirectory](https://breachdirectory.org/) - Free breach data search
 - [LeakCheck](https://leakcheck.io/) - Check for credential leaks
+- [Am I Breached](https://www.amibreached.com/) - Alternative breach checker
 
 ---
 
@@ -69,6 +79,7 @@
 - [Recon-ng](https://github.com/lanmaster53/recon-ng) - Web reconnaissance framework
 - [OSINT Framework](https://osintframework.com/) - Directory of OSINT tools
 - [SpiderFoot](https://www.spiderfoot.net/) - Automated reconnaissance
+- [Babel X](https://www.babelstreet.com/) - Multilingual OSINT platform (freemium)
 
 ---
 
@@ -76,7 +87,7 @@
 - [CountryCode.org](https://countrycode.org/) - Country calling codes
 - [Numbeo](https://www.numbeo.com/) - Phone plan comparisons
 - [GSM Arena](https://www.gsmarena.com/) - IMEI & device details
-- [Twilio Lookup](https://www.twilio.com/lookup) - Carrier info (paid API)
+- [Phone Number Validator](https://www.textmagic.com/free-tools/phone-number-validator)
 
 ---
 
@@ -86,5 +97,9 @@
 3. Use VPNs/Tor for sensitive searches
 4. Document your findings systematically
 5. Respect privacy laws (GDPR, CFAA, etc.)
+6. Consider creating tool-specific accounts for research
+7. Maintain a research journal with timestamps
 
-> 🔄 **Pro Tip:** Many tools offer free tiers but may require registration for full features.
+> 🔄 **Pro Tip:** Combine multiple tools for verification - for example, use Pic2Map for geolocation data and then verify with Google Earth Street View.
+
+> ⚠️ **Warning:** Some tools may have usage restrictions. Always review terms of service.
