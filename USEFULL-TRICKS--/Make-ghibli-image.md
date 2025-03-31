@@ -31,4 +31,29 @@ Generate a Ghibli-style fantasy village with lush green hills, a bright blue sky
 - Try different variations by tweaking character expressions or time of day.
 - Combine multiple prompts to create a unique composition.
 
+
+## Ghibli trend, But make it multiverse.
+
+1. Ghibli
+
+2. Pixar
+
+3. Lego
+
+4. Rick and Morty
+
+5. Naruto
+
+6. Ben 10
+
+7. Manga
+
+8. Claymation
+
+9. Comic
+
+
+
+___
+
 Enjoy creating your Ghibli-inspired artwork!
