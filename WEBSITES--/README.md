@@ -25,81 +25,35 @@
 
 <br>
 
-> [!NOTE]
-> [BUILD APP WITHOUT CODING](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/Build%20Applications%20Without%20Coding.md) , An app builder that lets you create Android apps without coding..!
+<br>
 
 > [!NOTE]
-> [CODE RUNNERS](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/Code-Runners.md) , These platforms help developers build, test, and deploy code seamlessly. Happy coding! 🎯 ...!
+> **WEBSITES COLLECTION**  
+> ━━━━━━━━━━━━━━━━━━━━━━  
+> 
+> - 🛠️ **[BUILD APP WITHOUT CODING](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/Build%20Applications%20Without%20Coding.md)** - An app builder that lets you create Android apps without coding  
+> - 💻 **[CODE RUNNERS](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/Code-Runners.md)** - Platforms help developers build, test, and deploy code seamlessly  
+> - 🎭 **[FAKE HACKING SITES](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/Fake-Hacking-Websites.md)** - Simulated hacking environments and tools  
+> - 🎬 **[MOVIES-DOWNLOADS-LINK](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/movies-download.md)** - Direct download free HD movies  
+> - ☁️ **[FILE SHARING DOWNLOADING](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/File%20Sharing-Downloading.md)** - File-sharing, cloud storage, and streaming platforms  
+> - 🏛️ **[GOVERNMENT-SITES](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/Government.md)** - Official government portals and services  
+> - 🖼️ **[IMAGE-UPSCALING-WEBSITES](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/IMAGE-UPSCALING-WEBSITES.md)** - AI-powered image enhancement tools  
+> - 🖥️ **[FREE HOSTING](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/Free-Hosting-website.md)** - Best free web hosting services  
+> - ☁️ **[CLOUD WEBSITES](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/cloud-websites.md)** - Cloud storage services with free options  
+> - 🕵️ **[PHISHING SITES](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/phishing-websites.md)** - Security testing resources  
+> - 📚 **[LEARNING SITES](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/Learning-Platforms.md)** - Educational platforms and courses  
+> - 🎥 **[WATCH MOVIES AND WEBSHOWS](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/watch-movies-webshows.md)** - Movie streaming websites collection  
+> - 📧 **[TEMP-MAILS](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/Temporary-Email.md)** - Temporary, anonymous disposable email  
+> - 🗺️ **[TRAVEL-MAP-ANIMATIONS](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/Travel-Map-Animations.md)** - Interactive travel maps and routes  
+> - 🇯🇵 **[ANIMES DOWNLOAD-PLAY](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/download-animes.md)** - Download subbed/dubbed anime or watch online  
+> - 📺 **[CARTOONS-DOWNLOAD](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/download-cartuns.md)** - Free cartoon videos download  
+> - 🎮 **[ONLINE GAMES](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/games.md)** - High-quality browser games updated daily  
+> - 👥 **[STREAMING-TOGETHER](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/streaming-together.md)** - Watch parties with friends remotely  
+> - ⚙️ **[DOWNLOADS-SOFTWARE](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/Software-downloads.md)** - Free PC/Android software downloads  
+> - 🖼️ **[WALLPAPERS-DOWNLOAD](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/wallpepars-download.md)** - HD/Ultra HD wallpapers for devices  
+> - ━━━━━━━━━━━━━━━━━━━━━━  
 
-> [!NOTE]
-> [FAKE HACKING SITES](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/Fake-Hacking-Websites.md) , ...!
-
-> [!NOTE]
-> [MOVIES-DOWNLOADS-LINK](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/movies-download.md) , movies download websites from which you can directly download free HD movies...!
-
-> [!NOTE]
-> [FILE SHARING DOWNLOADING](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/File%20Sharing-Downloading.md) , file-sharing, cloud storage, and streaming platforms..!
-
-> [!NOTE]
-> [GOVERMENT-SITES](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/Government.md) , ...!
-
-> [!NOTE]
-> [IMAGE-UPSCALING-WEBSITES.md](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/IMAGE-UPSCALING-WEBSITES.md) , Enhance your images with Image Upscaler - an AI-powered tool that increases image resolution and quality in seconds. Try it now!...!
-
-> [!NOTE]
-> [FREE HOSTING](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/Free-Hosting-website.md) , Explore some of the best free web hosting services available..!
-
-> [!NOTE]
-> [CLOUD WEBSITES](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/cloud-websites.md) , list of cloud storage services along with key details such as free storage..!
-
-> [!NOTE]
-> [PHISHING SITES](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/phishing-websites.md) , ..!
-
-> [!NOTE]
-> [LEARNING SITES](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/Learning-Platforms.md) , ...!
-
-> [!NOTE]
-> [WATCH MOVIES AND WEBSHOWS](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/watch-movies-webshows.md) , is a list of movie streaming websites..!
-
-> [!NOTE]
-> [TEMP-MAILS](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/Temporary-Email.md) , Temp Mail provides temporary, anonymous, free, secure, disposable email address...!
-
-> [!NOTE]
-> [TRAVEL-MAP-ANIMATIONS](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/Travel-Map-Animations.md) , ...! 
-
-> [!NOTE]
-> [ANIMES DOWNLOAD-PLAY](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/download-animes.md) , A popular website for downloading both subbed and dubbed anime series and movies also watch free online...!
-
-> [!NOTE]
-> [CARTUNS-DOWNLOAD](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/download-cartuns.md) , Download free cartoons videos...!
-
-> [!NOTE]
-> [ONLINE GMALES](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/games.md) , the best place to play high-quality browser games. We add new games every day. Have fun!...!
-
-> [!NOTE]
-> [STREAMING-TOGETHER](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/streaming-together.md) , Enjoy movie night online with your long-distance partner, start a watch party with good buddies, or hang out and binge anime with your best friend....! 
-
-> [!NOTE]
-> [DOWNLOADS-SOFTWARE](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/Software-downloads.md) , download softwares for pc and android free and fast...! 
-
-> [!NOTE]
-> [DOWNLOADS-WALLPEPARS](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/wallpepars-download.md) ,  Download the best HD and Ultra HD Wallpapers for free. Use them as wallpapers for your mobile or desktop screens...! 
-
-> [!NOTE]
-> COMPLETED-:-  [---](---) , ...!
-
-> [!NOTE]
-> COMPLETED-:-  [---](---) , ...!
-
-> [!NOTE]
-> COMPLETED-:-  [---](---) , ...!
-
-> [!NOTE]
-> COMPLETED-:-  [---](---) , ...!
-
-> [!NOTE]
-> COMPLETED-:- [-BGFGFUF--](-VBBHRFHJV--) ,  ...!
-
+<br>
 
 <br>
 
