@@ -9,7 +9,13 @@
 > - 🌐 [FileCR](https://filecr.com/)  
 > - 🌐 [GetIntoPC](https://getintopc.com/)  
 > - 🌐 [Techno360](https://www.techno360.in/)  
-> - 🌐 [Giveaway TickCoupon](https://giveaway.tickcoupon.com/)  
+> - 🌐 [Giveaway TickCoupon](https://giveaway.tickcoupon.com/)
+
+ GETINTOPC.COM
+ASK4PC.NET
+FILEHIPPO.COM
+CREATIVECONOR.COM
+
 
 > [!NOTE]
 > **GAMES ONLY (PC)**  
