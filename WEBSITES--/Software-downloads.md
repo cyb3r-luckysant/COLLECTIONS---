@@ -10,6 +10,8 @@
 > - 🌐 [GetIntoPC](https://getintopc.com/)  
 > - 🌐 [Techno360](https://www.techno360.in/)  
 > - 🌐 [Giveaway TickCoupon](https://giveaway.tickcoupon.com/)
+> - 🌐 [ASK4PC](https://www.techno360.in/)
+> - 🌐 [CREATIVECONOR](https://www.techno360.in/)
 
  GETINTOPC.COM
 ASK4PC.NET
