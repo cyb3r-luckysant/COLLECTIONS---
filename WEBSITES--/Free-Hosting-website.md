@@ -2,6 +2,8 @@
 
 Explore some of the best **free** web hosting services available today:  
 
+7. [infinityfree](https://www.infinityfree.com/)
+
 | 🌐 Provider | 💾 Storage | 📡 Bandwidth | 🚫 Ads | 🔗 Link |  
 |------------|------------|------------|------------|------------|  
 | **000WebHost** 🌍 | 1GB | 10GB | ❌ No | [🔗 Visit](https://www.000webhost.com) |  
