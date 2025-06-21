@@ -18,7 +18,7 @@ Here are some great websites where you can download and watch anime. Be sure to 
 5. [AnimeFlix](https://animeflix.website/)
 6. [AnPlay](https://anplay.in/)
 7. [Anime-World](https://anime-world.in/)
-
+7. [rareanimes](https://www.rareanimes.co/)
 ---
 
 > **Note**: Always ensure you have the proper legal rights to download and stream content. This list is not an endorsement of any illegal activity.
