@@ -2,6 +2,11 @@
 
 Here are some great websites where you can download and watch anime. Be sure to follow the legal guidelines of your country when using these resources.
 
+### Best And I Also Use 💖
+
+| **[deepwebnest](https://deepwebnest.com/)**      | **[soon](#)**  |    **[sonn](#)**      | **[soon](#)**  |  
+|-------------------|------------------|-------------------|------------------|
+<br>
 ---
 
 ## **Anime Download & Watch Links** 🍿
