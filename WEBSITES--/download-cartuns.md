@@ -5,4 +5,5 @@
 3. [WatchCartoonOnline](https://www1.watchcartoononline.bz/)  
 4. [KimCartoon](https://kimcartoon.li/)  
 5. [Animated247](https://www.animated247.net/)
+7. [rareanimes](https://www.rareanimes.co/))
 ---
