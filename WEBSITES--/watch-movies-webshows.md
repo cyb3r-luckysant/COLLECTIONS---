@@ -2,7 +2,7 @@
 
 ### Best And I Also Use 💖
 
-| **[HindiLinks4U](https://hindilinks4u.express/)**      | **[M4UHD](https://m4uhd.com.co/)**  |    **[MXPlayer](https://www.mxplayer.in/)**      | **[Amazon MiniTV](https://www.amazon.in/minitv)**  |  
+| **[103.145.232.246](http://103.145.232.246/)**      | **[M4UHD](https://m4uhd.com.co/)**  |    **[MXPlayer](https://www.mxplayer.in/)**      | **[Amazon MiniTV](https://www.amazon.in/minitv)**  |  
 |-------------------|------------------|-------------------|------------------|
 <br>
 
