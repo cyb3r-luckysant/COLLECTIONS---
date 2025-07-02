@@ -84,7 +84,8 @@ new
 https://watchserieshd.bond/
 2
 https://watchserieshd-mx.lol/
-
+3
+https://watchseries.bar/
 
 
 
