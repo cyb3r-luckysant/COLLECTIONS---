@@ -1,3 +1,12 @@
+# Free Live TV & Free Streaming Platforms
+
+### Best And I Also Use 💖
+
+| **[MadPlay LiveTV](https://madplay.site/livetv)**      | **[Watcho](https://www.watcho.com/)**  |    **[MXPlayer](https://www.mxplayer.in/)**      | **[Amazon MiniTV](https://www.amazon.in/minitv)**  |  
+|-------------------|------------------|-------------------|------------------|
+<br>
+
+
 
 ## **📡 Live TV & Free Streaming Platforms**
 
