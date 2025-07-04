@@ -74,8 +74,6 @@
 
 ---
 
-## **📺 TV Series & Binge-Watching (Not Verified)**
-
 
 
 ## **(Not Verified)**
@@ -92,11 +90,20 @@
 
 
 
-### Best And I Also Use 💖
+---
 
-| **[Deepwebnest](https://deepwebnest.com/)**      | **[not](not)**  |    **[not]()**      | **[not]()**  |  
-|-------------------|------------------|-------------------|------------------|
-<br>
+## **📺 TV Series & Binge-Watching Platforms**
+
+| Website | Description |
+|--------|-------------|
+| [MX Player](https://www.mxplayer.in/) | Free Indian streaming of web series and TV content. |
+| [Amazon MiniTV](https://www.amazon.in/minitv) | Short-format binge-worthy Indian series. |
+| [Disney+ Hotstar](https://www.hotstar.com/in/home?ref=%2Fin) | Premium shows, originals, and live content. |
+| [Vi Movies & TV](https://moviesandtv.myvi.in/) | Web shows, live TV, and catch-up content. |
+| [Watcho](https://www.watcho.com/home) | Short series, regional stories, and more. |
+
+---
+
 
 -->
 
