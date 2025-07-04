@@ -12,80 +12,83 @@
 
 ---
 
-## **🌍 International Streaming Platforms**  
+---
 
-| Website | Description |  
-|---------|-------------|  
-| [Seez](https://seez.su/) | Wide variety of international movies & TV shows with high-quality streaming. |  
-| [FlixHQ](https://flixhq.click/home) | Diverse collection of global films and series with a user-friendly interface. |  
-| [EuropixHD](https://europixhd.site/) | HD movies & TV series, including indie and international films. |  
-| [FlicksTeam (Popular Movies)](https://flicksteam.com/movie-popular) | Focuses on trending and popular movies worldwide. |  
-| [Supernova](https://supernova.to/) | Large library with frequent updates on trending movies & shows. |  
-| [M4UHD](https://m4uhd.com.co/) | High-definition movies & TV series with IMDb ratings and easy navigation. |  
-| [MoviePire](https://moviepire.net/) | Detailed info (ratings, synopsis) for an enhanced viewing experience. |  
-| [MegaShare](https://megashare.com/) | Classic and new releases with multiple streaming options. |  
-| [0123Movie](https://ww19.0123movie.net/) | Free streaming with a vast catalog of movies & TV series. |  
+## **🎬 Streaming Platforms**
+
+| Website | Description |
+|--------|-------------|
+| [F2Movies](https://f2movies.tube/) | Free HD streaming of popular movies and web shows. |
+| [MX Player](https://www.mxplayer.in/) | Indian platform with a mix of regional and global content. |
+| [Amazon MiniTV](https://www.amazon.in/minitv) | Free streaming of curated web series and short films. |
+| [103.145.232.246](http://103.145.232.246/) | Public IP server with diverse movie content. |
+| [WatchSeriesHD MX](https://watchserieshd-mx.lol/) | Great for watching the latest TV shows and web series. |
+| [MKVCinemas](https://mkvcinemas.men/) | Offers Bollywood, Hollywood, and South Indian movies. |
 
 ---
 
-## **🇮🇳 Indian & Regional Streaming Platforms**  
+## **🇮🇳 Indian & Regional Streaming Platforms**
 
-| Website | Description |  
-|---------|-------------|  
-| [JioCinema](https://www.jiocinema.com/) | Bollywood, regional films, and TV shows (some international content). |  
-| [MXPlayer](https://www.mxplayer.in/) | Free movies, TV shows, and original series in multiple languages. |  
-| [Movies & TV (Vi)](https://moviesandtv.myvi.in/) | Bollywood & regional films + live TV channels. |  
-| [DesiCinemas](https://desicinemas.tv/) | Indian movies & TV shows (Hindi & regional languages). |  
-| [HindiMoviesTV](https://www.hindimoviestv.com/) | Bollywood films + dubbed international movies. |  
-| [Watcho](https://www.watcho.com/) | Live TV, movies, and original web series for Indian audiences. |  
-| [ZengaTV](http://www.zengatv.com/) | Free live TV, movies, and music videos (Indian & international). |  
-| [HindiLinks4U](https://hindilinks4u.express/) | Specializes in Bollywood & Hindi-dubbed content. |  
-
----
-
-## **📺 TV Series & Binge-Watching**  
-
-| Website | Description |  
-|---------|-------------|  
-| [Movi.pk (TV Series)](https://www.movi.pk/genre/tv-series/) | Extensive catalog of TV series across genres. |  
-| [WatchSeriesHD](https://watchserieshd.tv/) | Large collection of TV shows with frequent updates. |  
-| [Series9Movies](https://series9movies.com/home) | Popular TV series and movies in high quality. |  
+| Website | Description |
+|--------|-------------|
+| [Disney+ Hotstar](https://www.hotstar.com/) | Premium Indian platform with movies, shows, and sports. |
+| [MX Player](https://www.mxplayer.in/) | Free regional and Hindi-language content. |
+| [Vi Movies & TV](https://moviesandtv.myvi.in/) | Movies and live TV streaming for Vi users. |
+| [Watcho](https://www.watcho.com/) | Web series, live TV, and regional shows. |
+| [ZengaTV](https://www.zengatv.com/) | Indian live TV and entertainment platform. |
+| [FlicksTeam](https://flicksteam.com/en) | Web series and movies in multiple Indian languages. |
+| [Amazon MiniTV](https://www.amazon.in/minitv) | Free web series and mini-films. |
+| [103.145.232.246](http://103.145.232.246/) | Public IP with regional and Hindi content. |
+| [MKVCinemas](https://mkvcinemas.men/) | Indian and South Asian movie streaming. |
 
 ---
 
-## **🎥 Niche & Specialized Platforms**  
+## **🌍 International Streaming Platforms**
 
-| Website | Description |  
-|---------|-------------|  
-| [Amazon MiniTV](https://www.amazon.in/minitv) | Free short films, comedy series, and web shows. |  
-| [PressPlay](https://pressplay.top/home/) | Mix of movies, TV shows, and live TV. |  
-| [Mood2Movie](https://mood2movie.com/) | Curates films based on your mood. |  
-| [MovieMood](https://moviemood.ru/index-en.html) | International films with a clean browsing experience. |  
-| [Noxx.to](https://noxx.to/) | Well-organized platform for casual viewers. |  
-| [AZMovies](https://azmovies.xyz/) | Minimalist design with HD movies. |  
-| [103.145.232.246](http://103.145.232.246/) | Alternative streaming site (use with caution). |  
-
----
-
-### **🔗 Quick Access to New Additions**  
-- [FlicksTeam Popular Movies](https://flicksteam.com/movie-popular)  
-- [Supernova](https://supernova.to/)  
-- [M4UHD](https://m4uhd.com.co/)  
-- [MoviePire](https://moviepire.net/)  
-- [103.145.232.246](http://103.145.232.246/)  
-- [MegaShare](https://megashare.com/)  
-- [0123Movie](https://ww19.0123movie.net/)  
+| Website | Description |
+|--------|-------------|
+| [MegaShare](https://megashare.com/) | Classic and new movie releases with multiple options. |
+| [FlixHQ](https://flixhq.life/) | Huge catalog of global films and TV series. |
+| [FlicksTeam](https://flicksteam.com/en) | Popular and trending international content. |
+| [Supernova](https://supernova.to/) | Massive library with frequent content updates. |
+| [0123Movie](https://0123movie.art/) | Wide variety of free movies and TV shows. |
+| [WatchSeriesHD](https://watchserieshd.bond/) | Updated episodes of international series. |
+| [MovieMood](https://moviemood.ru/index-en.html) | Russian-based site with English movie options. |
+| [NOXX](https://noxx.to/) | Focused on binge-worthy TV series and movies. |
+| [103.145.232.246](http://103.145.232.246/) | Global content via direct server access. |
+| [FreeForYou](https://freeforyou.site/watchserieshd/) | Free streaming for movies and series. |
+| [Flixer](https://flixer.su/) | Sleek platform with latest releases. |
+| [XPrime](https://xprime.tv/) | Large content base, including international shows. |
+| [FMovies](https://www.fmovies.cat/movies) | Stream new and trending global movies. |
+| [DocumentaryArea](https://www.documentaryarea.com/) | Free streaming of global documentaries. |
+| [PStream](https://pstream.org/) | Streaming platform with diverse international content. |
 
 ---
 
+## **🧩 All-in-One Streaming Platforms**
 
-new 
-1
-https://watchserieshd.bond/
-2
-https://watchserieshd-mx.lol/
-3
-https://watchseries.bar/
+| Website | Description |
+|--------|-------------|
+| [M4UHD](https://m4uhd.com.co/) | Movies and TV series with ratings and easy browsing. |
+| [DeepWebNest](https://deepwebnest.com/movies.html) | Aggregates multiple categories of movies and shows. |
+
+---
+
+## **📺 TV Series & Binge-Watching (Not Verified)**
+
+
+
+## **(Not Verified)**
+
+| Website | Description |
+|--------|-------------|
+| [Series9Movies](https://series9movies.com/home) | Streaming TV shows and movies. *(Not checked)* |
+| [MoviePire](https://moviepire.net/explore-movies) | Explore popular and trending titles. *(Not checked)* |
+| [Mood2Movie](https://mood2movie.com/) | Web series and niche content. *(Not checked)* |
+| [WatchSeries](https://watchseries.bar/home) | Wide TV series selection. *(Not checked)* |
+
+---
+
 
 
 
