@@ -50,7 +50,8 @@
 > - 🎮 **[ONLINE GAMES](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/games.md)** - High-quality browser games updated daily  
 > - 👥 **[STREAMING-TOGETHER](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/streaming-together.md)** - Watch parties with friends remotely  
 > - ⚙️ **[DOWNLOADS-SOFTWARE](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/Software-downloads.md)** - Free PC/Android software downloads  
-> - 🖼️ **[WALLPAPERS-DOWNLOAD](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/wallpepars-download.md)** - HD/Ultra HD wallpapers for devices  
+> - 🖼️ **[WALLPAPERS-DOWNLOAD](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/wallpepars-download.md)** - HD/Ultra HD wallpapers for devices
+> - 🖼️ **[LIVE-TV](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/LIVE_TV.md)** - HD/Ultra HD wallpapers for devices  
 > - ━━━━━━━━━━━━━━━━━━━━━━  
 
 <br>
