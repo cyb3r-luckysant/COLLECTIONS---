@@ -63,5 +63,6 @@
 |--------|-------------|
 | [ThopTV APK](https://thoptv.io/) | APK for live TV, movies, and sports. |
 | [PikaShow APK](https://pikashow.su/download-thoptv/) | APK for live channels, movies, and shows. |
+| [CricFy TV](https://cricfy.org/) | APK for live IPL and TV channels, movies, and shows. |
 
 ---
