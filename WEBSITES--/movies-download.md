@@ -3,11 +3,11 @@
 </p>
 
 # 𝐁𝐞𝐬𝐭 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝𝐢𝐧𝐠 𝐰𝐞𝐛𝐬𝐢𝐭𝐞 𝐚𝐧𝐝 , 𝐈 𝐚𝐥𝐬𝐨 𝐮𝐬𝐞 𝐭𝐡𝐢𝐬 𝟔 𝐛𝐞𝐬𝐭 𝐰𝐞𝐛𝐬𝐢𝐭𝐞𝐬 𝐟𝐨𝐫 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐚𝐧𝐲 𝐦𝐨𝐯𝐢𝐞 𝐚𝐧𝐝 𝐰𝐞𝐛 𝐬𝐡𝐨𝐰𝐬 ..! 🌎💖
-[`VegaMovies`](https://vegamovies.phd/)
-[`HindiLinks4U`](https://hindilinks4u.express/)
-[`Hdhub4u`](https://hdhub4u.spa/)
+[`VegaMovies`](https://hdhub4u.sb/)
+[`HindiLinks4U`](https://mkvcinemas.men/)
+[`Hdhub4u`](https://bolly4u.study/)
 [`Full4Movies`](https://www.full4movies.food/)
-[`YUMovies`](https://Yupmovie.com)
+[`YUMovies`](https://mp4moviiez.com/)
 [`SSRMovies`](https://ssrmovies.wf/)
 
 
