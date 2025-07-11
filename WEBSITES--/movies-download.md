@@ -92,6 +92,7 @@
 <!--
 #### New link 
 1. https://zinkmovies.cfd/
+2. https://vegamoviese.wtf/
 -->
 <br>
 
