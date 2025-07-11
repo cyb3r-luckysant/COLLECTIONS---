@@ -90,40 +90,8 @@
 <br>
 
 <!--
-####  list of link 
-1. [VegaMovies](https://vegamovies.phd/)
-2. [MoviesPapa](https://www.moviespapa.london/)
-3. [HDHub4U](https://hdhub4u.tattoo/)
-4. [HDHub4U (Alternative)](https://hdhub4u.capetown/)
-5. [MoviesMod (Hollywood)](https://moviesmod.bid/movies/hollywood/)
-6. [VegaMovies (Alternative)](https://vegamovies.as/)
-7. [FilmyZilla](https://filmyzilla.olamovies.in/)
-8. [Bolly2Tolly](https://www.bolly2tolly.net/)
-9. [5MovieRulz](https://www.5movierulz.io/)
-10. [UHD-movies](https://uhdmovies.bet/)
-11. [TOP-movies](https://topmovies.bet/)
-12. [OfilmyZilla](https://www.ofilmyzilla.firm.in/)
-13. [4FilmyWap](https://www.4filmywap.com/)
-14. [MP4Moviez](https://www.mp4moviez.camera/)
-15. [KatMovie](https://katmovie.helpsarkari.com/choose-year.php)
-16. [2FilmyWap](https://www.2filmywap.net/)
-17. [LinksXYZ](https://linksxyz.com/)
-18. [Movies4U](https://movies4u.prof/)
-19. [UHDMovies](https://uhdmovies.boo/)
-20. [SSRMovies](https://ssrmovies.wf/)
-21. [MKVCinemas](https://mkvcinemas.how/)
-22. [Bolly4U](https://bolly4u.cab/)
-23. [MoviesMOD](https://themoviesmod.dev/)
-24. [Amovies4U](https://amovies4u.com/)
-25. [KATMoviesHD](https://wwv.katmoviehd.is/)
-26. [KatMovieHD](https://katmoviehd.nexus/)
-27. [YTS Official](https://yts-official.mx/)
-28. [Vega.CM](https://vegamovies.cm/)
-29. [YUMovies](https://Yupmovie.com)
-30. [HDHub](https://hdhub.sbs/)
-31. [YesHQ](https://yeshq.biz/)
-32. [Full4Movies](https://www.full4movies.food/)
-33. [HindiLinks4U](https://hindilinks4u.express/)
+#### New link 
+1. https://zinkmovies.cfd/
 -->
 <br>
 
