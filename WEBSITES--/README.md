@@ -51,7 +51,9 @@
 > - 👥 **[STREAMING-TOGETHER](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/streaming-together.md)** - Watch parties with friends remotely  
 > - ⚙️ **[DOWNLOADS-SOFTWARE](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/Software-downloads.md)** - Free PC/Android software downloads  
 > - 🖼️ **[WALLPAPERS-DOWNLOAD](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/wallpepars-download.md)** - HD/Ultra HD wallpapers for devices
-> - 📡 **[LIVE-TV](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/LIVE_TV.md)** - 📡 Live TV & Free Streaming Platforms 
+> - 📡 **[LIVE-TV](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/LIVE_TV.md)** - 📡 Live TV & Free Streaming Platforms
+> - 📥 **[DOWNLOADER](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/DOWNLOADER.md)** - 🔽 Download social media platform video
+> - 📝 **[FONT-STLYES_DESING](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/Font-stlye_desing.md)** - 🧰 Hindi Font & Fancy Text Tools Box
 > - ━━━━━━━━━━━━━━━━━━━━━━  
 
 <br>
