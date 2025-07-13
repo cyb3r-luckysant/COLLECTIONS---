@@ -54,7 +54,7 @@
 > - 📡 **[LIVE-TV](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/LIVE_TV.md)** - 📡 Live TV & Free Streaming Platforms
 > - 📥 **[DOWNLOADER](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/DOWNLOADER.md)** - 🔽 Download social media platform video
 > - 📝 **[FONT-STLYES_DESING](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/WEBSITES--/Font-stlye_desing.md)** - 🧰 Hindi Font & Fancy Text Tools Box
-> - 🕵🏻‍♂️ **[INSTA_OSINT](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/HACKING--/INSTA_OSINT.md)** - 🔐 
+> - 🕵🏻‍♂️ **[INSTA_OSINT](https://github.com/cyb3r-luckysant/COLLECTIONS---/blob/main/HACKING--/INSTA_OSINT.md)** - 🔐 A list of tools for Instagram OSINT (Open-Source Intelligence) investigations.
 > - ━━━━━━━━━━━━━━━━━━━━━━  
 
 <br>
