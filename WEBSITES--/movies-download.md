@@ -61,13 +61,13 @@
 
 ---
 
-## ❓ **Not Checked / Unverified**
+## ❓ **New links**
 
 | Website | Description |
 |--------|-------------|
-| [HDHub4u (IN)](https://www.hdhub4us.in/) | Regional mirror — needs verification. |
-| [UHDMovies (Space)](https://uhdmovies.space/) | Possibly new mirror of UHDMovies. |
-| [YTS Official (Unofficial)](https://yts-official.mx/) | Claimed YTS mirror — proceed with caution. |
+| [downloadhub4u](https://downloadhub4u.beer/) | Regional mirror — needs verification. |
+| [thedownloadhub](https://thedownloadhub.me/) | Possibly new mirror of UHDMovies. |
+| [desi-cinemas](https://desi-cinemas.tv/) | Claimed YTS mirror — proceed with caution. |
 
 ---
 
