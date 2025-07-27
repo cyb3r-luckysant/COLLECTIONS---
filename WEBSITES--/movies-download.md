@@ -59,6 +59,7 @@
 | [8FilmyWap](https://www.8filmywap.net/) | Lightweight site for Bollywood and South Indian films. |
 | [MP4Moviez](https://www.mp4moviez.blue/) | Focused on mobile-optimized MP4 formats. |
 | [KatMovie Help](https://katmovie.helpsarkari.com/) | Backup mirror of KatMovieHD with simple layout. |
+| [downloadhub4u](https://downloadhub4u.beer/) | Regional mirror — needs verification. |
 
 ---
 
@@ -69,6 +70,9 @@
 | [downloadhub4u](https://downloadhub4u.beer/) | Regional mirror — needs verification. |
 | [thedownloadhub](https://thedownloadhub.me/) | Possibly new mirror of UHDMovies. |
 | [desi-cinemas](https://desi-cinemas.tv/) | Claimed YTS mirror — proceed with caution. |
+| [zinkmovies](https://zinkmovies.cfd/) | Regional mirror — needs verification. |
+| [vegamoviese.wtf]( https://vegamoviese.wtf/) | Regional mirror — needs verification. |
+| [vegamovies-nl]( https://www.vegamovies-nl.quest/) | Possibly new mirror of UHDMovies. |
 
 ---
 
@@ -90,12 +94,6 @@
 ---
 <br>
 
-<!--
-#### New link 
-1. https://zinkmovies.cfd/
-2. https://vegamoviese.wtf/
-3. https://www.vegamovies-nl.quest/
--->
 <br>
 
 > **Note**: Always ensure you have the proper legal rights to download and use content. This list is not an endorsement of any illegal activity.
