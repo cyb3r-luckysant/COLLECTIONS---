@@ -9,6 +9,7 @@
 [`Full4Movies`](https://www.full4movies.food/)
 [`YUMovies`](https://mp4moviiez.com/)
 [`SSRMovies`](https://ssrmovies.wf/)
+[`DownloadHUB4u`](https://downloadhub4u.beer/)
 
 
 ---
