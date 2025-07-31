@@ -104,6 +104,11 @@
 
 ---
 
+## **📺 NEW Platforms**
+
+| Website | Description |
+|--------|-------------|
+| [online4u](https://online4u.net/) | Free Indian streaming of web series and TV content. |
 
 -->
 
