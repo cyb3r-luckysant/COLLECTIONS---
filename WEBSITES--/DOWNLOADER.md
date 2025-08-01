@@ -15,9 +15,15 @@ Minimal. Fast. Reliable. 🚀
 | 📥 [Y2Down](https://www.y2down.app/)           | Modern interface with reliable output         |
 | ⚡ [YT1s](https://yt1s.com.co/)                | Fast, multi-format downloader                 |
 | 🛠️ [Cobalt Tools](https://cobalt.tools/)       | All-in-one media tools with YT support        |
-| 🛠️ [Yout](https://yout.com/?lang=en)           | All-in-one media tools with YT support        |
+| ⚡ [Yout](https://yout.com/?lang=en)           | All-in-one media tools with YT support        |
 
 ---
+## 🎧 Spotify Music Downloader Tools
+
+| 🔧 **Tool Name** | 💬 **Description** |
+|------------------|--------------------|
+| [🎵 Spotimate](https://spotimate.io/) | Convert Spotify videos to MP3/MP4 easily |
+| [⚡ SpotiDownloader](https://spotidownloader.com/en) | Quick and clean downloading experience |
 
 ## ⚠️ Usage Disclaimer
 
