@@ -15,6 +15,7 @@ Minimal. Fast. Reliable. 🚀
 | 📥 [Y2Down](https://www.y2down.app/)           | Modern interface with reliable output         |
 | ⚡ [YT1s](https://yt1s.com.co/)                | Fast, multi-format downloader                 |
 | 🛠️ [Cobalt Tools](https://cobalt.tools/)       | All-in-one media tools with YT support        |
+| 🛠️ [Yout](https://yout.com/?lang=en)           | All-in-one media tools with YT support        |
 
 ---
 
