@@ -22,7 +22,7 @@ Minimal. Fast. Reliable. 🚀
 
 | 🔧 **Tool Name** | 💬 **Description** |
 |------------------|--------------------|
-| [🎵 Spotimate](https://spotimate.io/) | Convert Spotify videos to MP3/MP4 easily |
+| [🎵 Spotimate](https://spotimate.io/) | Convert Spotify videos to MP3 easily |
 | [⚡ SpotiDownloader](https://spotidownloader.com/en) | Quick and clean downloading experience |
 
 ## ⚠️ Usage Disclaimer
