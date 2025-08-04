@@ -16,4 +16,10 @@ Here are some links to download high-quality wallpapers. Please check each site 
 
 ---
 
+new 
+
+1 https://wallpics.app/
+
+2 https://wallpics.app/
+
 > **Note**: Ensure to follow the usage guidelines of each site for legal use and credits.
