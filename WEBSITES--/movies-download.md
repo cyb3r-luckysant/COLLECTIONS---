@@ -63,7 +63,7 @@
 
 ---
 
-## ❓ **New links**
+##  **New links**
 
 | Website | Description |
 |--------|-------------|
@@ -72,6 +72,7 @@
 | [desi-cinemas](https://desi-cinemas.tv/) | Claimed YTS mirror — proceed with caution. |
 | [zinkmovies](https://zinkmovies.cfd/) | Regional mirror — needs verification. |
 | [vegamoviese.wtf]( https://vegamoviese.wtf/) | Regional mirror — needs verification. |
+| [moviezguru](https://moviezguru.beer/) | Possibly new mirror of UHDMovies. |
 | [vegamovies-nl]( https://www.vegamovies-nl.quest/) | Possibly new mirror of UHDMovies. |
 
 ---
